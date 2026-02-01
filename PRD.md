@@ -190,3 +190,51 @@ Users select a country → see all gyms in that country rendered spatially, with
 | Map library | Mapbox GL JS |
 | Max gyms before clustering | Top 30 visible, more on zoom |
 | Logo fallback | Custom martial artist icon (to be supplied) |
+
+---
+
+## Future Considerations (v2+)
+
+Not in scope for v1, but documented here to inform current architecture.
+
+### Monetization: Gym Sponsorships
+
+Gyms pay to be featured — highlighted on map, priority placement, badge/styling.
+
+**What this needs:**
+- Advertiser accounts (gym owners sign up, manage listing)
+- Sponsored flag per gym
+- Payment processing (Stripe)
+- Admin dashboard for managing sponsors
+
+### Accounts Architecture
+
+| Layer | Storage | Notes |
+|-------|---------|-------|
+| Gym data | Static JSON | Stays as-is. Read-only, updated offline. |
+| User/advertiser data | Turso (libSQL) or Supabase | Added later. Small relational DB for accounts, preferences, sponsorship status. |
+
+SQLite won't work on Vercel (ephemeral filesystem). Turso gives SQLite semantics at the edge. Supabase includes auth out of the box.
+
+### Schema Prep
+
+Current gym JSON can accommodate sponsorships with minimal change:
+
+```json
+{
+  "id": "jp-tokyo-carpe-diem",
+  "name": "Carpe Diem BJJ",
+  "sponsored": true,
+  "sponsor_tier": "gold",
+  ...
+}
+```
+
+Alternatively, keep sponsored gyms in the DB and merge at build time — keeps static JSON clean, sponsored data managed via admin UI.
+
+### Decision (Deferred)
+
+- Static JSON + DB merge at build, or
+- Sponsored fields inline in JSON
+
+Lock this when sponsorships are implemented.
