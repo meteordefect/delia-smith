@@ -1,0 +1,14 @@
+{
+  "name": "bjj-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ingest": "node scripts/ingest.js",
+    "ingest:country": "node scripts/ingest.js --country",
+    "normalize": "node scripts/normalize.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

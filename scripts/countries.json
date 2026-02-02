@@ -1,0 +1,17 @@
+[
+  { "name": "Australia", "code": "AU" },
+  { "name": "Brazil", "code": "BR" },
+  { "name": "Canada", "code": "CA" },
+  { "name": "Germany", "code": "DE" },
+  { "name": "France", "code": "FR" },
+  { "name": "Japan", "code": "JP" },
+  { "name": "Mexico", "code": "MX" },
+  { "name": "Netherlands", "code": "NL" },
+  { "name": "Portugal", "code": "PT" },
+  { "name": "Spain", "code": "ES" },
+  { "name": "Sweden", "code": "SE" },
+  { "name": "Thailand", "code": "TH" },
+  { "name": "United Arab Emirates", "code": "AE" },
+  { "name": "United Kingdom", "code": "GB" },
+  { "name": "United States", "code": "US" }
+]

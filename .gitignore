@@ -36,3 +36,6 @@ next-env.d.ts
 
 # Testing
 coverage/
+
+# Raw ingestion data (regenerated via scripts)
+data/raw/

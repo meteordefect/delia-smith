@@ -11,23 +11,23 @@ Execution plan split by model type. Swap models cleanly between stages.
 
 ### B1 — Data Ingestion Script
 
-- [ ] Node.js script using Google Maps Places API
-- [ ] Query: `"Brazilian Jiu Jitsu gym in {country}"`
-- [ ] Extract per gym:
+ok - [x] Node.js script using Google Maps Places API
+- [x] Query: `"Brazilian Jiu Jitsu gym in {country}"`
+- [x] Extract per gym:
   - Name
   - Lat/Lng
   - Place ID
   - Website / Maps URL
   - Photo/logo (if available)
-- [ ] Output: Raw JSON dump per country
+- [x] Output: Raw JSON dump per country
 
 ### B2 — Data Normalization
 
-- [ ] Deduplicate gyms
-- [ ] Normalize naming conventions
-- [ ] Enforce schema validation
-- [ ] Download logos → `/public/logos/`
-- [ ] Generate final `/data/gyms/{country}.json`
+- [x] Deduplicate gyms
+- [x] Normalize naming conventions
+- [x] Enforce schema validation
+- [x] Download logos → `/public/logos/`
+- [x] Generate final `/data/gyms/{country}.json`
 
 ### B3 — Build Integration
 
