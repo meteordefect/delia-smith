@@ -1,0 +1,608 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "normalized_at": "2026-02-02T05:03:49.448Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJJd5PAjwTlkcR2F19dHdvVkY",
+      "name": "Matrix Jiu Jitsu Kaiserslautern",
+      "address": "Merkurstraße 2, 67663 Kaiserslautern, Germany",
+      "lat": 49.445054899999995,
+      "lng": 7.7322403,
+      "google_maps_url": "https://maps.google.com/?cid=5068360989498236376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.matrix-bjj.de/",
+      "logo": "/logos/ChIJJd5PAjwTlkcR2F19dHdvVkY.webp"
+    },
+    {
+      "place_id": "ChIJy4H6t7pPqEcR1RVq-4DCHBM",
+      "name": "DOJO Berlin",
+      "address": "Bergmannstraße 5, 10961 Berlin, Germany",
+      "lat": 52.489706899999995,
+      "lng": 13.388636499999999,
+      "google_maps_url": "https://maps.google.com/?cid=1377189445298165205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bjj.berlin/",
+      "logo": "/logos/ChIJy4H6t7pPqEcR1RVq-4DCHBM.webp"
+    },
+    {
+      "place_id": "ChIJy58jRmlQqEcRbzIIHnZ_t4E",
+      "name": "Akademie",
+      "address": "Hauptstraße 103, 10827 Berlin, Germany",
+      "lat": 52.4799552,
+      "lng": 13.346252499999999,
+      "google_maps_url": "https://maps.google.com/?cid=9347079696917475951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjberlin.de/",
+      "logo": "/logos/ChIJy58jRmlQqEcRbzIIHnZ_t4E.webp"
+    },
+    {
+      "place_id": "ChIJo8LoFSxOqEcR1yFdtQfkrWw",
+      "name": "Gracie Berlin | Brazilian Jiu-Jitsu Schule",
+      "address": "Lobeckstraße 36, 10969 Berlin, Germany",
+      "lat": 52.50400990000001,
+      "lng": 13.4078654,
+      "google_maps_url": "https://maps.google.com/?cid=7831166048825844183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.gracie-bjj-berlin.com/",
+      "logo": "/logos/ChIJo8LoFSxOqEcR1yFdtQfkrWw.webp"
+    },
+    {
+      "place_id": "ChIJD_7Bd8fNl0cR04DYpyr0_Mc",
+      "name": "Atos Brazilian Jiu Jitsu Mannheim",
+      "address": "S6 9, 68161 Mannheim, Germany",
+      "lat": 49.4886567,
+      "lng": 8.4736666,
+      "google_maps_url": "https://maps.google.com/?cid=14410661371720532179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bjj-mannheim-atos.de/",
+      "logo": "/logos/ChIJD_7Bd8fNl0cR04DYpyr0_Mc.webp"
+    },
+    {
+      "place_id": "ChIJZ0wHid11nkcRVxsS_JFSTd4",
+      "name": "Brazilian Jiu Jitsu",
+      "address": "Hiltenspergerstraße 9, 80798 München, Germany",
+      "lat": 48.1560115,
+      "lng": 11.565566299999999,
+      "google_maps_url": "https://maps.google.com/?cid=16018550236579502935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://hutton-academy.com/",
+      "logo": "/logos/ChIJZ0wHid11nkcRVxsS_JFSTd4.webp"
+    },
+    {
+      "place_id": "ChIJVzUaFCxOqEcRUzFtGuvFePI",
+      "name": "Fenriz Gym",
+      "address": "Lobeckstraße 36, 10969 Berlin, Germany",
+      "lat": 52.5037617,
+      "lng": 13.4077196,
+      "google_maps_url": "https://maps.google.com/?cid=17471932367935189331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.fenriz-gym.com/",
+      "logo": "/logos/ChIJVzUaFCxOqEcRUzFtGuvFePI.webp"
+    },
+    {
+      "place_id": "ChIJ__9vJthQqEcRZS1uIQ7YkHE",
+      "name": "HOLY GROUND SQUAD - Brazilian Jiu-Jitsu Team",
+      "address": "Kaiserdamm 113, 14057 Berlin, Germany",
+      "lat": 52.5104419,
+      "lng": 13.293787,
+      "google_maps_url": "https://maps.google.com/?cid=8183278078134201701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.bjjinberlin.de/",
+      "logo": "/logos/ChIJ__9vJthQqEcRZS1uIQ7YkHE.webp"
+    },
+    {
+      "place_id": "ChIJMTWg2c5PqEcRmJNiV5gPIq4",
+      "name": "Fightzone Checkmat Berlin",
+      "address": "Marktstraße 6, 10317 Berlin, Germany",
+      "lat": 52.503777199999995,
+      "lng": 13.4729811,
+      "google_maps_url": "https://maps.google.com/?cid=12547608658783146904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.fightzone-berlin.de/",
+      "logo": "/logos/ChIJMTWg2c5PqEcRmJNiV5gPIq4.webp"
+    },
+    {
+      "place_id": "ChIJl5a0_uFTqEcRomn4qyYOe5k",
+      "name": "Hilti BJJ Berlin",
+      "address": "Oudenarder Str. 16, 13347 Berlin, Germany",
+      "lat": 52.5533157,
+      "lng": 13.360571199999999,
+      "google_maps_url": "https://maps.google.com/?cid=11059448869195114914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.hiltibjj.de/",
+      "logo": "/logos/ChIJl5a0_uFTqEcRomn4qyYOe5k.webp"
+    },
+    {
+      "place_id": "ChIJB6a7XPYPvUcRkp_GO3-PNZM",
+      "name": "KINGDOM HQ",
+      "address": "Grüneburgweg 12, 60322 Frankfurt am Main, Germany",
+      "lat": 50.1210811,
+      "lng": 8.6741102,
+      "google_maps_url": "https://maps.google.com/?cid=10607542273967562642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.kingdomhq.de/",
+      "logo": "/logos/ChIJB6a7XPYPvUcRkp_GO3-PNZM.webp"
+    },
+    {
+      "place_id": "ChIJCYPKx2XfnUcRNQyLVOG-Veg",
+      "name": "Pound for Pound Gym - BJJ Munich",
+      "address": "Boschetsrieder Str. 60, 81379 München, Germany",
+      "lat": 48.100109499999995,
+      "lng": 11.530871,
+      "google_maps_url": "https://maps.google.com/?cid=16741497064815004725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjmuenchen.com/",
+      "logo": "/logos/ChIJCYPKx2XfnUcRNQyLVOG-Veg.webp"
+    },
+    {
+      "place_id": "ChIJ209aeNXYnUcRlaK1gRaFsDQ",
+      "name": "Sanefighting / BJJ, MMA Munich",
+      "address": "Boschetsrieder Str. 69, 81379 München, Germany",
+      "lat": 48.099562899999995,
+      "lng": 11.530218,
+      "google_maps_url": "https://maps.google.com/?cid=3796680817585267349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://sanefighting.de/",
+      "logo": "/logos/ChIJ209aeNXYnUcRlaK1gRaFsDQ.webp"
+    },
+    {
+      "place_id": "ChIJrcLR_DXfnUcRyUJm4JBi6yg",
+      "name": "Munich MMA",
+      "address": "Leopoldstraße 19, 80802 München, Germany",
+      "lat": 48.1571965,
+      "lng": 11.583787899999999,
+      "google_maps_url": "https://maps.google.com/?cid=2948558755423732425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.munich-mma.de/",
+      "logo": "/logos/ChIJrcLR_DXfnUcRyUJm4JBi6yg.webp"
+    },
+    {
+      "place_id": "ChIJMS79Q92zuEcRCZknJ-BqEZY",
+      "name": "GRAPPLING-DYNAMIK | Brazilian Jiu Jitsu & No-Gi Grappling",
+      "address": "Wiesenstraße 72, 40549 Düsseldorf, Germany",
+      "lat": 51.2266031,
+      "lng": 6.7074896,
+      "google_maps_url": "https://maps.google.com/?cid=10813541691255396617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.grappling-dynamik.com/",
+      "logo": "/logos/ChIJMS79Q92zuEcRCZknJ-BqEZY.webp"
+    },
+    {
+      "place_id": "ChIJ57gQW6-OsUcRFl6cjb3bg_s",
+      "name": "Nexus Fighter Academy",
+      "address": "Hammer Steindamm 62, 20535 Hamburg, Germany",
+      "lat": 53.5644795,
+      "lng": 10.056692199999999,
+      "google_maps_url": "https://maps.google.com/?cid=18123570932640144918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.nexusfa.com/",
+      "logo": "/logos/ChIJ57gQW6-OsUcRFl6cjb3bg_s.webp"
+    },
+    {
+      "place_id": "ChIJiQGtnHkOvUcR56_oCTDULKk",
+      "name": "Alliance Jiu-Jitsu Frankfurt/Offenbach",
+      "address": "Goethering 54, 63067 Offenbach am Main, Germany",
+      "lat": 50.109740599999995,
+      "lng": 8.741596699999999,
+      "google_maps_url": "https://maps.google.com/?cid=12190351594174853095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.alliance-frankfurt.de/",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJnYYmvB3Bn0cReYduLLqFmzE",
+      "name": "Elements Jiu Jitsu",
+      "address": "D.-Martin-Luther-Straße 14, 93047 Regensburg, Germany",
+      "lat": 49.0151317,
+      "lng": 12.1012972,
+      "google_maps_url": "https://maps.google.com/?cid=3574597763904472953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.elementsjiujitsu.de/",
+      "logo": "/logos/ChIJnYYmvB3Bn0cReYduLLqFmzE.webp"
+    },
+    {
+      "place_id": "ChIJRVEYqKTPCUcRv1DAzhSkoa8",
+      "name": "Virtus Jiu-Jitsu",
+      "address": "Berliner Str. 9, 01067 Dresden, Germany",
+      "lat": 51.0543924,
+      "lng": 13.7173705,
+      "google_maps_url": "https://maps.google.com/?cid=12655576837162815679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://virtus-bjj.de/",
+      "logo": "/logos/ChIJRVEYqKTPCUcRv1DAzhSkoa8.webp"
+    },
+    {
+      "place_id": "ChIJDwSZPgDfnUcRd9ep98LDSJw",
+      "name": "Akxe BJJ Germany",
+      "address": "Chiemgaustraße 148, 81549 München, Germany",
+      "lat": 48.1084368,
+      "lng": 11.604884100000001,
+      "google_maps_url": "https://maps.google.com/?cid=11261466110386100087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://akxe.de/",
+      "logo": "/logos/ChIJDwSZPgDfnUcRd9ep98LDSJw.webp"
+    },
+    {
+      "place_id": "ChIJ5_yeVGIOvUcRI-9bAh3Ij0Q",
+      "name": "MMA Spirit | Home of Champions",
+      "address": "Hanauer Landstraße 291 | 1. OG, 60314 Frankfurt am Main, Germany",
+      "lat": 50.1165251,
+      "lng": 8.7260087,
+      "google_maps_url": "https://maps.google.com/?cid=4940387343167909667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://mmaspirit.tv/",
+      "logo": "/logos/ChIJ5_yeVGIOvUcRI-9bAh3Ij0Q.webp"
+    },
+    {
+      "place_id": "ChIJJ_id0S_KuEcRAHDZPVFady4",
+      "name": "Chimp Gym",
+      "address": "Klosterstraße 120, 40211 Düsseldorf, Germany",
+      "lat": 51.224087499999996,
+      "lng": 6.7925838,
+      "google_maps_url": "https://maps.google.com/?cid=3348244152949764096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.chimpgym.de/",
+      "logo": "/logos/ChIJJ_id0S_KuEcRAHDZPVFady4.webp"
+    },
+    {
+      "place_id": "ChIJVVXx0VDql0cR9LFOF4kDwnQ",
+      "name": "Heidelberg",
+      "address": "Mühltalstraße 38, 69121 Heidelberg, Germany",
+      "lat": 49.4297609,
+      "lng": 8.687805599999999,
+      "google_maps_url": "https://maps.google.com/?cid=8413290941217944052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bjjheidelberg.de/",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJH-MbY9ffnUcRjQeZf3lnld4",
+      "name": "Apis Martial Arts in München Giesing : Brazilian Jiu Jitsu (BJJ)｜NoGi in Munich",
+      "address": "Schlierseestraße 33, 81539 München, Germany",
+      "lat": 48.1146399,
+      "lng": 11.5929313,
+      "google_maps_url": "https://maps.google.com/?cid=16038839419479328653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.apis-martial-arts.com/",
+      "logo": "/logos/ChIJH-MbY9ffnUcRjQeZf3lnld4.webp"
+    },
+    {
+      "place_id": "ChIJfes21ybMl0cR80luI86SJoQ",
+      "name": "Mannheim",
+      "address": "Joseph-Meyer-Straße 7, 68167 Mannheim, Germany",
+      "lat": 49.4984928,
+      "lng": 8.4985783,
+      "google_maps_url": "https://maps.google.com/?cid=9522459876176841203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.sds-academy.de/",
+      "logo": "/logos/ChIJfes21ybMl0cR80luI86SJoQ.webp"
+    },
+    {
+      "place_id": "ChIJE4suyUDymUcRNxEovJQ0s7I",
+      "name": "German Top Team Kampfsportschule Reutlingen",
+      "address": "Am Heilbrunnen 50, 72766 Reutlingen, Germany",
+      "lat": 48.503846499999995,
+      "lng": 9.2168335,
+      "google_maps_url": "https://maps.google.com/?cid=12876693572998926647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://germantopteam.de/kampfsportschule/reutlingen/",
+      "logo": "/logos/ChIJE4suyUDymUcRNxEovJQ0s7I.webp"
+    },
+    {
+      "place_id": "ChIJb9j4VN87v0cRnSRHb3znevk",
+      "name": "CAGE MMA COLOGNE BRAUNSFELD",
+      "address": "Stolberger Str. 370, 50933 Köln, Germany",
+      "lat": 50.9434432,
+      "lng": 6.8863161999999996,
+      "google_maps_url": "https://maps.google.com/?cid=17976935384231650461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.cage-mma.de/",
+      "logo": "/logos/ChIJb9j4VN87v0cRnSRHb3znevk.webp"
+    },
+    {
+      "place_id": "ChIJv_0TvwdXqEcR7tmSUKnF5LM",
+      "name": "10th Planet Jiu Jitsu Berlin",
+      "address": "Cautiusstraße 42, 13587 Berlin, Germany",
+      "lat": 52.5619744,
+      "lng": 13.2059967,
+      "google_maps_url": "https://maps.google.com/?cid=12962702958471076334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.10thplanetberlin.de/",
+      "logo": "/logos/ChIJv_0TvwdXqEcR7tmSUKnF5LM.webp"
+    },
+    {
+      "place_id": "ChIJEeY1oyK_uEcRMyObFrWqGLI",
+      "name": "Strike Gym Duisburg MMA - Kickboxen -",
+      "address": "Kaiserstraße 59, 47229 Duisburg, Germany",
+      "lat": 51.3921864,
+      "lng": 6.7073469999999995,
+      "google_maps_url": "https://maps.google.com/?cid=12833194832937296691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.strike-gym.de/",
+      "logo": "/logos/ChIJEeY1oyK_uEcRMyObFrWqGLI.webp"
+    },
+    {
+      "place_id": "ChIJ8UiLXf4NvUcRCW3R2JkQ3dE",
+      "name": "Pyranha MMA Offenbach - Frankfurt",
+      "address": "Christian-Pleß-Straße 11-13, 63069 Offenbach am Main, Germany",
+      "lat": 50.098422199999995,
+      "lng": 8.7643832,
+      "google_maps_url": "https://maps.google.com/?cid=15122261376733637897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.pyranha-mma.de/",
+      "logo": "/logos/ChIJ8UiLXf4NvUcRCW3R2JkQ3dE.webp"
+    },
+    {
+      "place_id": "ChIJI6HS1P52nkcRHMiXgFTQy1M",
+      "name": "Jiu-Jitsu München 1984 e.V.",
+      "address": "Feldmochinger Str. 42, 80993 München, Germany",
+      "lat": 48.1831903,
+      "lng": 11.521301699999999,
+      "google_maps_url": "https://maps.google.com/?cid=6038148786773542940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://jjm.de/",
+      "logo": "/logos/ChIJI6HS1P52nkcRHMiXgFTQy1M.webp"
+    },
+    {
+      "place_id": "ChIJia4e-zfKuEcRl9gkxChBz6A",
+      "name": "Caveirinha Jiu-Jitsu Family Düsseldorf",
+      "address": "Ackerstraße 82, 40233 Düsseldorf, Germany",
+      "lat": 51.2273028,
+      "lng": 6.800611099999999,
+      "google_maps_url": "https://maps.google.com/?cid=11587552009592821911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://cjjfduesseldorf.de/",
+      "logo": "/logos/ChIJia4e-zfKuEcRl9gkxChBz6A.webp"
+    },
+    {
+      "place_id": "ChIJ3a1kl5xRqEcR4wtj-xRVZbE",
+      "name": "Corpus Dicio Gym",
+      "address": "Kaiserdamm 109, 14057 Berlin, Germany",
+      "lat": 52.51029090000001,
+      "lng": 13.2921392,
+      "google_maps_url": "https://maps.google.com/?cid=12782716665966300131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.corpus-dicio.com/",
+      "logo": "/logos/ChIJ3a1kl5xRqEcR4wtj-xRVZbE.webp"
+    },
+    {
+      "place_id": "ChIJYQ77c6aXvUcRqrnb3MebLQ8",
+      "name": "Fusion",
+      "address": "Wallaustraße 31, 55118 Mainz, Germany",
+      "lat": 50.010189,
+      "lng": 8.261059699999999,
+      "google_maps_url": "https://maps.google.com/?cid=1093701567227083178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://fusionbjj.de/",
+      "logo": "/logos/ChIJYQ77c6aXvUcRqrnb3MebLQ8.webp"
+    },
+    {
+      "place_id": "ChIJwxXygXDhmUcR5wJE7YQmpyQ",
+      "name": "Oni MMA Böblingen",
+      "address": "Königsberger Str. 16, 71034 Böblingen, Germany",
+      "lat": 48.682423799999995,
+      "lng": 9.001816,
+      "google_maps_url": "https://maps.google.com/?cid=2641122058834281191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://oniböblingen.de/",
+      "logo": "/logos/ChIJwxXygXDhmUcR5wJE7YQmpyQ.webp"
+    },
+    {
+      "place_id": "ChIJ34pDarsHl0cRKvg7tdBDnIM",
+      "name": "Karlsruhe TeamXtreme e.V",
+      "address": "Steinstraße 19, 76133 Karlsruhe, Germany",
+      "lat": 49.006886099999996,
+      "lng": 8.407799899999999,
+      "google_maps_url": "https://maps.google.com/?cid=9483529479008286762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjj-karlsruhe.de/",
+      "logo": "/logos/ChIJ34pDarsHl0cRKvg7tdBDnIM.webp"
+    },
+    {
+      "place_id": "ChIJocjMv5bamUcRgJLWEvZxrDA",
+      "name": "Stallion Gym",
+      "address": "Wernerstraße 119, 70435 Stuttgart, Germany",
+      "lat": 48.8248415,
+      "lng": 9.1686521,
+      "google_maps_url": "https://maps.google.com/?cid=3507303511506719360&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.stallion-gym.de/",
+      "logo": "/logos/ChIJocjMv5bamUcRgJLWEvZxrDA.webp"
+    },
+    {
+      "place_id": "ChIJ8avLFGtXn0cRJWnODBVAwMI",
+      "name": "Dream Art Jiu-Jitsu Nürnberg",
+      "address": "Willy-Brandt-Platz 4, 90402 Nürnberg, Germany",
+      "lat": 49.4484224,
+      "lng": 11.0856532,
+      "google_maps_url": "https://maps.google.com/?cid=14033286898039810341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.dreamartbjj.de/",
+      "logo": "/logos/ChIJ8avLFGtXn0cRJWnODBVAwMI.webp"
+    },
+    {
+      "place_id": "ChIJZwt1ObqinkcR6r5EkgMM02Y",
+      "name": "Ultimate Gym",
+      "address": "Gögginger Str. 91, 86199 Augsburg, Germany",
+      "lat": 48.352416899999994,
+      "lng": 10.881294200000001,
+      "google_maps_url": "https://maps.google.com/?cid=7409279021433011946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.ultimategym.de/",
+      "logo": "/logos/ChIJZwt1ObqinkcR6r5EkgMM02Y.webp"
+    },
+    {
+      "place_id": "ChIJxc3PpzdQqEcRaLRm91eVtOM",
+      "name": "Spitfire Gym",
+      "address": "Müllerstraße 46, Eingang, Ungarnstraße 1.OG, 13349 Berlin, Germany",
+      "lat": 52.5521111,
+      "lng": 13.350658399999999,
+      "google_maps_url": "https://maps.google.com/?cid=16407903547462956136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.spitfire.berlin/",
+      "logo": "/logos/ChIJxc3PpzdQqEcRaLRm91eVtOM.webp"
+    },
+    {
+      "place_id": "ChIJOebnXzOPsUcR8OZfp5tcub0",
+      "name": "Gracie Barra Sternschanze",
+      "address": "Schulterblatt 122f, 20357 Hamburg, Germany",
+      "lat": 53.5650669,
+      "lng": 9.9595699,
+      "google_maps_url": "https://maps.google.com/?cid=13671059967457617648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.gbsternschanze.com/?ref=gmb",
+      "logo": "/logos/ChIJOebnXzOPsUcR8OZfp5tcub0.webp"
+    },
+    {
+      "place_id": "ChIJVU_njNslv0cR0gcWwwmS_xc",
+      "name": "Nova Academy Cologne",
+      "address": "Moselstraße 60, 50674 Köln, Germany",
+      "lat": 50.9277847,
+      "lng": 6.9379918,
+      "google_maps_url": "https://maps.google.com/?cid=1729261352558921682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bjjcologne.com/",
+      "logo": "/logos/ChIJVU_njNslv0cR0gcWwwmS_xc.webp"
+    },
+    {
+      "place_id": "ChIJP06dD6uinkcRfrcGpa8TnX4",
+      "name": "LIVING SPORTS ACADEMY",
+      "address": "Alter Postweg 97a, 86159 Augsburg, Germany",
+      "lat": 48.3393674,
+      "lng": 10.900167999999999,
+      "google_maps_url": "https://maps.google.com/?cid=9123470065231378302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.living.training/",
+      "logo": "/logos/ChIJP06dD6uinkcRfrcGpa8TnX4.webp"
+    },
+    {
+      "place_id": "ChIJmxGfOXwJvUcRBfaFl4mZGRM",
+      "name": "VIBES UG (haftungsbeschränkt) | VIBES Brazilian Jiu-Jitsu Lifestyle",
+      "address": "Zimmersmühlenweg 14-18, 61440 Oberursel (Taunus), Germany",
+      "lat": 50.1917651,
+      "lng": 8.590332199999999,
+      "google_maps_url": "https://maps.google.com/?cid=1376299977370105349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.vibesbjj.de/",
+      "logo": "/logos/ChIJmxGfOXwJvUcRBfaFl4mZGRM.webp"
+    },
+    {
+      "place_id": "ChIJOyQkb_iHsUcRul_cBe3rBko",
+      "name": "IPA BJJ Hamburg - Inside Position Academy",
+      "address": "Warnstedtstraße 12b, 22525 Hamburg, Germany",
+      "lat": 53.583079999999995,
+      "lng": 9.93095,
+      "google_maps_url": "https://maps.google.com/?cid=5334210211905036218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.ipabjj.de/",
+      "logo": "/logos/ChIJOyQkb_iHsUcRul_cBe3rBko.webp"
+    },
+    {
+      "place_id": "ChIJfTKc3_NOqEcRXluB-uLjMJM",
+      "name": "Ringside Gym - Muay Thai / MMA / BJJ / BOXEN / ESKRIMA",
+      "address": "Herzbergstraße 87-99, Siegfriedstraße 65, 10365 Berlin, Germany",
+      "lat": 52.527019599999996,
+      "lng": 13.500477499999999,
+      "google_maps_url": "https://maps.google.com/?cid=10606227686462413662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.ringsidegym.de/",
+      "logo": "/logos/ChIJfTKc3_NOqEcRXluB-uLjMJM.webp"
+    },
+    {
+      "place_id": "ChIJN41IH_t3nkcROdIT03mKtzg",
+      "name": "Europe & UFU",
+      "address": "Verdistraße 58, 81247 München, Germany",
+      "lat": 48.1648569,
+      "lng": 11.474045,
+      "google_maps_url": "https://maps.google.com/?cid=4086887442698981945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.bjjeurope.com/",
+      "logo": "/logos/ChIJN41IH_t3nkcROdIT03mKtzg.webp"
+    },
+    {
+      "place_id": "ChIJc8KywV35pkcR7HBBl3496YM",
+      "name": "German Top Team Leipzig - Samurai Fight Team",
+      "address": "Prager Str. 60, 04317 Leipzig, Germany",
+      "lat": 51.3284364,
+      "lng": 12.3989929,
+      "google_maps_url": "https://maps.google.com/?cid=9505196102454964460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.samurai-fight-team.de/",
+      "logo": "/logos/ChIJc8KywV35pkcR7HBBl3496YM.webp"
+    },
+    {
+      "place_id": "ChIJkaynXT_bl0cRHC-XtINVsR0",
+      "name": "Combate Academy Kampfsportzentrum",
+      "address": "Grundelbachstraße 112a, 69469 Weinheim, Germany",
+      "lat": 49.552592700000005,
+      "lng": 8.6763699,
+      "google_maps_url": "https://maps.google.com/?cid=2139585322136579868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.combate-academy.de/",
+      "logo": "/logos/ChIJkaynXT_bl0cRHC-XtINVsR0.webp"
+    },
+    {
+      "place_id": "ChIJDUALeUbguEcRPQO2nE9fte4",
+      "name": "Kamikaze BJJ Germany",
+      "address": "Hermannshöhe 7B, 44789 Bochum, Germany",
+      "lat": 51.476443499999995,
+      "lng": 7.219655299999999,
+      "google_maps_url": "https://maps.google.com/?cid=17200759147347706685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.kamikaze-bjj.de/",
+      "logo": "/logos/ChIJDUALeUbguEcRPQO2nE9fte4.webp"
+    },
+    {
+      "place_id": "ChIJGRwBIr_hnUcReS3d8A7HKas",
+      "name": "Akxe Germany Trudering",
+      "address": "Usambarastraße 10, 81827 München, Germany",
+      "lat": 48.112173399999996,
+      "lng": 11.7034764,
+      "google_maps_url": "https://maps.google.com/?cid=12333607921515310457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.easy-jitsu.de/",
+      "logo": "/logos/ChIJGRwBIr_hnUcReS3d8A7HKas.webp"
+    },
+    {
+      "place_id": "ChIJS5VIT-HJuEcRi4wqi0jKJwo",
+      "name": "Düsseldorf",
+      "address": "Wallstraße 1, 40878 Ratingen, Germany",
+      "lat": 51.2981165,
+      "lng": 6.8532993,
+      "google_maps_url": "https://maps.google.com/?cid=731775877392272523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://sportschuleasia.de/kurse/brazilian-jiu-jitsu/",
+      "logo": "/logos/ChIJS5VIT-HJuEcRi4wqi0jKJwo.webp"
+    },
+    {
+      "place_id": "ChIJVVXxRpXAl0cRJYGhLwOuRsQ",
+      "name": "Team-Choco-Heidelberg",
+      "address": "Im Bosseldorn 9, 69126 Heidelberg, Germany",
+      "lat": 49.3847175,
+      "lng": 8.6798436,
+      "google_maps_url": "https://maps.google.com/?cid=14143183008510869797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://chocohd.com/",
+      "logo": "/logos/ChIJVVXxRpXAl0cRJYGhLwOuRsQ.webp"
+    },
+    {
+      "place_id": "ChIJA5_QdAFPqEcR92og4AO1p10",
+      "name": "Gracie Jiu-Jitsu Team Berlin",
+      "address": "Paul-Junius-Straße 69, 10369 Berlin, Germany",
+      "lat": 52.5272003,
+      "lng": 13.477424899999999,
+      "google_maps_url": "https://maps.google.com/?cid=6748561594887727863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://gjj-team-berlin.de/",
+      "logo": "/logos/ChIJA5_QdAFPqEcR92og4AO1p10.webp"
+    },
+    {
+      "place_id": "ChIJh1KgzXllmUcRANd8DZPv8LA",
+      "name": "89 MMA",
+      "address": "Im Starkfeld 14, 89231 Neu-Ulm, Germany",
+      "lat": 48.39366,
+      "lng": 10.012760799999999,
+      "google_maps_url": "https://maps.google.com/?cid=12749953959951390464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.89mma.de/",
+      "logo": "/logos/ChIJh1KgzXllmUcRANd8DZPv8LA.webp"
+    },
+    {
+      "place_id": "ChIJtXhe2WCPsUcRORF2FzqoBpY",
+      "name": "Tensho - Brazilian Jiu-Jitsu & Thai boxing",
+      "address": "Stresemannstraße 52, 22769 Hamburg, Germany",
+      "lat": 53.5596689,
+      "lng": 9.9602233,
+      "google_maps_url": "https://maps.google.com/?cid=10810512923004637497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.tensho.de/",
+      "logo": "/logos/ChIJtXhe2WCPsUcRORF2FzqoBpY.webp"
+    },
+    {
+      "place_id": "ChIJf15ggaTNl0cRSBaz3V92bck",
+      "name": "Serenity Jiu Jitsu",
+      "address": "N7 8, 68161 Mannheim, Germany",
+      "lat": 49.4839821,
+      "lng": 8.4727371,
+      "google_maps_url": "https://maps.google.com/?cid=14514387328198448712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://serenityjiujitsu.de/",
+      "logo": "/logos/ChIJf15ggaTNl0cRSBaz3V92bck.webp"
+    },
+    {
+      "place_id": "ChIJvTnQP51Xn0cRxmHBQ7wfeis",
+      "name": "What's Up BJJ Nürnberg",
+      "address": "Waldluststraße 125a, 90480 Nürnberg, Germany",
+      "lat": 49.4424719,
+      "lng": 11.123805899999999,
+      "google_maps_url": "https://maps.google.com/?cid=3132851384240660934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.whatsupbjj.com/",
+      "logo": "/logos/ChIJvTnQP51Xn0cRxmHBQ7wfeis.webp"
+    },
+    {
+      "place_id": "ChIJ7WekOTklv0cRqL-GmO8ghCc",
+      "name": "Helios Project - Brazilian Jiu-Jitsu Cologne Ehrenfeld",
+      "address": "Bei Yizong Bagua im Hinterhof, Heliosstraße 6A, 50825 Köln, Germany",
+      "lat": 50.950523,
+      "lng": 6.912661,
+      "google_maps_url": "https://maps.google.com/?cid=2847437077833236392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.heliosproject.de/",
+      "logo": "/logos/ChIJ7WekOTklv0cRqL-GmO8ghCc.webp"
+    },
+    {
+      "place_id": "ChIJc2fChhUBmkcRF54RgRLDrm4",
+      "name": "Planet Eater",
+      "address": "Rosenfelder Str. 3, 72336 Balingen, Germany",
+      "lat": 48.280898,
+      "lng": 8.8495708,
+      "google_maps_url": "https://maps.google.com/?cid=7975526474361970199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://planet-eater.de/",
+      "logo": "/logos/ChIJc2fChhUBmkcRF54RgRLDrm4.webp"
+    }
+  ]
+}

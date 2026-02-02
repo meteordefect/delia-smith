@@ -1,0 +1,608 @@
+{
+  "country": "Mexico",
+  "country_code": "MX",
+  "normalized_at": "2026-02-02T05:08:05.644Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJ7ejivsz_0YUROmwtZ9M-15o",
+      "name": "Zenith BJJ México",
+      "address": "Calz. de Tlalpan 726-102, Moderna, Benito Juárez, 03510 Ciudad de México, CDMX, Mexico",
+      "lat": 19.3926397,
+      "lng": -99.1376163,
+      "google_maps_url": "https://maps.google.com/?cid=11157455679523744826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/zenith.bjj.mexico/?hl=es",
+      "logo": "/logos/ChIJ7ejivsz_0YUROmwtZ9M-15o.webp"
+    },
+    {
+      "place_id": "ChIJAQCMgfv_0YURBH6bXEAqczo",
+      "name": "DDR Jiu Jitsu Mexico",
+      "address": "Cuauhtémoc 152, Tizapán San Ángel, Progreso Tizapán, Álvaro Obregón, 01090 Ciudad de México, CDMX, Mexico",
+      "lat": 19.3377797,
+      "lng": -99.20061799999999,
+      "google_maps_url": "https://maps.google.com/?cid=4211756532441513476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJAQCMgfv_0YURBH6bXEAqczo.webp"
+    },
+    {
+      "place_id": "ChIJAeKdg3bZ7IURqBNGBTKI3Zo",
+      "name": "MR Brazilian Jiu-jitsu Academy México CHIAPAS",
+      "address": "15 Sur Oriente 366, entre 2a. y 3a. Oriente, San Francisco, 29066 Tuxtla Gutiérrez, Chis., Mexico",
+      "lat": 16.7407569,
+      "lng": -93.1157581,
+      "google_maps_url": "https://maps.google.com/?cid=11159225200112178088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/MRBJJMexico/",
+      "logo": "/logos/ChIJAeKdg3bZ7IURqBNGBTKI3Zo.webp"
+    },
+    {
+      "place_id": "ChIJd1NbMxX_0YUR2J1eystYnmE",
+      "name": "Academia Top Brother Mexico",
+      "address": "Campeche 246, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico",
+      "lat": 19.408624,
+      "lng": -99.16906399999999,
+      "google_maps_url": "https://maps.google.com/?cid=7034157300296097240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJd1NbMxX_0YUR2J1eystYnmE.webp"
+    },
+    {
+      "place_id": "ChIJ_____6rWT48RKtY_xZg0AQw",
+      "name": "Jiujitsu Tulum Mexico",
+      "address": "CALLE PINO SUAREZ, segunda planta asian bodega, C. Tulum ESQUINA, La Veleta, 77760 Tulum, Q.R., Mexico",
+      "lat": 20.206056699999998,
+      "lng": -87.478385,
+      "google_maps_url": "https://maps.google.com/?cid=865030434180814378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/jiujitsutulummexico?igsh=MTRkbTQyYjB2bHg2Zw==",
+      "logo": "/logos/ChIJ_____6rWT48RKtY_xZg0AQw.webp"
+    },
+    {
+      "place_id": "ChIJ1ZI3_yb_0YURbnY962FIHQ4",
+      "name": "Atlas Grappling Mexico",
+      "address": "Xola 1113, Narvarte Poniente, Benito Juárez, 03020 Ciudad de México, CDMX, Mexico",
+      "lat": 19.3958647,
+      "lng": -99.1577535,
+      "google_maps_url": "https://maps.google.com/?cid=1017048676251301486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.atlasgrpmexico.com/",
+      "logo": "/logos/ChIJ1ZI3_yb_0YURbnY962FIHQ4.webp"
+    },
+    {
+      "place_id": "ChIJV2RFID4B0oURYFLUfGDrjWo",
+      "name": "Valente Brothers Jiu-Jitsu Mexico Study Group",
+      "address": "Plaza Parque interlomas, Av. Jesús del Monte 41-Piso 2, Hacienda de las Palmas, 52763 Huixquilucan de Degollado, Méx., Mexico",
+      "lat": 19.3959551,
+      "lng": -99.2883241,
+      "google_maps_url": "https://maps.google.com/?cid=7678051739380240992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJV2RFID4B0oURYFLUfGDrjWo.webp"
+    },
+    {
+      "place_id": "ChIJ36BSHZVFIYQR4-oPIIULdoA",
+      "name": "Bahia Jiu Jitsu Pv",
+      "address": "Oceano atlantico, Océano Atlántico 123, Palmar de Aramara, 48315 Puerto Vallarta, Jal., Mexico",
+      "lat": 20.6544571,
+      "lng": -105.2334637,
+      "google_maps_url": "https://maps.google.com/?cid=9256598750503103203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.instagram.com/bahiajiujitsupv",
+      "logo": "/logos/ChIJ36BSHZVFIYQR4-oPIIULdoA.webp"
+    },
+    {
+      "place_id": "ChIJ1dziB1GtKIQRcLi8-EmA_PE",
+      "name": "LUISÃO CACHAZA JIU-JITSU ACADEMY MÉXICO",
+      "address": "Av de la Libertad 743, Tepeyac Casino, Prados Tepeyac, 45047 Zapopan, Jal., Mexico",
+      "lat": 20.659422499999998,
+      "lng": -103.4137234,
+      "google_maps_url": "https://maps.google.com/?cid=17436952912465803376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.zonakumite.com.mx/",
+      "logo": "/logos/ChIJ1dziB1GtKIQRcLi8-EmA_PE.webp"
+    },
+    {
+      "place_id": "ChIJzzDSWlgXIYQRtTXjXFiwwmE",
+      "name": "Sayulita Jiu Jitsu",
+      "address": "Av. Revolución 20-Segundo Piso, Colonia Centro, 63734 Sayulita, Nay., Mexico",
+      "lat": 20.8691134,
+      "lng": -105.4382723,
+      "google_maps_url": "https://maps.google.com/?cid=7044386660722881973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJzzDSWlgXIYQRtTXjXFiwwmE.webp"
+    },
+    {
+      "place_id": "ChIJoQ7FFqpJ2YARMB8bXw-40JE",
+      "name": "Clark Gracie Jiu Jitsu México",
+      "address": "Edificio Torre Rodríguez, Calle Cuarta, 3er Piso, Zona Centro, 22000 Tijuana, B.C., Mexico",
+      "lat": 32.5332279,
+      "lng": -117.0372405,
+      "google_maps_url": "https://maps.google.com/?cid=10507100306815000368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://m.facebook.com/ClarkGracieJiuJitsuMexico/",
+      "logo": "/logos/ChIJoQ7FFqpJ2YARMB8bXw-40JE.webp"
+    },
+    {
+      "place_id": "ChIJJwpgXJf_0YURIiJ8Bw-RiIA",
+      "name": "Bujutsu Central",
+      "address": "Topógrafos 7, código 2,Escandón II Secc, código 2, Escandón I Secc, Miguel Hidalgo, 11800 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4006792,
+      "lng": -99.17072139999999,
+      "google_maps_url": "https://maps.google.com/?cid=9261812127423537698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/bujutsutv/",
+      "logo": "/logos/ChIJJwpgXJf_0YURIiJ8Bw-RiIA.webp"
+    },
+    {
+      "place_id": "ChIJ7UlrD_v_0YURGB2uS7A0o-A",
+      "name": "MD Self Defense Academy Condesa | Renzo Gracie Mexico",
+      "address": "Av México #49-primer piso, Colonia Condesa, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico",
+      "lat": 19.412969999999998,
+      "lng": -99.1700257,
+      "google_maps_url": "https://maps.google.com/?cid=16186839417488284952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://renzograciemexico.com/",
+      "logo": "/logos/ChIJ7UlrD_v_0YURGB2uS7A0o-A.webp"
+    },
+    {
+      "place_id": "ChIJuW_vDYr_0YURMbn0AwBuGQk",
+      "name": "Escola Mente e Corpo",
+      "address": "Navarra 210-B, Álamos, Benito Juárez, 03400 Ciudad de México, CDMX, Mexico",
+      "lat": 19.3938324,
+      "lng": -99.1454639,
+      "google_maps_url": "https://maps.google.com/?cid=655676167104543025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.emcjj.com/",
+      "logo": "/logos/ChIJuW_vDYr_0YURMbn0AwBuGQk.webp"
+    },
+    {
+      "place_id": "ChIJuRQ8orXAz4URAPDteQ7NFTc",
+      "name": "Legacy - MMA team Puebla",
+      "address": "Priv. 9 B Sur 4917, Prados Agua Azul, 72430 Heroica Puebla de Zaragoza, Pue., Mexico",
+      "lat": 19.027189099999998,
+      "lng": -98.2181499,
+      "google_maps_url": "https://maps.google.com/?cid=3969304108655833088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://sites.google.com/view/legacy-mma-puebla",
+      "logo": "/logos/ChIJuRQ8orXAz4URAPDteQ7NFTc.webp"
+    },
+    {
+      "place_id": "ChIJb7up2m__0YURix9b-FlbsoU",
+      "name": "Outer Space Jiujitsu México",
+      "address": "Av. Cuauhtémoc 16-1er piso, Doctores, Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4248034,
+      "lng": -99.15344209999999,
+      "google_maps_url": "https://maps.google.com/?cid=9633862994875850635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJb7up2m__0YURix9b-FlbsoU.webp"
+    },
+    {
+      "place_id": "ChIJQ37a4Qr_0YURZWX3InVMoUo",
+      "name": "Onimusha Jiu Jitsu",
+      "address": "Aguascalientes 29-piso 2, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4093761,
+      "lng": -99.16221,
+      "google_maps_url": "https://maps.google.com/?cid=5377663496038606181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJQ37a4Qr_0YURZWX3InVMoUo.webp"
+    },
+    {
+      "place_id": "ChIJuxWsoSb5uIURYiNqNIQxvLI",
+      "name": "La Colonia Jiu Jitsu",
+      "address": "Carretera Federal 200 la barra de navidad, 70938 Puerto Escondido, Oax., Mexico",
+      "lat": 15.8203584,
+      "lng": -97.0198089,
+      "google_maps_url": "https://maps.google.com/?cid=12879223478257591138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJuxWsoSb5uIURYiNqNIQxvLI.webp"
+    },
+    {
+      "place_id": "ChIJ2W-3eDjTr4YRA-Z8MlNypqI",
+      "name": "023 Sukata, Carlson Gracie Team",
+      "address": "Laguna Seca Lote 12a-b, HI EVOLUTION GYM, Jardines del Sol, 23474 Cabo San Lucas, B.C.S., Mexico",
+      "lat": 22.9049046,
+      "lng": -109.920452,
+      "google_maps_url": "https://maps.google.com/?cid=11720180781933192707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.ralphgracie.com/",
+      "logo": "/logos/ChIJ2W-3eDjTr4YRA-Z8MlNypqI.webp"
+    },
+    {
+      "place_id": "ChIJdzvn9Bv80YURhsKPjhVU_Lc",
+      "name": "Grapplers From Hell Academia de Artes Marciales Mixtas &",
+      "address": "Calle 3 Calzada Ignacio Zaragoza # 371 Primer Piso, Valentín Gómez Farías, Venustiano Carranza, 15010 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4187695,
+      "lng": -99.095451,
+      "google_maps_url": "https://maps.google.com/?cid=13257563854634730118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://gfh.mx/",
+      "logo": "/logos/ChIJdzvn9Bv80YURhsKPjhVU_Lc.webp"
+    },
+    {
+      "place_id": "ChIJ937dIgcC0oURnR4U2n024MI",
+      "name": "MD Self Defense Polanco",
+      "address": "Esquina Galileo, Av. Ejército Nacional Mexicano 540 A, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX, Mexico",
+      "lat": 19.437708,
+      "lng": -99.191959,
+      "google_maps_url": "https://maps.google.com/?cid=14042283552298770077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.renzograciemexico.com/",
+      "logo": "/logos/ChIJ937dIgcC0oURnR4U2n024MI.webp"
+    },
+    {
+      "place_id": "ChIJ8ezuCy_Hz4UR706fiWE2-SA",
+      "name": "Daniri Jiu-Jitsu y MMA Puebla Ánimas",
+      "address": "Av. 35 Pte. 3111, El Vergel, 72400 Heroica Puebla de Zaragoza, Pue., Mexico",
+      "lat": 19.0431638,
+      "lng": -98.2305251,
+      "google_maps_url": "https://maps.google.com/?cid=2375990070963293935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://danirijiujitsu.com/",
+      "logo": "/logos/ChIJ8ezuCy_Hz4UR706fiWE2-SA.webp"
+    },
+    {
+      "place_id": "ChIJbUhq65f_0YURrqNJbK6Ln2U",
+      "name": "Renzo Gracie - MD Self Defense Academy Del Valle",
+      "address": "Adolfo Prieto 1439-Local-3, Del Valle, Benito Juárez, 03100 Ciudad de México, CDMX, Mexico",
+      "lat": 19.3736086,
+      "lng": -99.1725096,
+      "google_maps_url": "https://maps.google.com/?cid=7322725100385051566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://renzogracie.mx/?utm_source=google&utm_medium=maps",
+      "logo": "/logos/ChIJbUhq65f_0YURrqNJbK6Ln2U.webp"
+    },
+    {
+      "place_id": "ChIJi3vaKBf50YURxJ_kskCcJnQ",
+      "name": "BOZ FIGHT CLUB MMA",
+      "address": "Calz. Gral. Mariano Escobedo 114, Anáhuac I Secc, Miguel Hidalgo, 11320 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4488944,
+      "lng": -99.1821059,
+      "google_maps_url": "https://maps.google.com/?cid=8369548759207813060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bozfightclubmma.com/",
+      "logo": "/logos/ChIJi3vaKBf50YURxJ_kskCcJnQ.webp"
+    },
+    {
+      "place_id": "ChIJj4j0Jg7_0YURfGJ4IlJAvzo",
+      "name": "Anfibio",
+      "address": "Cerrada de Hamburgo 4-Piso 4, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4258679,
+      "lng": -99.1662223,
+      "google_maps_url": "https://maps.google.com/?cid=4233172896261366396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://anfibiobjj.com.mx/",
+      "logo": "/logos/ChIJj4j0Jg7_0YURfGJ4IlJAvzo.webp"
+    },
+    {
+      "place_id": "ChIJkYx1eo2xKIQRKRiHGsOjEEA",
+      "name": "wolfgang mma & bjj brasa guadalajara",
+      "address": "Calle Montenegro #1266 entre federalismo y, C. Pavo, San Juan de Dios, 44180 Guadalajara, Jal., Mexico",
+      "lat": 20.6688787,
+      "lng": -103.3542723,
+      "google_maps_url": "https://maps.google.com/?cid=4616369676413769769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJkYx1eo2xKIQRKRiHGsOjEEA.webp"
+    },
+    {
+      "place_id": "ChIJMwnXNs7-0YUR76K0Pner4Vs",
+      "name": "Bonebreakers",
+      "address": "C. Nezahualcóyotl 200, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4251951,
+      "lng": -99.1332757,
+      "google_maps_url": "https://maps.google.com/?cid=6620761455852823279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJMwnXNs7-0YUR76K0Pner4Vs.webp"
+    },
+    {
+      "place_id": "ChIJ9Xv5FgVFIYQR-h1kQP-kacg",
+      "name": "JIU-JITSU OCS México",
+      "address": "boot camp, Lote Cea, 63735 Nuevo Nayarit, Nay., Mexico",
+      "lat": 20.702655699999998,
+      "lng": -105.2744658,
+      "google_maps_url": "https://maps.google.com/?cid=14441255096344124922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ9Xv5FgVFIYQR-h1kQP-kacg.webp"
+    },
+    {
+      "place_id": "ChIJU3D4FI0BzoUR07R8jmLfRQ0",
+      "name": "Real Fighters México",
+      "address": "Calz. del Hueso 590, Coapa, Los Girasoles, Coyoacán, 04920 Ciudad de México, CDMX, Mexico",
+      "lat": 19.302431,
+      "lng": -99.11993559999999,
+      "google_maps_url": "https://maps.google.com/?cid=956416110276424915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.realfighters.mx/",
+      "logo": "/logos/ChIJU3D4FI0BzoUR07R8jmLfRQ0.webp"
+    },
+    {
+      "place_id": "ChIJB72u5Egy24URjBLysQYSglA",
+      "name": "Lonngi Martial Arts Academy / Carlson Gracie BJJ Mexico",
+      "address": "Loma Mulato, Seccion Esquina, Loma Los Carriles 1A-3a, Lomas Verdes, 91098 Lomas Verdes, Ver., Mexico",
+      "lat": 19.5054585,
+      "lng": -96.8864677,
+      "google_maps_url": "https://maps.google.com/?cid=5801219089971155596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.kihapkido.com/",
+      "logo": "/logos/ChIJB72u5Egy24URjBLysQYSglA.webp"
+    },
+    {
+      "place_id": "ChIJlTrOT5VFIYQRMEBvOZ8jG-k",
+      "name": "Cascao Vallarta Jiu Jitsu School",
+      "address": "Copa de Oro 1140, La Floresta, 48290 Puerto Vallarta, Jal., Mexico",
+      "lat": 20.6692072,
+      "lng": -105.22482459999999,
+      "google_maps_url": "https://maps.google.com/?cid=16797058401978761264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://cascaovallartajiujitsu.com/",
+      "logo": "/logos/ChIJlTrOT5VFIYQRMEBvOZ8jG-k.webp"
+    },
+    {
+      "place_id": "ChIJxRp2cETHz4UREoAN6_xp7Ow",
+      "name": "Brazilian Warriors Central",
+      "address": "Concepción la Cruz, 72836 San Bernardino Tlaxcalancingo, Pue., Mexico",
+      "lat": 19.036452699999998,
+      "lng": -98.2533309,
+      "google_maps_url": "https://maps.google.com/?cid=17072136822450913298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/BrazilianWarriorsCentralMx",
+      "logo": "/logos/ChIJxRp2cETHz4UREoAN6_xp7Ow.webp"
+    },
+    {
+      "place_id": "ChIJPywVRj3HYoYRhARkgQg0eyY",
+      "name": "Black Wolves México",
+      "address": "Plaza Paseo La Rioja, Local 8B, 64985 Monterrey, N.L., Mexico",
+      "lat": 25.5795674,
+      "lng": -100.24857850000001,
+      "google_maps_url": "https://maps.google.com/?cid=2772867206711870596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.facebook.com/BlackWolvesMx/",
+      "logo": "/logos/ChIJPywVRj3HYoYRhARkgQg0eyY.webp"
+    },
+    {
+      "place_id": "ChIJiSrSPXOWYoYRk_TEI0KsHaQ",
+      "name": "Alliance Jiu Jitsu Monterrey Cumbres",
+      "address": "C. Dr. Enrique C. Livas SN-S\"POZO DE AGUA Y DRENAJE\", Cumbres 1º Sector, 64610 Monterrey, N.L., Mexico",
+      "lat": 25.6966867,
+      "lng": -100.35713469999999,
+      "google_maps_url": "https://maps.google.com/?cid=11825797596612719763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/AllianceJiuJitsuMonterrey?fref=ts&__mref=message_bubble",
+      "logo": "/logos/ChIJiSrSPXOWYoYRk_TEI0KsHaQ.webp"
+    },
+    {
+      "place_id": "ChIJvSA3gfz_0YURE8da_4CQ4X0",
+      "name": "Toa MMA",
+      "address": "Av. Universidad 1815-planta baja, Oxtopulco, Coyoacán, 04318 Ciudad de México, CDMX, Mexico",
+      "lat": 19.344339,
+      "lng": -99.18131029999999,
+      "google_maps_url": "https://maps.google.com/?cid=9070690008215242515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJvSA3gfz_0YURE8da_4CQ4X0.webp"
+    },
+    {
+      "place_id": "ChIJEQsdX1NFJYQRYWZoTeqOw1c",
+      "name": "Gorilaz Mexico Wrestling & MMA",
+      "address": "COL 3 642, Campestre, 28989 Cdad. de Villa de Álvarez, Col., Mexico",
+      "lat": 19.270200499999998,
+      "lng": -103.74562279999999,
+      "google_maps_url": "https://maps.google.com/?cid=6324055438730487393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/teamgorilaz/",
+      "logo": "/logos/ChIJEQsdX1NFJYQRYWZoTeqOw1c.webp"
+    },
+    {
+      "place_id": "ChIJ97JsiL92Vo8RbIv7HZgqePI",
+      "name": "Dominio: MMA - Jiu Jitsu - Kickboxing - Boxeo - Gym",
+      "address": "C. 32ᴬ 514, Maya, 97134 Mérida, Yuc., Mexico",
+      "lat": 21.0133059,
+      "lng": -89.58085419999999,
+      "google_maps_url": "https://maps.google.com/?cid=17471761587210259308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.dominio-combat-club.com/",
+      "logo": "/logos/ChIJ97JsiL92Vo8RbIv7HZgqePI.webp"
+    },
+    {
+      "place_id": "ChIJQXvG_o_80YURKoKuIf2BatI",
+      "name": "JIU-JITSU NEZA Renzo Gracie México",
+      "address": "C. Segunda Avenida 87, Estado de Mexico, 57210 Cdad. Nezahualcóyotl, Méx., Mexico",
+      "lat": 19.425808900000003,
+      "lng": -99.0463284,
+      "google_maps_url": "https://maps.google.com/?cid=15162074019687989802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://arturocr6.wixsite.com/renzogracieneza",
+      "logo": "/logos/ChIJQXvG_o_80YURKoKuIf2BatI.webp"
+    },
+    {
+      "place_id": "ChIJdV61HRuxKIQRZChbxfSHxNw",
+      "name": "2 BrothersBFC México Jiu Jitsu",
+      "address": "C. Federico E. Ibarra 955, Santa Elena Alcalde, 44220 Guadalajara, Jal., Mexico",
+      "lat": 20.7095059,
+      "lng": -103.3454817,
+      "google_maps_url": "https://maps.google.com/?cid=15907989269132290148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJdV61HRuxKIQRZChbxfSHxNw.webp"
+    },
+    {
+      "place_id": "ChIJRWKKVli_K4QRAgxQ01bFknI",
+      "name": "Exit México/Brasa Leon (Jiu Jitsu Brasileño León)",
+      "address": "Del Avio 105, Industrial Hidalgo, 37147 León de los Aldama, Gto., Mexico",
+      "lat": 21.1490576,
+      "lng": -101.6719059,
+      "google_maps_url": "https://maps.google.com/?cid=8255878043626638338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJRWKKVli_K4QRAgxQ01bFknI.webp"
+    },
+    {
+      "place_id": "ChIJ3XfwDv7_0YURoo2R4dbEeUU",
+      "name": "TORS Nova Geraçao-Jiu Jitsu Brasileño & Artes Marciales Mixtas",
+      "address": "Av. Universidad 2079-Local 16, Copilco Universidad, Coyoacán, 04360 Ciudad de México, CDMX, Mexico",
+      "lat": 19.3375166,
+      "lng": -99.1850814,
+      "google_maps_url": "https://maps.google.com/?cid=5006248887985474978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ3XfwDv7_0YURoo2R4dbEeUU.webp"
+    },
+    {
+      "place_id": "ChIJi731zmz70YUR6x2pEX_-3LE",
+      "name": "Escuela de jiujitsu dynamit figth team",
+      "address": "C. 1501 36, San Juan de Aragón VI Secc, Gustavo A. Madero, 07918 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4673081,
+      "lng": -99.0714715,
+      "google_maps_url": "https://maps.google.com/?cid=12816398461300186603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJi731zmz70YUR6x2pEX_-3LE.webp"
+    },
+    {
+      "place_id": "ChIJF6KoP2MDzoURlbj0bk5E2B4",
+      "name": "Estudio de Jiu Jitsu Brasileño",
+      "address": "C. Allende 55, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4401746,
+      "lng": -99.1371331,
+      "google_maps_url": "https://maps.google.com/?cid=2222601519767009429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJF6KoP2MDzoURlbj0bk5E2B4.webp"
+    },
+    {
+      "place_id": "ChIJc0M8wg2uKIQRPqXc_ZYJKIk",
+      "name": "Alliance jiu jitsu guadalajara",
+      "address": "C. Manuel López Cotilla 1905, Col Americana, Americana, 44140 Guadalajara, Jal., Mexico",
+      "lat": 20.6733263,
+      "lng": -103.37646389999999,
+      "google_maps_url": "https://maps.google.com/?cid=9883159926373393726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJc0M8wg2uKIQRPqXc_ZYJKIk.webp"
+    },
+    {
+      "place_id": "ChIJWf8BvAD50YURjMEcrWVOLXk",
+      "name": "Diosdado Academy Martial Arts",
+      "address": "Pte 116 231-2do piso, Panamericana, Gustavo A. Madero, 07770 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4790584,
+      "lng": -99.1412951,
+      "google_maps_url": "https://maps.google.com/?cid=8731721451144266124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.academiadiosdado.com/",
+      "logo": "/logos/ChIJWf8BvAD50YURjMEcrWVOLXk.webp"
+    },
+    {
+      "place_id": "ChIJKTWugIK3m4YRAw2hit4lfsM",
+      "name": "VALHALLA -BUJUTSU, MMA, JIU-JITSU FIGHT CENTER",
+      "address": "Blvd. De Las Rosas 164 AS, Jardines de Durango, 34200 Durango, Dgo., Mexico",
+      "lat": 24.0431939,
+      "lng": -104.6338387,
+      "google_maps_url": "https://maps.google.com/?cid=14086738322200268035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJKTWugIK3m4YRAw2hit4lfsM.webp"
+    },
+    {
+      "place_id": "ChIJM5ZWH3740YURviPUHEiv758",
+      "name": "MMA Artes marciales mixtas y jiu jitsu azcapotzalco mirmidones chimeyo",
+      "address": "16 de Septiembre 36, Centro de Azcapotzalco, Azcapotzalco, 02000 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4782442,
+      "lng": -99.1856772,
+      "google_maps_url": "https://maps.google.com/?cid=11524622695720559550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://youtu.be/fpMh_Jwo6fU",
+      "logo": "/logos/ChIJM5ZWH3740YURviPUHEiv758.webp"
+    },
+    {
+      "place_id": "ChIJj19T0XUBzoUR1QylL0tdB8U",
+      "name": "Makoto MMA",
+      "address": "DEPORTIVO COAPA Del Sindicato Mexicano De Electricistas, Calz. del Hueso 380, Coapa, Ex-Ejido Sta Úrsula Coapa 27 Bis, Coyoacán, 04980 Ciudad de México, CDMX, Mexico",
+      "lat": 19.3073122,
+      "lng": -99.1276803,
+      "google_maps_url": "https://maps.google.com/?cid=14197418927812054229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJj19T0XUBzoUR1QylL0tdB8U.webp"
+    },
+    {
+      "place_id": "ChIJtY48OeW9YoYR-p4ZMq51ZMw",
+      "name": "Brasa Jiu Jitsu Valle",
+      "address": "Río Guadalquivir 325, Del Valle, 66220 Monterrey, N.L., Mexico",
+      "lat": 25.659469899999998,
+      "lng": -100.35969759999999,
+      "google_maps_url": "https://maps.google.com/?cid=14728026072433663738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJtY48OeW9YoYR-p4ZMq51ZMw.webp"
+    },
+    {
+      "place_id": "ChIJceGQv2ZX04URK0sXhlZf4E0",
+      "name": "MTT Mexico Top Team Juriquilla",
+      "address": "Shopping Center Juriquilla, Blvd. Universitario 540, Jurica Acueducto, 76230 Juriquilla, Qro., Mexico",
+      "lat": 20.708216399999998,
+      "lng": -100.4470003,
+      "google_maps_url": "https://maps.google.com/?cid=5611589960925137707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.mexicotopteam.com/",
+      "logo": "/logos/ChIJceGQv2ZX04URK0sXhlZf4E0.webp"
+    },
+    {
+      "place_id": "ChIJK9J1EwD_0YURyc4BsWQvWB8",
+      "name": "Brasa Jiujitsu CDMX",
+      "address": "San Francisco 1626-interior 308, Col del Valle Sur, Benito Juárez, 03104 Ciudad de México, CDMX, Mexico",
+      "lat": 19.372226299999998,
+      "lng": -99.1756367,
+      "google_maps_url": "https://maps.google.com/?cid=2258607322639224521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJK9J1EwD_0YURyc4BsWQvWB8.webp"
+    },
+    {
+      "place_id": "ChIJJ8sbMBnw0YURfeKEKJq_2-8",
+      "name": "Team Icalia México MMA",
+      "address": "av 606 # 66 calle 601 San Juan de Aragón 3er Sección, Av 606 66, San Juan de Aragón III Secc, Gustavo A. Madero, 07970 Ciudad de México, CDMX, Mexico",
+      "lat": 19.4542605,
+      "lng": -99.07136330000002,
+      "google_maps_url": "https://maps.google.com/?cid=17283618663790076541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJJ8sbMBnw0YURfeKEKJq_2-8.webp"
+    },
+    {
+      "place_id": "ChIJUaTTwbu_YoYRJaWF3GY4xSw",
+      "name": "Olimpo Academy - Zorro Marroquin Team - MMA, JiuJitsu, Box, Kick Boxing, Taekwondo",
+      "address": "Av. Eugenio Garza Sada Sur 2810, Altavista, Distrito Tec, 64840 Monterrey, N.L., Mexico",
+      "lat": 25.6463273,
+      "lng": -100.28945709999999,
+      "google_maps_url": "https://maps.google.com/?cid=3226046722518394149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.olimpoacademy.com/",
+      "logo": "/logos/ChIJUaTTwbu_YoYRJaWF3GY4xSw.webp"
+    },
+    {
+      "place_id": "ChIJQ3TDy8sd0oURzCgmOw3VwpQ",
+      "name": "Supersaiyachamp HQ / Dream Jiu Jitsu Atizapan",
+      "address": "Calz. S. Mateo 75, San Juan Bosco 1, 52946 Cdad. López Mateos, Méx., Mexico",
+      "lat": 19.5690193,
+      "lng": -99.2387457,
+      "google_maps_url": "https://maps.google.com/?cid=10719364315898849484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://dreamjiujitsu.com/",
+      "logo": "/logos/ChIJQ3TDy8sd0oURzCgmOw3VwpQ.webp"
+    },
+    {
+      "place_id": "ChIJY529hPKVYoYRkfBCO3fsXZI",
+      "name": "Rino Academy",
+      "address": "Martín de Zavala 935, Centro, 64000 Monterrey, N.L., Mexico",
+      "lat": 25.685399300000004,
+      "lng": -100.32945029999999,
+      "google_maps_url": "https://maps.google.com/?cid=10546845899211075729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJY529hPKVYoYRkfBCO3fsXZI.webp"
+    },
+    {
+      "place_id": "ChIJJ-J0yIH90YUR0JjCxYO0IXk",
+      "name": "MMA Iztapalapa",
+      "address": "Gral. Donato Bravo Izquierdo 53, Constitución de 1917, Iztapalapa, 09260 Ciudad de México, CDMX, Mexico",
+      "lat": 19.346568500000004,
+      "lng": -99.0583566,
+      "google_maps_url": "https://maps.google.com/?cid=8728456030872312016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJJ-J0yIH90YUR0JjCxYO0IXk.webp"
+    },
+    {
+      "place_id": "ChIJb_SCuWa-YoYR3mL_7C6MSVY",
+      "name": "Gracie Barra Monterrey - Escuela Oficial Jiu-Jitsu Gracie Barra",
+      "address": "Av Lázaro Cárdenas 2264-Local 306, Valle Oriente, 66260 San Pedro Garza García, N.L., Mexico",
+      "lat": 25.644965,
+      "lng": -100.32387290000001,
+      "google_maps_url": "https://maps.google.com/?cid=6217654893734224606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/graciebarramty",
+      "logo": "/logos/ChIJb_SCuWa-YoYR3mL_7C6MSVY.webp"
+    },
+    {
+      "place_id": "ChIJHfWWj_zxKYQRStGXJ2GaFzs",
+      "name": "Oriente MMA club",
+      "address": "Av. Siglo XXI 5339, Haciendas de Aguascalientes, 20196 Aguascalientes, Ags., Mexico",
+      "lat": 21.8825435,
+      "lng": -102.2496556,
+      "google_maps_url": "https://maps.google.com/?cid=4258041714768859466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.orientethaiboxingags.jimdo.com/",
+      "logo": "/logos/ChIJHfWWj_zxKYQRStGXJ2GaFzs.webp"
+    },
+    {
+      "place_id": "ChIJsQRrpSgB0oURF3LH85yyEtI",
+      "name": "MD Self Defense Academy Santa Fe",
+      "address": "Calle 3, Av. Santa Fe 55, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01219 Ciudad de México, CDMX, Mexico",
+      "lat": 19.3651749,
+      "lng": -99.26212430000001,
+      "google_maps_url": "https://maps.google.com/?cid=15137357684720235031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://renzograciemexico.com/",
+      "logo": "/logos/ChIJsQRrpSgB0oURF3LH85yyEtI.webp"
+    },
+    {
+      "place_id": "ChIJyY0Ba0THz4UR9wMGZsT0y90",
+      "name": "GLORY MMA",
+      "address": "Calz Zavaleta 2509, Zavaleta, 72170 Heroica Puebla de Zaragoza, Pue., Mexico",
+      "lat": 19.053666,
+      "lng": -98.24978999999999,
+      "google_maps_url": "https://maps.google.com/?cid=15982136827016774647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/glory_mma_puebla/profilecard/?igsh=a2w1azB5b2Q5NHcz",
+      "logo": "/logos/ChIJyY0Ba0THz4UR9wMGZsT0y90.webp"
+    }
+  ]
+}

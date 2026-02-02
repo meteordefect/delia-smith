@@ -1,0 +1,218 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "normalized_at": "2026-02-02T05:06:39.923Z",
+  "gym_count": 21,
+  "gyms": [
+    {
+      "place_id": "ChIJHV3hWW2LGGAREOB4vBd8_EA",
+      "name": "CARPE DIEM BRAZILIAN JIU-JITSU HIROO",
+      "address": "Japan, 〒106-0047 Tokyo, Minato City, Minamiazabu, 5-chōme−1−１１ Qiz広尾 2F",
+      "lat": 35.654952099999996,
+      "lng": 139.72267309999998,
+      "google_maps_url": "https://maps.google.com/?cid=4682754153946603536&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://arta-hiroo.com/",
+      "logo": "/logos/ChIJHV3hWW2LGGAREOB4vBd8_EA.webp"
+    },
+    {
+      "place_id": "ChIJXfl1kLSJGGARCxkKlAN1FWo",
+      "name": "Royce Gracie Jiu-jitsu Academy Tokyo",
+      "address": "4-chōme-34-1 Midori, Sumida City, Tokyo 130-0021, Japan",
+      "lat": 35.6956752,
+      "lng": 139.8067273,
+      "google_maps_url": "https://maps.google.com/?cid=7644144600760326411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://roycegracie.tokyo/",
+      "logo": "/logos/ChIJXfl1kLSJGGARCxkKlAN1FWo.webp"
+    },
+    {
+      "place_id": "ChIJj6qc_7gIAWARdOh2wEssIms",
+      "name": "Kyoto Miburo MMA/BJJ Dojo",
+      "address": "8-chōme-438 Miyagawasuji, Higashiyama Ward, Kyoto, 605-0801, Japan",
+      "lat": 34.9959073,
+      "lng": 135.76881559999998,
+      "google_maps_url": "https://maps.google.com/?cid=7719781415129639028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://miburo-kyoto.com/",
+      "logo": "/logos/ChIJj6qc_7gIAWARdOh2wEssIms.webp"
+    },
+    {
+      "place_id": "ChIJq6pWo1xgGGARLlCt_1vtBXY",
+      "name": "一心柔術アカデミー/Isshin Jiujitsu Academy",
+      "address": "Japan, 〒144-0051 Tokyo, Ota City, Nishikamata, 7-chōme−4−５ 2F",
+      "lat": 35.5639752,
+      "lng": 139.7160586,
+      "google_maps_url": "https://maps.google.com/?cid=8504464450746404910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://isshinjiujitsu.com/",
+      "logo": "/logos/ChIJq6pWo1xgGGARLlCt_1vtBXY.webp"
+    },
+    {
+      "place_id": "ChIJt2uG29iNGGARoNdqHleqOp0",
+      "name": "YAWARA JIU-JITSU ACADEMY",
+      "address": "Japan, 〒150-0001 Tokyo, Shibuya, Jingūmae, 1-chōme−8−１０ Ｔｈｅ Ｉｃｅ Ｃｕｂｅｓ 8階",
+      "lat": 35.669587299999996,
+      "lng": 139.7060042,
+      "google_maps_url": "https://maps.google.com/?cid=11329555103753099168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://jiujitsu.yawara.fit/",
+      "logo": "/logos/ChIJt2uG29iNGGARoNdqHleqOp0.webp"
+    },
+    {
+      "place_id": "ChIJR3ODiZb1GGARgm9yx0z5Y-U",
+      "name": "Life Jiu Jitsu Academy",
+      "address": "川又ビル B1F, 2-chōme-26-22 Nozawa, Setagaya City, Tokyo 154-0003, Japan",
+      "lat": 35.6334842,
+      "lng": 139.6675219,
+      "google_maps_url": "https://maps.google.com/?cid=16529329165538848642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://afglife.jp/",
+      "logo": "/logos/ChIJR3ODiZb1GGARgm9yx0z5Y-U.webp"
+    },
+    {
+      "place_id": "ChIJ60BrnH6LGGARViNJ5YrhwHU",
+      "name": "ARTA BRAZILIAN JIU-JITSU MITA",
+      "address": "Japan, 〒108-0014 Tokyo, Minato City, Shiba, 5-chōme−1−１３ Maビル三田 ⅡB１",
+      "lat": 35.650027,
+      "lng": 139.7451001,
+      "google_maps_url": "https://maps.google.com/?cid=8485029684634526550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://artabjj-mita.com/",
+      "logo": "/logos/ChIJ60BrnH6LGGARViNJ5YrhwHU.webp"
+    },
+    {
+      "place_id": "ChIJOyBizsHnAGARVmza5X6IboA",
+      "name": "Bon Jiu Jitsu Japan",
+      "address": "1-chōme-6-33 Nishishinsaibashi, Chuo Ward, Osaka, 542-0086, Japan",
+      "lat": 34.672686299999995,
+      "lng": 135.4991245,
+      "google_maps_url": "https://maps.google.com/?cid=9254484362896501846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/bonjiujitsu_japan",
+      "logo": "/logos/ChIJOyBizsHnAGARVmza5X6IboA.webp"
+    },
+    {
+      "place_id": "ChIJM1HfCeONGGARrzHyZVhFWvc",
+      "name": "今成柔術 Imanari Jiu Jitsu",
+      "address": "Japan, 〒160-0006 Tokyo, Shinjuku City, Funamachi, 8−４ YKB舟町 B1",
+      "lat": 35.690092799999995,
+      "lng": 139.72106119999998,
+      "google_maps_url": "https://maps.google.com/?cid=17823634721241969071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://imanari-jiujitsu.com/",
+      "logo": "/logos/ChIJM1HfCeONGGARrzHyZVhFWvc.webp"
+    },
+    {
+      "place_id": "ChIJs7VYKM8IAWAROlfo72ps7qw",
+      "name": "WBJJ KYOTO (Brazilian Jiujitsu Gym)",
+      "address": "Japan, 〒605-0864 Kyoto, Higashiyama Ward, Yūgyōmaechō, ５５８ 佐々木ダンス教授所",
+      "lat": 34.9949848,
+      "lng": 135.77626709999998,
+      "google_maps_url": "https://maps.google.com/?cid=12461016425528055610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.wakabjjyakimonos.com/wbjj",
+      "logo": "/logos/ChIJs7VYKM8IAWAROlfo72ps7qw.webp"
+    },
+    {
+      "place_id": "ChIJFa_MNF6NGGAREBay8ChOj70",
+      "name": "Tri-force jiu-jitsu Academy Ikebukuro",
+      "address": "Japan, 〒171-0014 Tokyo, Toshima City, Ikebukuro, 2-chōme−62−１ 1F",
+      "lat": 35.734792,
+      "lng": 139.71057199999998,
+      "google_maps_url": "https://maps.google.com/?cid=13659222132581864976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.triforce-bjj.com/",
+      "logo": "/logos/ChIJFa_MNF6NGGAREBay8ChOj70.webp"
+    },
+    {
+      "place_id": "ChIJT4pr2dP1GGARXyjk_57Tjyo",
+      "name": "CARPE DIEM BRAZILIAN JIU-JITSU JIYUGAOKA",
+      "address": "目黒区自由が丘1丁目4-6 ヒューマンハーバービル地下1階, １丁目-４ 自由が丘 目黒区 東京都 152-0035, Japan",
+      "lat": 35.6082392,
+      "lng": 139.67082019999998,
+      "google_maps_url": "https://maps.google.com/?cid=3066902551114033247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.carpediembjj-jiyugaoka.com/",
+      "logo": "/logos/ChIJT4pr2dP1GGARXyjk_57Tjyo.webp"
+    },
+    {
+      "place_id": "ChIJnTCcDx_nAGARnnlvJRmwaM0",
+      "name": "Tri-force jiu-jitsu Osaka",
+      "address": "Japan, 〒541-0054 Osaka, Chuo Ward, Minamihonmachi, 2-chōme−4−１６ 5階",
+      "lat": 34.683097,
+      "lng": 135.504624,
+      "google_maps_url": "https://maps.google.com/?cid=14801273797401868702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.triforce-bjj.com/",
+      "logo": "/logos/ChIJnTCcDx_nAGARnnlvJRmwaM0.webp"
+    },
+    {
+      "place_id": "ChIJo9SMCQjzGGAR3yAt8qFNDo8",
+      "name": "AXIS JIU-JITSU ACADEMY",
+      "address": "Japan, 〒156-0043 Tokyo, Setagaya City, Matsubara, 1-chōme−34−１６ トーア明大前マンション",
+      "lat": 35.667272,
+      "lng": 139.651255,
+      "google_maps_url": "https://maps.google.com/?cid=10308261955045761247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.axisjj.com/",
+      "logo": "/logos/ChIJo9SMCQjzGGAR3yAt8qFNDo8.webp"
+    },
+    {
+      "place_id": "ChIJyeQWLQTnAGARI8CxyU6CEhs",
+      "name": "Gracie Jiu-Jitsu Academy",
+      "address": "Japan, 〒550-0014 Osaka, Nishi Ward, Kitahorie, 2-chōme−3−１０ 5階",
+      "lat": 34.6736068,
+      "lng": 135.4927009,
+      "google_maps_url": "https://maps.google.com/?cid=1950764863507775523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.gracieosaka.com/",
+      "logo": "/logos/ChIJyeQWLQTnAGARI8CxyU6CEhs.webp"
+    },
+    {
+      "place_id": "ChIJ91Z6spOJGGARJof9y_ZoKYY",
+      "name": "Tri-Force Jiu-Jitsu Ojima",
+      "address": "Japan, 〒136-0072 Tokyo, Koto City, Ōjima, 4-chōme−8−９ 2F",
+      "lat": 35.6893092,
+      "lng": 139.83147209999998,
+      "google_maps_url": "https://maps.google.com/?cid=9667373484321113894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://tfbjjtokyo.com/contact/",
+      "logo": "/logos/ChIJ91Z6spOJGGARJof9y_ZoKYY.webp"
+    },
+    {
+      "place_id": "ChIJo2eBimOLGGARjq2pOrDkAKs",
+      "name": "CARPE DIEM BRAZILIAN JIU-JITSU AOYAMA 柔術道場",
+      "address": "4-chōme-26-16 Minamiaoyama, Minato City, Tokyo 107-0062, Japan",
+      "lat": 35.662152,
+      "lng": 139.718087,
+      "google_maps_url": "https://maps.google.com/?cid=12322100026035252622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://carpediem-aoyama.com/",
+      "logo": "/logos/ChIJo2eBimOLGGARjq2pOrDkAKs.webp"
+    },
+    {
+      "place_id": "ChIJAQC0TIv0GGARPzSGcAIOCsg",
+      "name": "IGLOO",
+      "address": "6-chōme-2-17 Fukasawa, Setagaya City, Tokyo 158-0081, Japan",
+      "lat": 35.6228434,
+      "lng": 139.6545156,
+      "google_maps_url": "https://maps.google.com/?cid=14414348960993260607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://igloobjj.com/",
+      "logo": "/logos/ChIJAQC0TIv0GGARPzSGcAIOCsg.webp"
+    },
+    {
+      "place_id": "ChIJGyKXHi_zGGAR97nd-N4U83o",
+      "name": "Sparcrew Brazilian Jiu-Jitsu スパークルー",
+      "address": "Japan, 〒154-0022 Tokyo, Setagaya City, Umegaoka, 1-chōme−15−１４ 本通りビル 1F",
+      "lat": 35.6543304,
+      "lng": 139.6539177,
+      "google_maps_url": "https://maps.google.com/?cid=8859447839858473463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://sparcrew-bjj.com/",
+      "logo": "/logos/ChIJGyKXHi_zGGAR97nd-N4U83o.webp"
+    },
+    {
+      "place_id": "ChIJo3-6oCbPsGoRv4i4kN55Kmc",
+      "name": "Adelaide Martial Arts Shop",
+      "address": "212 Morphett St, Adelaide SA 5000, Australia",
+      "lat": -34.9279806,
+      "lng": 138.59415339999998,
+      "google_maps_url": "https://maps.google.com/?cid=7433888131746138303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://martialartsshop.com.au/",
+      "logo": "/logos/ChIJo3-6oCbPsGoRv4i4kN55Kmc.webp"
+    },
+    {
+      "place_id": "ChIJB_pGQMR2A2ARMhXFzZ20c30",
+      "name": "stArt JAPAN MMA BJJ Fitness Nagoya",
+      "address": "2-chōme-4-3 Shinmichi, Nishi Ward, Nagoya, Aichi 451-0043, Japan",
+      "lat": 35.178531,
+      "lng": 136.889581,
+      "google_maps_url": "https://maps.google.com/?cid=9039767466917827890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.startmma.com/blog",
+      "logo": "/logos/ChIJB_pGQMR2A2ARMhXFzZ20c30.webp"
+    }
+  ]
+}

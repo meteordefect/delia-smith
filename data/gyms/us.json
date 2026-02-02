@@ -1,0 +1,608 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "normalized_at": "2026-02-02T05:12:58.415Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJOXOdg2fJxokR-IzKyDwZNIQ",
+      "name": "The Jiu Jitsu Company",
+      "address": "31 S 2nd St 2nd floor Unit C-5, Philadelphia, PA 19106, USA",
+      "lat": 39.9490504,
+      "lng": -75.1436323,
+      "google_maps_url": "https://maps.google.com/?cid=9526266860652891384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.jiujitsuphilly.com/?utm_source=google%20maps&utm_medium=organic&utm_campaign=local",
+      "logo": "/logos/ChIJOXOdg2fJxokR-IzKyDwZNIQ.webp"
+    },
+    {
+      "place_id": "ChIJKQxBmnN754gR9XLez4_naVQ",
+      "name": "Orlando Brazilian Jiu-Jitsu LLC",
+      "address": "28 W Michigan St, Orlando, FL 32806, USA",
+      "lat": 28.512657299999997,
+      "lng": -81.3775955,
+      "google_maps_url": "https://maps.google.com/?cid=6082647376594367221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.orlandobjj.com/",
+      "logo": "/logos/ChIJKQxBmnN754gR9XLez4_naVQ.webp"
+    },
+    {
+      "place_id": "ChIJ448-J6pZwokRPaaW5DkSPxk",
+      "name": "Marcelo Garcia Jiu-Jitsu NYC",
+      "address": "250 W 26th St, New York, NY 10001, USA",
+      "lat": 40.7467083,
+      "lng": -73.9963139,
+      "google_maps_url": "https://maps.google.com/?cid=1819192814338483773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.marcelogarciajj.com/nyc",
+      "logo": "/logos/ChIJ448-J6pZwokRPaaW5DkSPxk.webp"
+    },
+    {
+      "place_id": "ChIJcXAHVnIts1IRn0WHUiABVl0",
+      "name": "Southside Brazilian Jiu-Jitsu Academy",
+      "address": "2303 Kennedy St NE, Minneapolis, MN 55413, USA",
+      "lat": 44.9953553,
+      "lng": -93.22827269999999,
+      "google_maps_url": "https://maps.google.com/?cid=6725564331859592607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.southsidebrazilianjiujitsu.com/",
+      "logo": "/logos/ChIJcXAHVnIts1IRn0WHUiABVl0.webp"
+    },
+    {
+      "place_id": "ChIJsYEnxnpPwokRvhdHHP8L98k",
+      "name": "Staten Island Brazilian Jiu-Jitsu/MMA",
+      "address": "1230 Castleton Ave, Staten Island, NY 10301, USA",
+      "lat": 40.633846999999996,
+      "lng": -74.1234,
+      "google_maps_url": "https://maps.google.com/?cid=14553113911190034366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://sibjjmma.com/",
+      "logo": "/logos/ChIJsYEnxnpPwokRvhdHHP8L98k.webp"
+    },
+    {
+      "place_id": "ChIJ9a1UHee4woARhGUPe_kWVfw",
+      "name": "Cobrinha Brazilian Jiu-Jitsu & Fitness",
+      "address": "4929 Wilshire Blvd #104, Los Angeles, CA 90010, USA",
+      "lat": 34.062491,
+      "lng": -118.33791300000001,
+      "google_maps_url": "https://maps.google.com/?cid=18182464331345520004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.cobrinhabjj.com/",
+      "logo": "/logos/ChIJ9a1UHee4woARhGUPe_kWVfw.webp"
+    },
+    {
+      "place_id": "ChIJCXQDaRQtDogRs0p8X0772TY",
+      "name": "Southside Jiu Jitsu Club",
+      "address": "E 63rd St 837 & 841, Chicago, IL 60637, USA",
+      "lat": 41.7802661,
+      "lng": -87.6043828,
+      "google_maps_url": "https://maps.google.com/?cid=3952466462022322867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.southsidejiujitsuclubchicago.com/",
+      "logo": "/logos/ChIJCXQDaRQtDogRs0p8X0772TY.webp"
+    },
+    {
+      "place_id": "ChIJJYlI7DXGxokRoxlz2WkjEGE",
+      "name": "Philadelphia Jiu-Jitsu",
+      "address": "1760 Barbara St, Philadelphia, PA 19145, USA",
+      "lat": 39.9153413,
+      "lng": -75.177815,
+      "google_maps_url": "https://maps.google.com/?cid=6994129158833117603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJJYlI7DXGxokRoxlz2WkjEGE.webp"
+    },
+    {
+      "place_id": "ChIJ69MqjPdZwokRkT_vOdSmXB8",
+      "name": "10th Planet NYC No-Gi Jiu Jitsu",
+      "address": "35 W 43rd St 4th Floor, New York, NY 10036, USA",
+      "lat": 40.755088099999995,
+      "lng": -73.9819809,
+      "google_maps_url": "https://maps.google.com/?cid=2259864543468404625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://10thplanetjjnyc.com/",
+      "logo": "/logos/ChIJ69MqjPdZwokRkT_vOdSmXB8.webp"
+    },
+    {
+      "place_id": "ChIJEfofswBZwokRn5z5szgw8MQ",
+      "name": "Unity Jiu Jitsu School",
+      "address": "Stair A Door, Basement, 144 W 14th St, New York, NY 10011, USA",
+      "lat": 40.7380309,
+      "lng": -73.9990756,
+      "google_maps_url": "https://maps.google.com/?cid=14190895445940214943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://unityjiujitsu.com/",
+      "logo": "/logos/ChIJEfofswBZwokRn5z5szgw8MQ.webp"
+    },
+    {
+      "place_id": "ChIJmc5ci11ZwokR8xQvD2Uf23Q",
+      "name": "Range Brazilian Jiu-Jitsu NYC",
+      "address": "328 E 61st St Ground Floor, New York, NY 10065, USA",
+      "lat": 40.7611288,
+      "lng": -73.9621159,
+      "google_maps_url": "https://maps.google.com/?cid=8420358447206175987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.rangebjj.com/",
+      "logo": "/logos/ChIJmc5ci11ZwokR8xQvD2Uf23Q.webp"
+    },
+    {
+      "place_id": "ChIJXYZEh8osDogRq6MeNg_F7vg",
+      "name": "Brazil 021 BJJ - Jiu-Jitsu in Chicago",
+      "address": "2643 W Chicago Ave, Chicago, IL 60622, USA",
+      "lat": 41.8953734,
+      "lng": -87.6934397,
+      "google_maps_url": "https://maps.google.com/?cid=17937491034986423211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://brazil021chicago.com/",
+      "logo": "/logos/ChIJXYZEh8osDogRq6MeNg_F7vg.webp"
+    },
+    {
+      "place_id": "ChIJMeTTl81ZwokRVx089zx1CKI",
+      "name": "SD Brazilian Jiu-Jitsu NYC",
+      "address": "333 W 52nd St 4th Floor - Suite 401, New York, NY 10019, USA",
+      "lat": 40.7643725,
+      "lng": -73.98663,
+      "google_maps_url": "https://maps.google.com/?cid=11675710938664410455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.sdjiujitsu.com/",
+      "logo": "/logos/ChIJMeTTl81ZwokRVx089zx1CKI.webp"
+    },
+    {
+      "place_id": "ChIJFysY_ZdZwokRyRy5NGE41zY",
+      "name": "Clockwork Jiu Jitsu",
+      "address": "650 Broadway 2nd floor, New York, NY 10012, USA",
+      "lat": 40.7267018,
+      "lng": -73.9953402,
+      "google_maps_url": "https://maps.google.com/?cid=3951689188188429513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.clockworkbjj.com/",
+      "logo": "/logos/ChIJFysY_ZdZwokRyRy5NGE41zY.webp"
+    },
+    {
+      "place_id": "ChIJKfydVw63woARach9aXznn6w",
+      "name": "Los Angeles Jiu Jitsu Academy",
+      "address": "5618 W Manchester Ave, Los Angeles, CA 90045, USA",
+      "lat": 33.9594832,
+      "lng": -118.37938219999998,
+      "google_maps_url": "https://maps.google.com/?cid=12438915217352411241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bit.ly/4iOtlds",
+      "logo": "/logos/ChIJKfydVw63woARach9aXznn6w.webp"
+    },
+    {
+      "place_id": "ChIJdziBTev_24ARv49uwbEVWHw",
+      "name": "Atos Jiu Jitsu HQ",
+      "address": "4810 Mercury St, San Diego, CA 92111, USA",
+      "lat": 32.8293957,
+      "lng": -117.1491781,
+      "google_maps_url": "https://maps.google.com/?cid=8959935311852244927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://atosjiujitsuhq.com/",
+      "logo": "/logos/ChIJdziBTev_24ARv49uwbEVWHw.webp"
+    },
+    {
+      "place_id": "ChIJkbkBtN5ewokR4Ndew6T5Yto",
+      "name": "Academy of Queens",
+      "address": "55-19 69th St, Maspeth, NY 11378, USA",
+      "lat": 40.727261999999996,
+      "lng": -73.89513099999999,
+      "google_maps_url": "https://maps.google.com/?cid=15736414534033659872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJkbkBtN5ewokR4Ndew6T5Yto.webp"
+    },
+    {
+      "place_id": "ChIJJ6Vz4YDPsGoRsVVHohLqDM8",
+      "name": "Team Balboa",
+      "address": "65 Hyde St, Adelaide SA 5000, Australia",
+      "lat": -34.9263719,
+      "lng": 138.6045336,
+      "google_maps_url": "https://maps.google.com/?cid=14919557031324505521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/teambalboatag/",
+      "logo": "/logos/ChIJJ6Vz4YDPsGoRsVVHohLqDM8.webp"
+    },
+    {
+      "place_id": "ChIJsR4V9mfJsGoRc3oPi6GVtbk",
+      "name": "SABJJ | Jiu Jitsu Academy | Adelaide",
+      "address": "33 Henry St, Stepney SA 5069, Australia",
+      "lat": -34.91419,
+      "lng": 138.62647909999998,
+      "google_maps_url": "https://maps.google.com/?cid=13381766388856617587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.sabjj.com/",
+      "logo": "/logos/ChIJsR4V9mfJsGoRc3oPi6GVtbk.webp"
+    },
+    {
+      "place_id": "ChIJ0y-kAa2m5okRKy_mLqJ-5c8",
+      "name": "Jiu-Jitsu USA Brazilian Jiu-Jitsu & Fitness Club",
+      "address": "242 Sturbridge Rd 2nd floor, Charlton, MA 01507, USA",
+      "lat": 42.135477699999996,
+      "lng": -72.03770829999999,
+      "google_maps_url": "https://maps.google.com/?cid=14980518970554461995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.jiujitsuusa.com/",
+      "logo": "/logos/ChIJ0y-kAa2m5okRKy_mLqJ-5c8.webp"
+    },
+    {
+      "place_id": "ChIJeZ6_bdgFK4cReAIMv9-O9PY",
+      "name": "Marcio Andre Brazilian Jiu-Jitsu Academy",
+      "address": "14647 S 50th St C-172, Phoenix, AZ 85044, USA",
+      "lat": 33.312665599999995,
+      "lng": -111.97445959999999,
+      "google_maps_url": "https://maps.google.com/?cid=17795005119281758840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://marcioandrejiujitsu.com/",
+      "logo": "/logos/ChIJeZ6_bdgFK4cReAIMv9-O9PY.webp"
+    },
+    {
+      "place_id": "ChIJ0QFL57bh2IgRylukdWK0GU4",
+      "name": "10th Planet Jiu Jitsu Boca Raton",
+      "address": "170 Yamato Rd, Boca Raton, FL 33431, USA",
+      "lat": 26.3938833,
+      "lng": -80.0823722,
+      "google_maps_url": "https://maps.google.com/?cid=5627727544349645770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://10thplanetboca.com/",
+      "logo": "/logos/ChIJ0QFL57bh2IgRylukdWK0GU4.webp"
+    },
+    {
+      "place_id": "ChIJ8e8w85S22YgRqafpzVHRYh8",
+      "name": "MARIO SPERRY JIU JITSU",
+      "address": "760 NW 4th St suit: 101, Miami, FL 33128, USA",
+      "lat": 25.7772142,
+      "lng": -80.2075295,
+      "google_maps_url": "https://maps.google.com/?cid=2261600112170608553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.mariosperry.com/",
+      "logo": "/logos/ChIJ8e8w85S22YgRqafpzVHRYh8.webp"
+    },
+    {
+      "place_id": "ChIJu378OY5MwokRkSigGePXOg4",
+      "name": "Codella Brazilian Jiu Jitsu Academy",
+      "address": "3755 Victory Blvd, Staten Island, NY 10314, USA",
+      "lat": 40.5984762,
+      "lng": -74.1805109,
+      "google_maps_url": "https://maps.google.com/?cid=1025369235567683729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://codellaacademy.com/",
+      "logo": "/logos/ChIJu378OY5MwokRkSigGePXOg4.webp"
+    },
+    {
+      "place_id": "ChIJB68bPsZK3YARPY9Ps9Zjl0k",
+      "name": "Gracie University of Jiu-Jitsu",
+      "address": "2440 W Carson St, Torrance, CA 90501, USA",
+      "lat": 33.8310072,
+      "lng": -118.3273086,
+      "google_maps_url": "https://maps.google.com/?cid=5302816860034535229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.gracie-torrance.com/",
+      "logo": "/logos/ChIJB68bPsZK3YARPY9Ps9Zjl0k.webp"
+    },
+    {
+      "place_id": "ChIJ-3ktn7zO54kRtagb3XsTSZc",
+      "name": "Jitsu Academy",
+      "address": "600 N Colony Rd, Wallingford, CT 06492, USA",
+      "lat": 41.4698437,
+      "lng": -72.8176837,
+      "google_maps_url": "https://maps.google.com/?cid=10901265795738478773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.jitsuacademy.com/",
+      "logo": "/logos/ChIJ-3ktn7zO54kRtagb3XsTSZc.webp"
+    },
+    {
+      "place_id": "ChIJLTopbO7f3IARfjk_HVmNWew",
+      "name": "Art of Jiu Jitsu",
+      "address": "411 E 17th St, Costa Mesa, CA 92627, USA",
+      "lat": 33.6300364,
+      "lng": -117.9116679,
+      "google_maps_url": "https://maps.google.com/?cid=17030798879760529790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.artofjiujitsu.com/",
+      "logo": "/logos/ChIJLTopbO7f3IARfjk_HVmNWew.webp"
+    },
+    {
+      "place_id": "ChIJrUA754Mx3YAR47AJDKnG3tM",
+      "name": "The Jiu-Jitsu League",
+      "address": "6376 Pacific Coast Hwy A, Long Beach, CA 90803, USA",
+      "lat": 33.7591466,
+      "lng": -118.11395710000001,
+      "google_maps_url": "https://maps.google.com/?cid=15266858216186294499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.thejiujitsuleague.com/",
+      "logo": "/logos/ChIJrUA754Mx3YAR47AJDKnG3tM.webp"
+    },
+    {
+      "place_id": "ChIJ3Q0CS6mZ-IgRSH1MQrefY5E",
+      "name": "Jitsu Academy SC",
+      "address": "1674 Lake Murray Blvd, Columbia, SC 29212, USA",
+      "lat": 34.0815457,
+      "lng": -81.19646709999999,
+      "google_maps_url": "https://maps.google.com/?cid=10476392767634046280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.jitsuacademy.com/",
+      "logo": "/logos/ChIJ3Q0CS6mZ-IgRSH1MQrefY5E.webp"
+    },
+    {
+      "place_id": "ChIJI0s32WOnt4kRKwtsOGASMls",
+      "name": "The Jiu-Jitsu Academy of Southern Maryland",
+      "address": "4474 White Plains Ln suite b, White Plains, MD 20695, USA",
+      "lat": 38.590469299999995,
+      "lng": -76.9469604,
+      "google_maps_url": "https://maps.google.com/?cid=6571335010759740203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://somdjujitsu.com/",
+      "logo": "/logos/ChIJI0s32WOnt4kRKwtsOGASMls.webp"
+    },
+    {
+      "place_id": "ChIJJbcDzK9ZwokR-Y29nh2GGT4",
+      "name": "Renzo Gracie Academy",
+      "address": "224 W 30th St, New York, NY 10001, USA",
+      "lat": 40.7488234,
+      "lng": -73.9937487,
+      "google_maps_url": "https://maps.google.com/?cid=4474755166544694777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://renzogracieacademy.com/",
+      "logo": "/logos/ChIJJbcDzK9ZwokR-Y29nh2GGT4.webp"
+    },
+    {
+      "place_id": "ChIJLUwCEee0woAR1dD6cy_g5ac",
+      "name": "Golden State",
+      "address": "19019 Hawthorne Blvd STE 200A, Torrance, CA 90503, USA",
+      "lat": 33.8575722,
+      "lng": -118.35457289999998,
+      "google_maps_url": "https://maps.google.com/?cid=12098322468414607573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.goldenstatebjj.com/",
+      "logo": "/logos/ChIJLUwCEee0woAR1dD6cy_g5ac.webp"
+    },
+    {
+      "place_id": "ChIJLa1SGq3IsGoRarMxRujrKeQ",
+      "name": "Arruda Team",
+      "address": "375 Cross Rd, Edwardstown SA 5039, Australia",
+      "lat": -34.9678001,
+      "lng": 138.5712585,
+      "google_maps_url": "https://maps.google.com/?cid=16440931297535308650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.arrudabjj.com/",
+      "logo": "/logos/ChIJLa1SGq3IsGoRarMxRujrKeQ.webp"
+    },
+    {
+      "place_id": "ChIJSSi0wRNrkFQR2eVTgXnICbs",
+      "name": "Seattle Jiu-Jitsu Academy",
+      "address": "5900 Airport Wy S Suite 121, Seattle, WA 98108, USA",
+      "lat": 47.5503247,
+      "lng": -122.31728360000001,
+      "google_maps_url": "https://maps.google.com/?cid=13477523784069277145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.seattlejiujitsuacademy.com/",
+      "logo": "/logos/ChIJSSi0wRNrkFQR2eVTgXnICbs.webp"
+    },
+    {
+      "place_id": "ChIJ3TAMYXbIJIgRUCsFwjcUTgQ",
+      "name": "Club of Michigan",
+      "address": "29305 Southfield Rd, Southfield, MI 48076, USA",
+      "lat": 42.5054994,
+      "lng": -83.2238368,
+      "google_maps_url": "https://maps.google.com/?cid=310207654046018384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjclubofmichigan.com/",
+      "logo": "/logos/ChIJ3TAMYXbIJIgRUCsFwjcUTgQ.webp"
+    },
+    {
+      "place_id": "ChIJqWBuzWhfwokRmYb6oHSYhb4",
+      "name": "Queens Jiu Jitsu",
+      "address": "Basement Level, 31st St, Astoria, NY 11105, USA",
+      "lat": 40.774797,
+      "lng": -73.911866,
+      "google_maps_url": "https://maps.google.com/?cid=13728546665793226393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.queensjiujitsu.com/",
+      "logo": "/logos/ChIJqWBuzWhfwokRmYb6oHSYhb4.webp"
+    },
+    {
+      "place_id": "ChIJyf-1PM6XwoARwmBVLTblcPg",
+      "name": "Club",
+      "address": "14454 Ventura Blvd, Sherman Oaks, CA 91423, USA",
+      "lat": 34.1505459,
+      "lng": -118.44787529999999,
+      "google_maps_url": "https://maps.google.com/?cid=17902060539649286338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.brazilianjiujitsuclub.com/",
+      "logo": "/logos/ChIJyf-1PM6XwoARwmBVLTblcPg.webp"
+    },
+    {
+      "place_id": "ChIJpQ3krZO4woARNoZftTXmi6g",
+      "name": "Renzo Gracie Los Angeles",
+      "address": "5203 Hollywood Blvd, Los Angeles, CA 90027, USA",
+      "lat": 34.1021086,
+      "lng": -118.3038421,
+      "google_maps_url": "https://maps.google.com/?cid=12145053938485265974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.renzogracielosangeles.com/",
+      "logo": "/logos/ChIJpQ3krZO4woARNoZftTXmi6g.webp"
+    },
+    {
+      "place_id": "ChIJx49ENg5ZwokRdjRu0YLB86Y",
+      "name": "Team Jucao Long Island City",
+      "address": "47-46 Vernon Blvd Third Floor, Long Island City, NY 11101, USA",
+      "lat": 40.7442832,
+      "lng": -73.95401249999999,
+      "google_maps_url": "https://maps.google.com/?cid=12030171797240296566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bjjlic.com/",
+      "logo": "/logos/ChIJx49ENg5ZwokRdjRu0YLB86Y.webp"
+    },
+    {
+      "place_id": "ChIJ90F5h6lZwokRFFkMjFGkRa4",
+      "name": "New York",
+      "address": "28 W 36th St., New York, NY 10018, USA",
+      "lat": 40.7501429,
+      "lng": -73.98515259999999,
+      "google_maps_url": "https://maps.google.com/?cid=12557623806141421844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ90F5h6lZwokRFFkMjFGkRa4.webp"
+    },
+    {
+      "place_id": "ChIJeR1u4QetFIgRujJkrjjnsXA",
+      "name": "Indianapolis Brazilian Jiu-Jitsu Academy",
+      "address": "1764 E 116th St, Carmel, IN 46032, USA",
+      "lat": 39.9576533,
+      "lng": -86.1247209,
+      "google_maps_url": "https://maps.google.com/?cid=8120525833755701946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.indianapolisjiujitsu.com/",
+      "logo": "/logos/ChIJeR1u4QetFIgRujJkrjjnsXA.webp"
+    },
+    {
+      "place_id": "ChIJ00faijRca4gRMMGL7GalT48",
+      "name": "Indiana Brazilian Jiu-Jitsu Academy",
+      "address": "647 U.S. 31 N, Greenwood, IN 46142, USA",
+      "lat": 39.6245608,
+      "lng": -86.1178558,
+      "google_maps_url": "https://maps.google.com/?cid=10326654332057665840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.ibjja.com/",
+      "logo": "/logos/ChIJ00faijRca4gRMMGL7GalT48.webp"
+    },
+    {
+      "place_id": "ChIJ954h-ohNwokR_XqZvQadP20",
+      "name": "Castle",
+      "address": "1595 Forest Ave, Staten Island, NY 10302, USA",
+      "lat": 40.6248486,
+      "lng": -74.1416436,
+      "google_maps_url": "https://maps.google.com/?cid=7872183325943233277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.castlebjj.com/",
+      "logo": "/logos/ChIJ954h-ohNwokR_XqZvQadP20.webp"
+    },
+    {
+      "place_id": "ChIJedfS-TpdXIYR8dEWbYwuN3c",
+      "name": "GFTeam San Antonio",
+      "address": "6419 Bandera Rd, San Antonio, TX 78238, USA",
+      "lat": 29.489919799999996,
+      "lng": -98.60996019999999,
+      "google_maps_url": "https://maps.google.com/?cid=8590385994893021681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.gfteamsa.com/",
+      "logo": "/logos/ChIJedfS-TpdXIYR8dEWbYwuN3c.webp"
+    },
+    {
+      "place_id": "ChIJWW0enlZYwokRGXBJeKDhezA",
+      "name": "Modern Martial Arts - Midtown",
+      "address": "780 8th Ave #302, New York, NY 10036, USA",
+      "lat": 40.7605809,
+      "lng": -73.98705029999999,
+      "google_maps_url": "https://maps.google.com/?cid=3493634015285047321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjnewyorkcity.com/",
+      "logo": "/logos/ChIJWW0enlZYwokRGXBJeKDhezA.webp"
+    },
+    {
+      "place_id": "ChIJN2yWKFaHwoARpMZMibL4QkY",
+      "name": "Julio Juarez",
+      "address": "27734 Avenue Scott UNIT 130, Valencia, CA 91355, USA",
+      "lat": 34.434547099999996,
+      "lng": -118.571905,
+      "google_maps_url": "https://maps.google.com/?cid=5062882376809236132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.jjbjjsc.com/",
+      "logo": "/logos/ChIJN2yWKFaHwoARpMZMibL4QkY.webp"
+    },
+    {
+      "place_id": "ChIJmxnJBpBdfYcR59denO9nymA",
+      "name": "Rapid City",
+      "address": "101b New York St, Rapid City, SD 57701, USA",
+      "lat": 44.084084499999996,
+      "lng": -103.2168074,
+      "google_maps_url": "https://maps.google.com/?cid=6974501251754940391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/rapid.city.bjj",
+      "logo": "/logos/ChIJmxnJBpBdfYcR59denO9nymA.webp"
+    },
+    {
+      "place_id": "ChIJPfutv2fPsGoRgsfigWnTags",
+      "name": "ISOHEALTH - ISO",
+      "address": "97 East St, Torrensville SA 5031, Australia",
+      "lat": -34.914623999999996,
+      "lng": 138.561412,
+      "google_maps_url": "https://maps.google.com/?cid=822702332052686722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.isohealth.com.au/",
+      "logo": "/logos/ChIJPfutv2fPsGoRgsfigWnTags.webp"
+    },
+    {
+      "place_id": "ChIJmXaV3oDPwoARvmIGiTT-Anw",
+      "name": "Los Angeles",
+      "address": "1808 W Whittier Blvd, Montebello, CA 90640, USA",
+      "lat": 34.013016,
+      "lng": -118.12070920000001,
+      "google_maps_url": "https://maps.google.com/?cid=8935984112247136958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://losangelesmuaythai.com/",
+      "logo": "/logos/ChIJmXaV3oDPwoARvmIGiTT-Anw.webp"
+    },
+    {
+      "place_id": "ChIJgyLYXaWGbIcR6o8bj01ScIQ",
+      "name": "/Mma",
+      "address": "Centennial, CO 80122, USA",
+      "lat": 39.5935463,
+      "lng": -104.9268336,
+      "google_maps_url": "https://maps.google.com/?cid=9543218103464988650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": null
+    },
+    {
+      "place_id": "ChIJQYUpt9J_44kRoGOe97_lxj8",
+      "name": "The Lab: Jiu Jitsu, MMA, Personal Training, Kickboxing",
+      "address": "290 Providence Hwy, Westwood, MA 02090, USA",
+      "lat": 42.2182487,
+      "lng": -71.1799827,
+      "google_maps_url": "https://maps.google.com/?cid=4595613082434036640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://thelabbjjdedham.com/",
+      "logo": "/logos/ChIJQYUpt9J_44kRoGOe97_lxj8.webp"
+    },
+    {
+      "place_id": "ChIJ1SMUJ8ecwoARxV7FH-7kxVg",
+      "name": "Academy of",
+      "address": "9820 CA-27, Chatsworth, CA 91311, USA",
+      "lat": 34.2490729,
+      "lng": -118.60512279999999,
+      "google_maps_url": "https://maps.google.com/?cid=6396770557136035525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.academyofbrazilianjiujitsu.com/",
+      "logo": "/logos/ChIJ1SMUJ8ecwoARxV7FH-7kxVg.webp"
+    },
+    {
+      "place_id": "ChIJMY4jJ8mkwoARDAnXkg_tPyE",
+      "name": "Dynamix MMA",
+      "address": "11870 Santa Monica Blvd #102, Los Angeles, CA 90025, USA",
+      "lat": 34.0418398,
+      "lng": -118.45933939999999,
+      "google_maps_url": "https://maps.google.com/?cid=2395894177928251660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://dynamixmartialarts.com/",
+      "logo": "/logos/ChIJMY4jJ8mkwoARDAnXkg_tPyE.webp"
+    },
+    {
+      "place_id": "ChIJIymWAGghjoARjYb1R_LtWW8",
+      "name": "Morgan Hill Jiu Jitsu",
+      "address": "15790 Monterey Rd Ste 300, Morgan Hill, CA 95037, USA",
+      "lat": 37.1107078,
+      "lng": -121.63926819999999,
+      "google_maps_url": "https://maps.google.com/?cid=8023705835982390925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://morganhilljiujitsu.com/",
+      "logo": "/logos/ChIJIymWAGghjoARjYb1R_LtWW8.webp"
+    },
+    {
+      "place_id": "ChIJf5lOgEB_woARExmMkaKsNFQ",
+      "name": "Jiyu Brazilian Jiu Jitsu & Fitness",
+      "address": "29487 The Old Rd, Castaic, CA 91384, USA",
+      "lat": 34.4528639,
+      "lng": -118.61626170000001,
+      "google_maps_url": "https://maps.google.com/?cid=6067664412201457939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.jiyubjj.com/",
+      "logo": "/logos/ChIJf5lOgEB_woARExmMkaKsNFQ.webp"
+    },
+    {
+      "place_id": "ChIJLf8SH5f6xokReD5rxgx5yJU",
+      "name": "Delaware Jiu Jitsu",
+      "address": "1290 Baltimore Pike STE 103, Chadds Ford, PA 19317, USA",
+      "lat": 39.8766313,
+      "lng": -75.55510129999999,
+      "google_maps_url": "https://maps.google.com/?cid=10793009602768879224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.delawarejiujitsu.com/",
+      "logo": "/logos/ChIJLf8SH5f6xokReD5rxgx5yJU.webp"
+    },
+    {
+      "place_id": "ChIJCTLOMg-bwoARljx1GRj6Ln0",
+      "name": "Forge Brazilian Jiujitsu Academy",
+      "address": "7900 Balboa Blvd Ste 1, Van Nuys, CA 91406, USA",
+      "lat": 34.2147308,
+      "lng": -118.50066520000001,
+      "google_maps_url": "https://maps.google.com/?cid=9020422085082954902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/forge_brazilianjiujitsu/",
+      "logo": "/logos/ChIJCTLOMg-bwoARljx1GRj6Ln0.webp"
+    },
+    {
+      "place_id": "ChIJP_J82vnJsGoRydzbimZ8qSI",
+      "name": "The MatLab Grappling Academy",
+      "address": "290A North East Road, Klemzig SA 5087, Australia",
+      "lat": -34.8730139,
+      "lng": 138.6355118,
+      "google_maps_url": "https://maps.google.com/?cid=2497664248211823817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJP_J82vnJsGoRydzbimZ8qSI.webp"
+    },
+    {
+      "place_id": "ChIJW7-17bBZwokRUzttQyZ4OzI",
+      "name": "Upper East Side",
+      "address": "220 East 86th St #2F, New York, NY 10028, USA",
+      "lat": 40.7782188,
+      "lng": -73.953203,
+      "google_maps_url": "https://maps.google.com/?cid=3619618831257647955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.brazilianjiujitsunewyorkcity.com/",
+      "logo": "/logos/ChIJW7-17bBZwokRUzttQyZ4OzI.webp"
+    },
+    {
+      "place_id": "ChIJN60pJhq7j4ARJD9iL8UkhjA",
+      "name": "Stanford Brazilian Jiu-Jitsu and Grappling Club",
+      "address": "341 Galvez St, Stanford, CA 94305, USA",
+      "lat": 37.429983,
+      "lng": -122.1640234,
+      "google_maps_url": "https://maps.google.com/?cid=3496522590021893924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://web.stanford.edu/group/grappling/",
+      "logo": "/logos/ChIJN60pJhq7j4ARJD9iL8UkhjA.webp"
+    }
+  ]
+}

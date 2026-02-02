@@ -1,0 +1,608 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "normalized_at": "2026-02-02T05:02:34.272Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJ7977MYs0K4gRcBGzy4301ec",
+      "name": "Toronto",
+      "address": "813 Bloor St W, Toronto, ON M6G 1L8, Canada",
+      "lat": 43.6625917,
+      "lng": -79.42181939999999,
+      "google_maps_url": "https://maps.google.com/?cid=16705527282645799280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.torontobjj.com/",
+      "logo": "/logos/ChIJ7977MYs0K4gRcBGzy4301ec.webp"
+    },
+    {
+      "place_id": "ChIJTwMNSdQjWksRXKMws3w0uPI",
+      "name": "Halifax Brazilian Jiu Jitsu Society",
+      "address": "3600 Kempt Rd, Halifax, NS B3K 4X8, Canada",
+      "lat": 44.6621145,
+      "lng": -63.61766720000001,
+      "google_maps_url": "https://maps.google.com/?cid=17489786863080219484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.halifaxbjj.ca/",
+      "logo": "/logos/ChIJTwMNSdQjWksRXKMws3w0uPI.webp"
+    },
+    {
+      "place_id": "ChIJW6mINVBJK4gRdEOIoj2_yXA",
+      "name": "Battalion",
+      "address": "12 Drummond St, Etobicoke, ON M8V 1Y8, Canada",
+      "lat": 43.6131293,
+      "lng": -79.49836979999999,
+      "google_maps_url": "https://maps.google.com/?cid=8127237274007520116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bjjbattalion.com/",
+      "logo": "/logos/ChIJW6mINVBJK4gRdEOIoj2_yXA.webp"
+    },
+    {
+      "place_id": "ChIJNYZNfYTN1IkRWitw0IOHZdE",
+      "name": "Toronto Jiu-Jitsu Club",
+      "address": "2073 Danforth Ave, Toronto, ON M4C 1J8, Canada",
+      "lat": 43.6855027,
+      "lng": -79.3130151,
+      "google_maps_url": "https://maps.google.com/?cid=15088615126782192474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://torontojiujitsuclub.ca/",
+      "logo": "/logos/ChIJNYZNfYTN1IkRWitw0IOHZdE.webp"
+    },
+    {
+      "place_id": "ChIJzdIAuI09K4gRe2XNa4ovbdY",
+      "name": "Brampton",
+      "address": "1295 Williams Pkwy #1305, Brampton, ON L6S 3J8, Canada",
+      "lat": 43.7326504,
+      "lng": -79.73034779999999,
+      "google_maps_url": "https://maps.google.com/?cid=15451058168138655099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bramptonjiujitsu.com/",
+      "logo": "/logos/ChIJzdIAuI09K4gRe2XNa4ovbdY.webp"
+    },
+    {
+      "place_id": "ChIJh23Gsv41K4gRfhk9OcP7xeI",
+      "name": "Junction Academy Brazilian Jiu-Jitsu (BJJ) and Fitness",
+      "address": "417 Keele St, Toronto, ON M6P 2K9, Canada",
+      "lat": 43.666785499999996,
+      "lng": -79.4649869,
+      "google_maps_url": "https://maps.google.com/?cid=16340743638881212798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://junctionacademy.ca/",
+      "logo": "/logos/ChIJh23Gsv41K4gRfhk9OcP7xeI.webp"
+    },
+    {
+      "place_id": "ChIJj7CdDisioFMRuMgVDrmVFgg",
+      "name": "Bairro Brazilian Jiu-Jitsu Academy",
+      "address": "10542 106 St, Edmonton, AB T5H 2X6, Canada",
+      "lat": 53.54905480000001,
+      "lng": -113.5032052,
+      "google_maps_url": "https://maps.google.com/?cid=582817823828854968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bairro.ca/",
+      "logo": "/logos/ChIJj7CdDisioFMRuMgVDrmVFgg.webp"
+    },
+    {
+      "place_id": "ChIJe4Ozo4xgK4gRvzubDxINbQ4",
+      "name": "MNBJJ HQ Academy (Brazilian Jiu-Jitsu)",
+      "address": "5230 S Service Rd Suite 301, Burlington, ON L7L 5P2, Canada",
+      "lat": 43.3866254,
+      "lng": -79.7642075,
+      "google_maps_url": "https://maps.google.com/?cid=1039501460214856639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://mnbjj.ca/",
+      "logo": "/logos/ChIJe4Ozo4xgK4gRvzubDxINbQ4.webp"
+    },
+    {
+      "place_id": "ChIJQR1IMrvF1YkROAwUpSO97Cg",
+      "name": "United Brazilian Jiu-Jitsu & Muay Thai",
+      "address": "1040 Division St, Cobourg, ON K9A 5Y5, Canada",
+      "lat": 43.9811869,
+      "lng": -78.1743453,
+      "google_maps_url": "https://maps.google.com/?cid=2948939816811891768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://unitedbjj.ca/",
+      "logo": "/logos/ChIJQR1IMrvF1YkROAwUpSO97Cg.webp"
+    },
+    {
+      "place_id": "ChIJ53AeyxRxcVMRO_LgsDkCQA8",
+      "name": "Gracie Barra Calgary",
+      "address": "8989 Macleod Trl SW, Calgary, AB T2H 0M2, Canada",
+      "lat": 50.973603600000004,
+      "lng": -114.0726873,
+      "google_maps_url": "https://maps.google.com/?cid=1098880755882324539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://graciebarracalgary.ca/",
+      "logo": "/logos/ChIJ53AeyxRxcVMRO_LgsDkCQA8.webp"
+    },
+    {
+      "place_id": "ChIJ7y4spcJucVMRwfpYePdJgYg",
+      "name": "Fight Club",
+      "address": "5421 11 St NE #102, Calgary, AB T3E 6M4, Canada",
+      "lat": 51.100529599999994,
+      "lng": -114.0372087,
+      "google_maps_url": "https://maps.google.com/?cid=9836224388378720961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bjjfightclub.ca/",
+      "logo": "/logos/ChIJ7y4spcJucVMRwfpYePdJgYg.webp"
+    },
+    {
+      "place_id": "ChIJwQTil9Y1K4gRpi5-sSQuxoE",
+      "name": "Gracie Barra West Downtown Toronto",
+      "address": "521 Adelaide St W, Toronto, ON M5V 0N8, Canada",
+      "lat": 43.6452211,
+      "lng": -79.4018931,
+      "google_maps_url": "https://maps.google.com/?cid=9351212411412950694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://graciebarra.com/toronto-canada/",
+      "logo": "/logos/ChIJwQTil9Y1K4gRpi5-sSQuxoE.webp"
+    },
+    {
+      "place_id": "ChIJFz7EyuLN1IkRAOTGJ8vz6lA",
+      "name": "Straight Blast Gym Toronto/Brazilian JiuJitsu & MMA",
+      "address": "70 Kimbourne Ave, East York, ON M4J 4J4, Canada",
+      "lat": 43.690079499999996,
+      "lng": -79.3341291,
+      "google_maps_url": "https://maps.google.com/?cid=5830740721455784960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.sbgtoronto.com/",
+      "logo": "/logos/ChIJFz7EyuLN1IkRAOTGJ8vz6lA.webp"
+    },
+    {
+      "place_id": "ChIJuTCssOkzK4gRRFN9ecReKG4",
+      "name": "Gracie Barra",
+      "address": "100 Bridgeland Ave, North York, ON M3K 1A1, Canada",
+      "lat": 43.726352,
+      "lng": -79.4619522,
+      "google_maps_url": "https://maps.google.com/?cid=7937698541185356612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://gbnorthyorktoronto.com/",
+      "logo": "/logos/ChIJuTCssOkzK4gRRFN9ecReKG4.webp"
+    },
+    {
+      "place_id": "ChIJqYbJtZ0xK4gR17R4LluAjC4",
+      "name": "Chesswood",
+      "address": "4000 Chesswood Dr, North York, ON M3J 2B9, Canada",
+      "lat": 43.756574799999996,
+      "lng": -79.47759549999999,
+      "google_maps_url": "https://maps.google.com/?cid=3354196951594218711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.chesswoodbjj.com/",
+      "logo": "/logos/ChIJqYbJtZ0xK4gR17R4LluAjC4.webp"
+    },
+    {
+      "place_id": "ChIJISdwcAzT1IkRIaaUbVJD23c",
+      "name": "Action & Reaction MMA Inc.",
+      "address": "225 Sparks Ave, North York, ON M2H 2S5, Canada",
+      "lat": 43.807900499999995,
+      "lng": -79.3405611,
+      "google_maps_url": "https://maps.google.com/?cid=8636570731717895713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://actionreactionmma.com/?utm_source=gmb&utm_medium=organic",
+      "logo": "/logos/ChIJISdwcAzT1IkRIaaUbVJD23c.webp"
+    },
+    {
+      "place_id": "ChIJyZJVG4h3LIgRCyd1di5IQuo",
+      "name": "Grand River",
+      "address": "26 Main St #1, Cambridge, ON N1R 1W1, Canada",
+      "lat": 43.359052,
+      "lng": -80.31483999999999,
+      "google_maps_url": "https://maps.google.com/?cid=16880133717731125003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.grandriverbjj.ca/",
+      "logo": "/logos/ChIJyZJVG4h3LIgRCyd1di5IQuo.webp"
+    },
+    {
+      "place_id": "ChIJ9R6pNzEzK4gRYGywIPM4ZXs",
+      "name": "Grapple Lab",
+      "address": "1992 Yonge St, Toronto, ON M4S 1Z7, Canada",
+      "lat": 43.7001527,
+      "lng": -79.3973109,
+      "google_maps_url": "https://maps.google.com/?cid=8891575656189553760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://grapplelabbjj.com/",
+      "logo": "/logos/ChIJ9R6pNzEzK4gRYGywIPM4ZXs.webp"
+    },
+    {
+      "place_id": "ChIJycl4gYZ0j1QRl4rgK6iidic",
+      "name": "West Coast Brazilian Jiu Jitsu Victoria",
+      "address": "765 Broughton St, Victoria, BC V8W 1E3, Canada",
+      "lat": 48.4233368,
+      "lng": -123.36332549999999,
+      "google_maps_url": "https://maps.google.com/?cid=2843639057905388183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.westcoastjj.ca/",
+      "logo": "/logos/ChIJycl4gYZ0j1QRl4rgK6iidic.webp"
+    },
+    {
+      "place_id": "ChIJObeLS1_L1IkR6y5yC1UD7vU",
+      "name": "Ethereal Brazilian Jiu-Jitsu Academy",
+      "address": "555 Eastern Ave Unit 2, Toronto, ON M4M 1C8, Canada",
+      "lat": 43.6579726,
+      "lng": -79.33783509999999,
+      "google_maps_url": "https://maps.google.com/?cid=17721105247548616427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.etherealbjj.com/",
+      "logo": "/logos/ChIJObeLS1_L1IkR6y5yC1UD7vU.webp"
+    },
+    {
+      "place_id": "ChIJka62mbAvK4gRUuGxQ0p01Cw",
+      "name": "Vaughan Jiu-Jitsu Academy",
+      "address": "130 Racco Pkwy Unit 5, Vaughan, ON L4J 8X9, Canada",
+      "lat": 43.8164416,
+      "lng": -79.47545840000001,
+      "google_maps_url": "https://maps.google.com/?cid=3230334695043621202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.vaughanbjj.com/",
+      "logo": "/logos/ChIJka62mbAvK4gRUuGxQ0p01Cw.webp"
+    },
+    {
+      "place_id": "ChIJV2kDxhtSegwRkv5C5swZJMo",
+      "name": "Leslieville",
+      "address": "388 Carlaw Ave, Toronto, ON M4M 2T4, Canada",
+      "lat": 43.6657479,
+      "lng": -79.34251189999999,
+      "google_maps_url": "https://maps.google.com/?cid=14565795462650199698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://leslievillebjj.ca/",
+      "logo": "/logos/ChIJV2kDxhtSegwRkv5C5swZJMo.webp"
+    },
+    {
+      "place_id": "ChIJJ-EqDrdDK4gR6cdU-e0atzk",
+      "name": "Urban Jiu-Jitsu Canada",
+      "address": "1903 Ironoak Wy #6, Oakville, ON L6H 0N1, Canada",
+      "lat": 43.492031499999996,
+      "lng": -79.6804239,
+      "google_maps_url": "https://maps.google.com/?cid=4158822390292596713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://urbanjiu-jitsucanada.com/",
+      "logo": "/logos/ChIJJ-EqDrdDK4gR6cdU-e0atzk.webp"
+    },
+    {
+      "place_id": "ChIJV0PH75xAcVMRihiT8ni_wYI",
+      "name": "Authentic Jiu Jitsu",
+      "address": "3616 52 Ave NW, Calgary, AB T2L 1V9, Canada",
+      "lat": 51.1016955,
+      "lng": -114.1400735,
+      "google_maps_url": "https://maps.google.com/?cid=9422022421622495370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.authenticjiujitsu.com/",
+      "logo": "/logos/ChIJV0PH75xAcVMRihiT8ni_wYI.webp"
+    },
+    {
+      "place_id": "ChIJ_fuzFUxwhlQRiZTjqHcBU84",
+      "name": "Roll Jiu Jitsu Academy",
+      "address": "286 Pemberton Ave, North Vancouver, BC V7P 2R5, Canada",
+      "lat": 49.3200114,
+      "lng": -123.10746589999998,
+      "google_maps_url": "https://maps.google.com/?cid=14867228408326362249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.rjja.ca/",
+      "logo": "/logos/ChIJ_fuzFUxwhlQRiZTjqHcBU84.webp"
+    },
+    {
+      "place_id": "ChIJG4e-5cM1K4gRSfyk-g_K3NM",
+      "name": "UNITED",
+      "address": "346 Ryding Ave unit 101, York, ON M6N 1H5, Canada",
+      "lat": 43.668436799999995,
+      "lng": -79.4823421,
+      "google_maps_url": "https://maps.google.com/?cid=15266299006857575497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bjjunited.ca/",
+      "logo": "/logos/ChIJG4e-5cM1K4gRSfyk-g_K3NM.webp"
+    },
+    {
+      "place_id": "ChIJmxl1XAlR04kRnRehXfWrIQc",
+      "name": "St. Catharines",
+      "address": "55 St Paul St W, St. Catharines, ON L2S 2C4, Canada",
+      "lat": 43.148866399999996,
+      "lng": -79.24988739999999,
+      "google_maps_url": "https://maps.google.com/?cid=513880902823122845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://stcatharinesbjj.com/",
+      "logo": "/logos/ChIJmxl1XAlR04kRnRehXfWrIQc.webp"
+    },
+    {
+      "place_id": "ChIJZbM1nsz9zUwReIBqYIAR2eg",
+      "name": "Ground X Jiu Jitsu",
+      "address": "4325 Strandherd Dr, Nepean, ON K2J 6E5, Canada",
+      "lat": 45.2707147,
+      "lng": -75.7839814,
+      "google_maps_url": "https://maps.google.com/?cid=16778461129816572024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.groundxjiujitsu.com/?utm_source=GBP&utm_medium=organic&utm_campaign=office",
+      "logo": "/logos/ChIJZbM1nsz9zUwReIBqYIAR2eg.webp"
+    },
+    {
+      "place_id": "ChIJrw4iAvCWuEwR09fnm54Xow8",
+      "name": "Sampa Brazilian Jiu Jitsu Martial Arts",
+      "address": "1375 Rue Frank-Carrel #19, Québec, QC G1N 2E2, Canada",
+      "lat": 46.7969339,
+      "lng": -71.25854679999999,
+      "google_maps_url": "https://maps.google.com/?cid=1126770301760690131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.sampajjb.com/",
+      "logo": "/logos/ChIJrw4iAvCWuEwR09fnm54Xow8.webp"
+    },
+    {
+      "place_id": "ChIJ2Uu0_uVLV0ARGnrbN-gwx9k",
+      "name": "REVMMA—Revolution MMA Gym & Fitness Inc",
+      "address": "150 Lesmill Rd Section 5, North York, ON M3B 2M3, Canada",
+      "lat": 43.7593684,
+      "lng": -79.35856079999999,
+      "google_maps_url": "https://maps.google.com/?cid=15692565200523459098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://revmma.com/",
+      "logo": "/logos/ChIJ2Uu0_uVLV0ARGnrbN-gwx9k.webp"
+    },
+    {
+      "place_id": "ChIJmeAT32JD04kR8nNH08GEMtE",
+      "name": "Passador BJJ - Team Brasa Niagara",
+      "address": "4536 Portage Rd, Niagara Falls, ON L2E 6A8, Canada",
+      "lat": 43.1086619,
+      "lng": -79.0950518,
+      "google_maps_url": "https://maps.google.com/?cid=15074256870770701298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.passadorbjj.com/",
+      "logo": "/logos/ChIJmeAT32JD04kR8nNH08GEMtE.webp"
+    },
+    {
+      "place_id": "ChIJJXetHy3O1IkRCYU-538DFWI",
+      "name": "Straight Blast Gym Scarborough - Mixed Martial Arts",
+      "address": "489 Brimley Rd #2, Scarborough, ON M1J 1A3, Canada",
+      "lat": 43.7336385,
+      "lng": -79.24565559999999,
+      "google_maps_url": "https://maps.google.com/?cid=7067559038103225609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.sbgscarborough.com/",
+      "logo": "/logos/ChIJJXetHy3O1IkRCYU-538DFWI.webp"
+    },
+    {
+      "place_id": "ChIJxcxUf2zN1IkRohTsVAT6Qgo",
+      "name": "Thompson Jiu Jitsu Academy",
+      "address": "1518 Bayview Ave B, Toronto, ON M4G 3B4, Canada",
+      "lat": 43.703738799999996,
+      "lng": -79.37482399999999,
+      "google_maps_url": "https://maps.google.com/?cid=739428185353753762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.thompsonjiujitsu.com/",
+      "logo": "/logos/ChIJxcxUf2zN1IkRohTsVAT6Qgo.webp"
+    },
+    {
+      "place_id": "ChIJVynWEXVlcVMRkhMSNE4uzl0",
+      "name": "Dojo Nine",
+      "address": "4127 6 St NE Unit 5, Calgary, AB T2E 6V5, Canada",
+      "lat": 51.0893144,
+      "lng": -114.0491199,
+      "google_maps_url": "https://maps.google.com/?cid=6759391004145619858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://dojonine.com/",
+      "logo": "/logos/ChIJVynWEXVlcVMRkhMSNE4uzl0.webp"
+    },
+    {
+      "place_id": "ChIJcfkBv8lvcVMRzrwUJg33-9I",
+      "name": "YYC",
+      "address": "3507 17 Ave SW #205, Calgary, AB T3E 0B6, Canada",
+      "lat": 51.0375674,
+      "lng": -114.13716799999999,
+      "google_maps_url": "https://maps.google.com/?cid=15203016602964769998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.yycbjj.ca/",
+      "logo": "/logos/ChIJcfkBv8lvcVMRzrwUJg33-9I.webp"
+    },
+    {
+      "place_id": "ChIJe4De9K01K4gRiPHob6nu9Es",
+      "name": "Freestyle Dojo",
+      "address": "191 Geary Ave, Toronto, ON M6H 2C1, Canada",
+      "lat": 43.669668699999995,
+      "lng": -79.43735889999999,
+      "google_maps_url": "https://maps.google.com/?cid=5473261858656416136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://freestyledojo.ca/",
+      "logo": "/logos/ChIJe4De9K01K4gRiPHob6nu9Es.webp"
+    },
+    {
+      "place_id": "ChIJi_UgzmtD04kRkt2uAXrKJBU",
+      "name": "Niagara BJJ Niagara Falls",
+      "address": "3643 Portage Rd Unit 15, Niagara Falls, ON L2J 2K8, Canada",
+      "lat": 43.11996260000001,
+      "lng": -79.10024990000001,
+      "google_maps_url": "https://maps.google.com/?cid=1523565199321128338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.niagarabjj.com/",
+      "logo": "/logos/ChIJi_UgzmtD04kRkt2uAXrKJBU.webp"
+    },
+    {
+      "place_id": "ChIJLwxMpNt2hlQRmc56YkCyWFU",
+      "name": "Burnaby Vancouver Jiu-Jitsu - BVJJ",
+      "address": "3710 Canada Wy, Burnaby, BC V5G 1G4, Canada",
+      "lat": 49.2545413,
+      "lng": -123.02296690000001,
+      "google_maps_url": "https://maps.google.com/?cid=6149861280774278809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bvjj.ca/",
+      "logo": "/logos/ChIJLwxMpNt2hlQRmc56YkCyWFU.webp"
+    },
+    {
+      "place_id": "ChIJzUVrS75TXksRP0vTppAqQcQ",
+      "name": "Charlottetown Brazilian Jiu Jitsu Society",
+      "address": "152 Kent St, Charlottetown, PE C1A 1N9, Canada",
+      "lat": 46.236305699999996,
+      "lng": -63.1271564,
+      "google_maps_url": "https://maps.google.com/?cid=14141631105682590527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.charlottetownbjj.com/",
+      "logo": "/logos/ChIJzUVrS75TXksRP0vTppAqQcQ.webp"
+    },
+    {
+      "place_id": "ChIJyyaBNLI0K4gRjNCkbWsM4wo",
+      "name": "OpenMat MMA",
+      "address": "295 College St, Toronto, ON M5T 1R9, Canada",
+      "lat": 43.657570799999995,
+      "lng": -79.4013045,
+      "google_maps_url": "https://maps.google.com/?cid=784484415633150092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.openmat.ca/",
+      "logo": "/logos/ChIJyyaBNLI0K4gRjNCkbWsM4wo.webp"
+    },
+    {
+      "place_id": "ChIJicPd2M5PWUsRNClLOtLB7yg",
+      "name": "Truro",
+      "address": "779 Prince St, Truro, NS B2N 1G7, Canada",
+      "lat": 45.3649572,
+      "lng": -63.277680499999995,
+      "google_maps_url": "https://maps.google.com/?cid=2949789389616261428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.trurojiujitsu.com/",
+      "logo": "/logos/ChIJicPd2M5PWUsRNClLOtLB7yg.webp"
+    },
+    {
+      "place_id": "ChIJtcbftpnR1IkR08SS-mVgoQU",
+      "name": "KingJiuJitsu",
+      "address": "Inside Chu's Martial Arts, 55 Glen Cameron Rd Unit 2, Thornhill, ON L3T 1P2, Canada",
+      "lat": 43.806219000000006,
+      "lng": -79.4170292,
+      "google_maps_url": "https://maps.google.com/?cid=405711432551941331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.kingjiujitsu.com/",
+      "logo": "/logos/ChIJtcbftpnR1IkR08SS-mVgoQU.webp"
+    },
+    {
+      "place_id": "ChIJG5cG5bVwhlQRqtC6b5dbWjw",
+      "name": "NORTH BURNABY",
+      "address": "4543 Hastings St, Burnaby, BC V5C 2K3, Canada",
+      "lat": 49.2812133,
+      "lng": -123.0015262,
+      "google_maps_url": "https://maps.google.com/?cid=4348889096152338602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://northburnabyjiujitsu.com/",
+      "logo": "/logos/ChIJG5cG5bVwhlQRqtC6b5dbWjw.webp"
+    },
+    {
+      "place_id": "ChIJg-kH9ksayUwRR7IYmAqERyo",
+      "name": "Carlson Gracie Team Montreal -",
+      "address": "275 Rue Sherbrooke O, Montréal, QC H2X 1Y2, Canada",
+      "lat": 45.508823,
+      "lng": -73.571212,
+      "google_maps_url": "https://maps.google.com/?cid=3046548853975724615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.carlsongraciemontreal.com/",
+      "logo": "/logos/ChIJg-kH9ksayUwRR7IYmAqERyo.webp"
+    },
+    {
+      "place_id": "ChIJ94i4RUQayUwR4Sj8lNsc1z8",
+      "name": "BTT Canada",
+      "address": "680 Rue Sainte-Catherine O, Montréal, QC H3B 3Y5, Canada",
+      "lat": 45.5028241,
+      "lng": -73.5698116,
+      "google_maps_url": "https://maps.google.com/?cid=4600177273805220065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://btt-canada.com/",
+      "logo": "/logos/ChIJ94i4RUQayUwR4Sj8lNsc1z8.webp"
+    },
+    {
+      "place_id": "ChIJk8ATQNAXoFMRnt4pxnUY_nY",
+      "name": "Frontline Academy Canada",
+      "address": "214 Sioux Rd, Sherwood Park, AB T8A 3X5, Canada",
+      "lat": 53.5345679,
+      "lng": -113.32839200000001,
+      "google_maps_url": "https://maps.google.com/?cid=8574317634674876062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.frontlinebjj.com/",
+      "logo": "/logos/ChIJk8ATQNAXoFMRnt4pxnUY_nY.webp"
+    },
+    {
+      "place_id": "ChIJ6Z4ApXchpEwRANYu443A9Rw",
+      "name": "Absolute",
+      "address": "80 Bishop Dr, Fredericton, NB E3C 1B2, Canada",
+      "lat": 45.944431699999996,
+      "lng": -66.6928379,
+      "google_maps_url": "https://maps.google.com/?cid=2086785717990512128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://frederictonbjj.com/",
+      "logo": "/logos/ChIJ6Z4ApXchpEwRANYu443A9Rw.webp"
+    },
+    {
+      "place_id": "ChIJ0RAWnJAzK4gRPG4B9QI0Tm0",
+      "name": "Santos Brothers",
+      "address": "2486 Dufferin St, York, ON M6B 3R1, Canada",
+      "lat": 43.7009553,
+      "lng": -79.4521275,
+      "google_maps_url": "https://maps.google.com/?cid=7876289985622666812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.santosbrothersbjj.com/",
+      "logo": "/logos/ChIJ0RAWnJAzK4gRPG4B9QI0Tm0.webp"
+    },
+    {
+      "place_id": "ChIJF4824FabK4gRLTsdiEYrQVI",
+      "name": "Omerta",
+      "address": "121 Wyndham St N Unit 101, Guelph, ON N1H 4E9, Canada",
+      "lat": 43.5470921,
+      "lng": -80.24968559999999,
+      "google_maps_url": "https://maps.google.com/?cid=5927066166527605549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.omertabjj.com/",
+      "logo": "/logos/ChIJF4824FabK4gRLTsdiEYrQVI.webp"
+    },
+    {
+      "place_id": "ChIJkUwd4R-XuEwRAszjtKvDqOI",
+      "name": "Québec",
+      "address": "2376 Rue Galvani, Québec, QC G1N 4G4, Canada",
+      "lat": 46.7906382,
+      "lng": -71.2882883,
+      "google_maps_url": "https://maps.google.com/?cid=16332519190900755458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjquebec.com/",
+      "logo": "/logos/ChIJkUwd4R-XuEwRAszjtKvDqOI.webp"
+    },
+    {
+      "place_id": "ChIJ0caOXcXT1IkRMp-7YRtjwXw",
+      "name": "Gracie Jiu-Jitsu Toronto",
+      "address": "150 Lesmill Rd Section 7, Toronto, ON M3B 2M3, Canada",
+      "lat": 43.7593709,
+      "lng": -79.3586449,
+      "google_maps_url": "https://maps.google.com/?cid=8989575300463173426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.graciejiujitsutoronto.ca/",
+      "logo": "/logos/ChIJ0caOXcXT1IkRMp-7YRtjwXw.webp"
+    },
+    {
+      "place_id": "ChIJEVnser1BK4gRLAYDuLRkbkI",
+      "name": "Current Jiu Jitsu",
+      "address": "6810 Kitimat Rd Unit 8 and 9, Mississauga, ON L5N 5M2, Canada",
+      "lat": 43.607771500000005,
+      "lng": -79.7360831,
+      "google_maps_url": "https://maps.google.com/?cid=4786874181285512748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://currentbjj.com/",
+      "logo": "/logos/ChIJEVnser1BK4gRLAYDuLRkbkI.webp"
+    },
+    {
+      "place_id": "ChIJIdS9UO4H5S8R5DQ1baHP-DA",
+      "name": "New Valor Brazilian Jiu-Jitsu Academy",
+      "address": "3250 Ridgeway Dr Unit 7, Mississauga, ON L5L 5Y6, Canada",
+      "lat": 43.5190771,
+      "lng": -79.6992308,
+      "google_maps_url": "https://maps.google.com/?cid=3528798600273671396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.newvalorbjj.com/",
+      "logo": "/logos/ChIJIdS9UO4H5S8R5DQ1baHP-DA.webp"
+    },
+    {
+      "place_id": "ChIJwSNfNQrN1IkRL2mfXOKxCUc",
+      "name": "JT6 Studio",
+      "address": "28 Industrial St Unit 218, East York, ON M4G 1Y9, Canada",
+      "lat": 43.7084061,
+      "lng": -79.3592695,
+      "google_maps_url": "https://maps.google.com/?cid=5118818037257955631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.jt6studio.ca/",
+      "logo": "/logos/ChIJwSNfNQrN1IkRL2mfXOKxCUc.webp"
+    },
+    {
+      "place_id": "ChIJ_b6J3UQzK4gRSrUxJPy0Bzo",
+      "name": "Toronto No Gi",
+      "address": "1560 Yonge St, Toronto, ON M4T 2S9, Canada",
+      "lat": 43.689446499999995,
+      "lng": -79.3948527,
+      "google_maps_url": "https://maps.google.com/?cid=4181509774068790602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.torontonogi.com/",
+      "logo": "/logos/ChIJ_b6J3UQzK4gRSrUxJPy0Bzo.webp"
+    },
+    {
+      "place_id": "ChIJ_1MaoR9xcVMRcCCsBaJEIok",
+      "name": "10th Planet Jiu Jitsu Calgary",
+      "address": "6020 1a St SW #5, Calgary, AB T2H 0G3, Canada",
+      "lat": 50.9994689,
+      "lng": -114.0665526,
+      "google_maps_url": "https://maps.google.com/?cid=9881535995074846832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.10thplanetcalgary.com/",
+      "logo": "/logos/ChIJ_1MaoR9xcVMRcCCsBaJEIok.webp"
+    },
+    {
+      "place_id": "ChIJkbg067EJKogRzbU8-7qyz1w",
+      "name": "Georgian Bay",
+      "address": "146024 Grey Rd 12, Meaford, ON N4L 1W6, Meaford, ON N4L 1B4, Canada",
+      "lat": 44.5996017,
+      "lng": -80.61587519999999,
+      "google_maps_url": "https://maps.google.com/?cid=6687760487817197005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.georgianbaybjj.com/",
+      "logo": "/logos/ChIJkbg067EJKogRzbU8-7qyz1w.webp"
+    },
+    {
+      "place_id": "ChIJoyWhzooTK4gRv_rqRnpVpww",
+      "name": "Georgetown Brazilian Jiu Jitsu Academy",
+      "address": "unit #4, 29 Armstrong Ave, Georgetown, ON L7G 4S1, Canada",
+      "lat": 43.6556457,
+      "lng": -79.9063841,
+      "google_maps_url": "https://maps.google.com/?cid=911791433229990591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://georgetownjiujitsu.com/",
+      "logo": "/logos/ChIJoyWhzooTK4gRv_rqRnpVpww.webp"
+    },
+    {
+      "place_id": "ChIJ06i7Q_ZwcVMRfZI9zkOoQBg",
+      "name": "JR Academy",
+      "address": "6031 3 St SE, Calgary, AB T2H 1K3, Canada",
+      "lat": 50.9992266,
+      "lng": -114.057842,
+      "google_maps_url": "https://maps.google.com/?cid=1747581664596169341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://jracademy.co/",
+      "logo": "/logos/ChIJ06i7Q_ZwcVMRfZI9zkOoQBg.webp"
+    },
+    {
+      "place_id": "ChIJS7-sPiQvK4gRaWz7k7CcyGo",
+      "name": "KINGJIUJITSU VAUGHAN",
+      "address": "207 Edgeley Blvd Unit 19, Concord, ON L4K 4B5, Canada",
+      "lat": 43.7980625,
+      "lng": -79.5321127,
+      "google_maps_url": "https://maps.google.com/?cid=7694572245573397609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://kingjiujitsuvaughan.com/",
+      "logo": "/logos/ChIJS7-sPiQvK4gRaWz7k7CcyGo.webp"
+    }
+  ]
+}

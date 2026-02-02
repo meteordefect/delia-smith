@@ -1,7 +1,7 @@
 {
   "country": "Netherlands",
   "country_code": "NL",
-  "normalized_at": "2026-02-02T04:56:59.550Z",
+  "normalized_at": "2026-02-02T05:08:14.026Z",
   "gym_count": 60,
   "gyms": [
     {
@@ -35,16 +35,6 @@
       "logo": "/logos/ChIJ8Q_Ycg0JxkcRdRLcIpeks94.webp"
     },
     {
-      "place_id": "ChIJ71hoWwwLxkcRotedVm4RV88",
-      "name": "10th Planet Jiu-Jitsu Amsterdam",
-      "address": "H.J.E. Wenckebachweg 6V5, 1096 AN Amsterdam, Netherlands",
-      "lat": 52.336828999999994,
-      "lng": 4.927582699999999,
-      "google_maps_url": "https://maps.google.com/?cid=14940429454422169506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "website": "https://www.10thplanetjj.amsterdam/",
-      "logo": "/logos/ChIJ71hoWwwLxkcRotedVm4RV88.webp"
-    },
-    {
       "place_id": "ChIJm3daXzDNxUcRP3Woo9U5eow",
       "name": "Rotterdam",
       "address": "Prinsenlaan 80, 3066 KA Rotterdam, Netherlands",
@@ -53,6 +43,16 @@
       "google_maps_url": "https://maps.google.com/?cid=10122466702205154623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "website": "https://www.bjjrotterdam.nl/",
       "logo": "/logos/ChIJm3daXzDNxUcRP3Woo9U5eow.webp"
+    },
+    {
+      "place_id": "ChIJ71hoWwwLxkcRotedVm4RV88",
+      "name": "10th Planet Jiu-Jitsu Amsterdam",
+      "address": "H.J.E. Wenckebachweg 6V5, 1096 AN Amsterdam, Netherlands",
+      "lat": 52.336828999999994,
+      "lng": 4.927582699999999,
+      "google_maps_url": "https://maps.google.com/?cid=14940429454422169506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.10thplanetjj.amsterdam/",
+      "logo": "/logos/ChIJ71hoWwwLxkcRotedVm4RV88.webp"
     },
     {
       "place_id": "ChIJCe-W4yoJxkcRZZ3p_n0hMT8",
@@ -295,16 +295,6 @@
       "logo": "/logos/ChIJOf5GboQUuEcRWTDO2bM_09Y.webp"
     },
     {
-      "place_id": "ChIJb08JMVYzxEcReUvQZfEypPU",
-      "name": "MMA Rotterdam Ruthless Fight Company",
-      "address": "Vijverhofstraat 47, 3032 SB Rotterdam, Netherlands",
-      "lat": 51.929322299999995,
-      "lng": 4.4769533,
-      "google_maps_url": "https://maps.google.com/?cid=17700328447849548665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "website": "https://www.ruthlessfightcompany.com/",
-      "logo": "/logos/ChIJb08JMVYzxEcReUvQZfEypPU.webp"
-    },
-    {
       "place_id": "ChIJ33jEn71BxkcRn8CTC7wT6MI",
       "name": "Delta Jiu-Jitsu (BJJ)",
       "address": "Sportpark Bokkeduinen 11, 3819 BD Amersfoort, Netherlands",
@@ -355,6 +345,16 @@
       "logo": "/logos/ChIJe5Y9i86hxkcRFqKpSdhpdsE.webp"
     },
     {
+      "place_id": "ChIJq6oai6S4x0cRZYCq139FjEs",
+      "name": "De MMA Academy",
+      "address": "Gijsbrechtgaarde 107, 7329 CA Apeldoorn, Netherlands",
+      "lat": 52.2011423,
+      "lng": 5.9940714999999996,
+      "google_maps_url": "https://maps.google.com/?cid=5443802464965525605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.demmaacademy.nl/",
+      "logo": "/logos/ChIJq6oai6S4x0cRZYCq139FjEs.webp"
+    },
+    {
       "place_id": "ChIJl8MR7dALxkcRojlAFquGQFA",
       "name": "Amsterdam Training Center",
       "address": "H.J.E. Wenckebachweg 6, V5, 1096 AN Amsterdam, Netherlands",
@@ -363,6 +363,26 @@
       "google_maps_url": "https://maps.google.com/?cid=5782769990914554274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "website": "http://www.amsterdamtrainingcenter.nl/",
       "logo": "/logos/ChIJl8MR7dALxkcRojlAFquGQFA.webp"
+    },
+    {
+      "place_id": "ChIJn_l-cN0LxkcRT-ldeFR2IGw",
+      "name": "Tribe Grappling Amsterdam",
+      "address": "Duivendrecht NL, Joop Geesinkweg 501, 1114 AB Amsterdam, Netherlands",
+      "lat": 52.334194,
+      "lng": 4.9320822,
+      "google_maps_url": "https://maps.google.com/?cid=7791357460519709007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.tribegrappling.com/",
+      "logo": "/logos/ChIJn_l-cN0LxkcRT-ldeFR2IGw.webp"
+    },
+    {
+      "place_id": "ChIJ2TmU-Xmnx0cROnUkmI1vSe8",
+      "name": "FORTE",
+      "address": "Brabantweg 115, 6844 GA Arnhem, Netherlands",
+      "lat": 51.947403800000004,
+      "lng": 5.8595768999999995,
+      "google_maps_url": "https://maps.google.com/?cid=17242435302298252602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.fortebjj.nl/",
+      "logo": "/logos/ChIJ2TmU-Xmnx0cROnUkmI1vSe8.webp"
     },
     {
       "place_id": "ChIJO5KdTvS3xUcRAgSDunfb6D4",
@@ -385,6 +405,16 @@
       "logo": "/logos/ChIJc1vGgJkXxkcRSWjjShxyDfM.webp"
     },
     {
+      "place_id": "ChIJb08JMVYzxEcReUvQZfEypPU",
+      "name": "MMA Rotterdam Ruthless Fight Company",
+      "address": "Vijverhofstraat 47, 3032 SB Rotterdam, Netherlands",
+      "lat": 51.929322299999995,
+      "lng": 4.4769533,
+      "google_maps_url": "https://maps.google.com/?cid=17700328447849548665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.ruthlessfightcompany.com/",
+      "logo": "/logos/ChIJb08JMVYzxEcReUvQZfEypPU.webp"
+    },
+    {
       "place_id": "ChIJK-eqf4vvxUcR8x-zituqfz8",
       "name": "Zandvoort",
       "address": "Poststraat 1, 2042 HA Zandvoort, Netherlands",
@@ -405,34 +435,14 @@
       "logo": "/logos/ChIJoXXEvN9Nx0cR-ktK4C4_xvw.webp"
     },
     {
-      "place_id": "ChIJq6oai6S4x0cRZYCq139FjEs",
-      "name": "De MMA Academy",
-      "address": "Gijsbrechtgaarde 107, 7329 CA Apeldoorn, Netherlands",
-      "lat": 52.2011423,
-      "lng": 5.9940714999999996,
-      "google_maps_url": "https://maps.google.com/?cid=5443802464965525605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "website": "http://www.demmaacademy.nl/",
-      "logo": "/logos/ChIJq6oai6S4x0cRZYCq139FjEs.webp"
-    },
-    {
-      "place_id": "ChIJn_l-cN0LxkcRT-ldeFR2IGw",
-      "name": "Tribe Grappling Amsterdam",
-      "address": "Duivendrecht NL, Joop Geesinkweg 501, 1114 AB Amsterdam, Netherlands",
-      "lat": 52.334194,
-      "lng": 4.9320822,
-      "google_maps_url": "https://maps.google.com/?cid=7791357460519709007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "website": "http://www.tribegrappling.com/",
-      "logo": "/logos/ChIJn_l-cN0LxkcRT-ldeFR2IGw.webp"
-    },
-    {
-      "place_id": "ChIJ2TmU-Xmnx0cROnUkmI1vSe8",
-      "name": "FORTE",
-      "address": "Brabantweg 115, 6844 GA Arnhem, Netherlands",
-      "lat": 51.947403800000004,
-      "lng": 5.8595768999999995,
-      "google_maps_url": "https://maps.google.com/?cid=17242435302298252602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "website": "http://www.fortebjj.nl/",
-      "logo": "/logos/ChIJ2TmU-Xmnx0cROnUkmI1vSe8.webp"
+      "place_id": "ChIJASf-ggb4xUcRxD78r-Fh1sM",
+      "name": "Gracie Jiu Jitsu Alkmaar",
+      "address": "Nijenburgerweg 15, 1812 LT Alkmaar, Netherlands",
+      "lat": 52.6041679,
+      "lng": 4.742536500000001,
+      "google_maps_url": "https://maps.google.com/?cid=14111574104360107716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjj-alkmaar.nl/",
+      "logo": "/logos/ChIJASf-ggb4xUcRxD78r-Fh1sM.webp"
     },
     {
       "place_id": "ChIJQw0uhkYIxkcR7p_I57E0eEI",
@@ -525,6 +535,16 @@
       "logo": "/logos/ChIJadd8aLm3xUcRDyqn9YtU3oc.webp"
     },
     {
+      "place_id": "ChIJ74jieWfrwEcRUop4CXm5AxM",
+      "name": "Gracie Barra Maastricht",
+      "address": "Laan in Den Drink 2a, 6226 HG Maastricht, Netherlands",
+      "lat": 50.8430124,
+      "lng": 5.7301902,
+      "google_maps_url": "https://maps.google.com/?cid=1370142641151838802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjmaastricht.nl/?lang=en",
+      "logo": "/logos/ChIJ74jieWfrwEcRUop4CXm5AxM.webp"
+    },
+    {
       "place_id": "ChIJ26_SfToXxkcRjj6Aiza3RZc",
       "name": "Bataille Gym Almere MMA",
       "address": "Radioweg 34, 1324 KP Almere, Netherlands",
@@ -555,6 +575,26 @@
       "logo": "/logos/ChIJ3YZaPgbKxUcR0mRFxgzAW2o.webp"
     },
     {
+      "place_id": "ChIJyyHLrT23xUcR6LTfoqJmj5M",
+      "name": "MKNX - BJJ In The Hague City Center",
+      "address": "Nieuwe Molstraat 18, 2512 BK Den Haag, Netherlands",
+      "lat": 52.074275500000006,
+      "lng": 4.3131688,
+      "google_maps_url": "https://maps.google.com/?cid=10632830093948335336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://mknx-jiujitsu.nl/",
+      "logo": "/logos/ChIJyyHLrT23xUcR6LTfoqJmj5M.webp"
+    },
+    {
+      "place_id": "ChIJDeHoKJrhxUcRPGwNxlhaAfQ",
+      "name": "Fight Academy Amstelveen",
+      "address": "Bouwerij 50, 1185 XX Amstelveen, Netherlands",
+      "lat": 52.2802697,
+      "lng": 4.8384568,
+      "google_maps_url": "https://maps.google.com/?cid=17582433757557517372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.fight-academy.nl/",
+      "logo": "/logos/ChIJDeHoKJrhxUcRPGwNxlhaAfQ.webp"
+    },
+    {
       "place_id": "ChIJRZ703uYjx0cRbYqwWEsYWss",
       "name": "CSA Helmond - Combat Sports Academy Holland",
       "address": "Watermolenwal 16, 5701 RV Helmond, Netherlands",
@@ -563,46 +603,6 @@
       "google_maps_url": "https://maps.google.com/?cid=14653051049492908653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "website": "http://www.csaholland.com/",
       "logo": "/logos/ChIJRZ703uYjx0cRbYqwWEsYWss.webp"
-    },
-    {
-      "place_id": "ChIJQXLlCqM0xEcRFwaaziWTH84",
-      "name": "team agua",
-      "address": "Jan Ligthartstraat 91, 3071AX Rotterdam, Netherlands",
-      "lat": 51.885501,
-      "lng": 4.4965719,
-      "google_maps_url": "https://maps.google.com/?cid=14852751886680458775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "website": "http://www.teamagua.com/",
-      "logo": "/logos/ChIJQXLlCqM0xEcRFwaaziWTH84.webp"
-    },
-    {
-      "place_id": "ChIJP_Kbi5qjx0cR3OqvyMWezgw",
-      "name": "Fight Spirit",
-      "address": "Van Oldenbarneveldtstraat 85A, 6828 ZN Arnhem, Netherlands",
-      "lat": 51.975742399999994,
-      "lng": 5.9218614999999994,
-      "google_maps_url": "https://maps.google.com/?cid=922849545970248412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "website": "https://bjjarnhem.nl/",
-      "logo": "/logos/ChIJP_Kbi5qjx0cR3OqvyMWezgw.webp"
-    },
-    {
-      "place_id": "ChIJRRRqrt22xUcRpA-SllqQl04",
-      "name": "Team Agua",
-      "address": "Neherkade 2392, 2521 RR Den Haag, Netherlands",
-      "lat": 52.0628867,
-      "lng": 4.3194574999999995,
-      "google_maps_url": "https://maps.google.com/?cid=5663153775189299108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "website": "http://www.teamagua.com/",
-      "logo": "/logos/ChIJRRRqrt22xUcRpA-SllqQl04.webp"
-    },
-    {
-      "place_id": "ChIJZSxlzRDlxUcRnPb2cJVzsq0",
-      "name": "Haarlem",
-      "address": "Pieter Goedkoopweg 42, 2031 EL Haarlem, Netherlands",
-      "lat": 52.3948179,
-      "lng": 4.6556011999999996,
-      "google_maps_url": "https://maps.google.com/?cid=12516193400098584220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "website": "http://www.bjjhaarlem.nl/",
-      "logo": "/logos/ChIJZSxlzRDlxUcRnPb2cJVzsq0.webp"
     }
   ]
 }

@@ -1,0 +1,608 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "normalized_at": "2026-02-02T05:11:51.250Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJI-BxOKspUDARqE-CIa3ClLQ",
+      "name": "Southside MMA Thailand",
+      "address": "40/3, ตำบล ราไวย์ อำเภอเมืองภูเก็ต ภูเก็ต 83130, Thailand",
+      "lat": 7.7728646,
+      "lng": 98.32276549999999,
+      "google_maps_url": "https://maps.google.com/?cid=13012239272227524520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://southside-mma.com/",
+      "logo": "/logos/ChIJI-BxOKspUDARqE-CIa3ClLQ.webp"
+    },
+    {
+      "place_id": "ChIJCYbzWiovUDARzuoEhLAqsQI",
+      "name": "Phuket Grappling Academy- เบน รอยเล มาร์เชียล ฮาส์ต",
+      "address": "Phuket grappling academy, Tambon Rawai, Amphoe Mueang Phuket, Chang Wat Phuket 83130, Thailand",
+      "lat": 7.8244843,
+      "lng": 98.3302377,
+      "google_maps_url": "https://maps.google.com/?cid=193983196571167438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://phuketgrapplingacademy.com/",
+      "logo": "/logos/ChIJCYbzWiovUDARzuoEhLAqsQI.webp"
+    },
+    {
+      "place_id": "ChIJEWdXvewvUDARz1sy_fK-msg",
+      "name": "Born to Roll - BJJ Brazilian Jiu-Jitsu Phuket",
+      "address": "59, 209 Soi Saiyuan, Tambon Rawai, Mueang, Chang Wat Phuket 83130, Thailand",
+      "lat": 7.796609399999999,
+      "lng": 98.3271864,
+      "google_maps_url": "https://maps.google.com/?cid=14455075904838327247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.born-to-roll.com/",
+      "logo": "/logos/ChIJEWdXvewvUDARz1sy_fK-msg.webp"
+    },
+    {
+      "place_id": "ChIJF_sGfayf4jARE41MkjRu09s",
+      "name": "Arete",
+      "address": "13 Soi Thong Lo, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+      "lat": 13.733693299999999,
+      "lng": 100.58199619999999,
+      "google_maps_url": "https://maps.google.com/?cid=15840125486464011539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://aretethailand.com/",
+      "logo": "/logos/ChIJF_sGfayf4jARE41MkjRu09s.webp"
+    },
+    {
+      "place_id": "ChIJcWVZ5Qaf4jARSf4YfyatByo",
+      "name": "Grappling Academy",
+      "address": "259 5 Sukhumvit Soi 22, Khwaeng Khlong Tan, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+      "lat": 13.7298558,
+      "lng": 100.56571579999999,
+      "google_maps_url": "https://maps.google.com/?cid=3028579655282654793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.brazilianjiujitsubkk.com/",
+      "logo": "/logos/ChIJcWVZ5Qaf4jARSf4YfyatByo.webp"
+    },
+    {
+      "place_id": "ChIJo61msgqf4jARM6SugkWeVdM",
+      "name": "Bangkok Fight Lab - Jiu-Jitsu MMA & Muay Thai",
+      "address": "137 Soi Sukhumvit 50, Khwaeng Khlong Toei, Khet Khlong Toei, Krung Thep Maha Nakhon 102600, Thailand",
+      "lat": 13.705092599999999,
+      "lng": 100.5975023,
+      "google_maps_url": "https://maps.google.com/?cid=15228251736405615667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bangkokfightlab.com/",
+      "logo": "/logos/ChIJo61msgqf4jARM6SugkWeVdM.webp"
+    },
+    {
+      "place_id": "ChIJm3LnfU6f4jAR4SbGpEW-TSo",
+      "name": "Carpe Diem BJJ Bangkok",
+      "address": "5th Floor, 111 Soi Naradhiwas Rajanagarindra 7, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+      "lat": 13.718994799999999,
+      "lng": 100.53228159999999,
+      "google_maps_url": "https://maps.google.com/?cid=3048301729126164193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.carpediembjj-bangkok.com/",
+      "logo": "/logos/ChIJm3LnfU6f4jAR4SbGpEW-TSo.webp"
+    },
+    {
+      "place_id": "ChIJB4vEYeae4jARpy2PkzryvOI",
+      "name": "Ohana",
+      "address": "5th Floor, 29 Chit Lom Rd, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+      "lat": 13.7456947,
+      "lng": 100.54460710000001,
+      "google_maps_url": "https://maps.google.com/?cid=16338199881590975911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.ohanabjj.xyz/",
+      "logo": "/logos/ChIJB4vEYeae4jARpy2PkzryvOI.webp"
+    },
+    {
+      "place_id": "ChIJfeIUdL3xVDARsrtGOA99OEw",
+      "name": "SuperproSamui",
+      "address": "48/10 Moo 3 Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+      "lat": 9.511977600000002,
+      "lng": 100.0496635,
+      "google_maps_url": "https://maps.google.com/?cid=5492277249900460978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.superprosamui.com/",
+      "logo": "/logos/ChIJfeIUdL3xVDARsrtGOA99OEw.webp"
+    },
+    {
+      "place_id": "ChIJf6rE65BhHTERqh8ks4ospOA",
+      "name": "Family",
+      "address": "Building A 3rd Fl. Bangna Trad 5km, 1111/3 ถ. เทพรัตน Bangna, เขตบางนา กรุงเทพมหานคร 10260, Thailand",
+      "lat": 13.6651493,
+      "lng": 100.65143139999999,
+      "google_maps_url": "https://maps.google.com/?cid=16187111934899003306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/FamilyBJJBKK",
+      "logo": "/logos/ChIJf6rE65BhHTERqh8ks4ospOA.webp"
+    },
+    {
+      "place_id": "ChIJi6NyfFAuUDARc3y6xch2u04",
+      "name": "Phuket Fight Club",
+      "address": "19/2 Moo 3 Soi Palai, ตำบล ฉลอง อำเภอเมืองภูเก็ต ภูเก็ต 83130, Thailand",
+      "lat": 7.841374600000001,
+      "lng": 98.3628596,
+      "google_maps_url": "https://maps.google.com/?cid=5673258760286141555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.thephuketfightclub.com/",
+      "logo": "/logos/ChIJi6NyfFAuUDARc3y6xch2u04.webp"
+    },
+    {
+      "place_id": "ChIJ1QnKpaCf4jARbecmP394PPY",
+      "name": "Bigfoot BJJ Bangkok",
+      "address": "Pacific Apartments, Soi Napha Sap, Lane 2, Khwaeng Khlong Tan, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+      "lat": 13.7224354,
+      "lng": 100.574843,
+      "google_maps_url": "https://maps.google.com/?cid=17743189119848605549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bigfootbjjbkk.com/",
+      "logo": "/logos/ChIJ1QnKpaCf4jARbecmP394PPY.webp"
+    },
+    {
+      "place_id": "ChIJAxOP42ovUDARAijVdxcSLvs",
+      "name": "AKA Thailand",
+      "address": "ซ. เสริมสุข Tambon Rawai, Amphoe Mueang Phuket, Chang Wat Phuket 83100, Thailand",
+      "lat": 7.8144271000000005,
+      "lng": 98.328921,
+      "google_maps_url": "https://maps.google.com/?cid=18099423844452608002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://akathailand.com/",
+      "logo": "/logos/ChIJAxOP42ovUDARAijVdxcSLvs.webp"
+    },
+    {
+      "place_id": "ChIJs9cDqfqd4jARwifAepUybz4",
+      "name": "Tiger Eye Muay Thai and MMA",
+      "address": "180 Soi Pradiphat 9, Phaya Thai, Khet Phaya Thai, Krung Thep Maha Nakhon 10400, Thailand",
+      "lat": 13.786441199999999,
+      "lng": 100.53858629999999,
+      "google_maps_url": "https://maps.google.com/?cid=4498870170357344194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.tigereyemma.com/",
+      "logo": "/logos/ChIJs9cDqfqd4jARwifAepUybz4.webp"
+    },
+    {
+      "place_id": "ChIJtc0NBc6VAjERdr8z0mo2aDo",
+      "name": "Kombat Group",
+      "address": "49/1 หมู่ที่ 4 Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+      "lat": 12.873681,
+      "lng": 100.943326,
+      "google_maps_url": "https://maps.google.com/?cid=4208673684198768502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.kombatgroup.com/",
+      "logo": "/logos/ChIJtc0NBc6VAjERdr8z0mo2aDo.webp"
+    },
+    {
+      "place_id": "ChIJ3Z03n7M5UDARfIkDi4zWfhY",
+      "name": "Bangtao Muay Thai & MMA",
+      "address": "72/46 Moo 3 Cherngtalay, ตำบลเชิงทะเล อำเภอถลาง ภูเก็ต 83110, Thailand",
+      "lat": 7.9857046,
+      "lng": 98.2911949,
+      "google_maps_url": "https://maps.google.com/?cid=1620968815015987580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bangtaomuaythai.com/",
+      "logo": "/logos/ChIJ3Z03n7M5UDARfIkDi4zWfhY.webp"
+    },
+    {
+      "place_id": "ChIJnU0E1FMvUDARJQOzm8Ff0is",
+      "name": "Absolute MMA Thailand",
+      "address": "81/49 ถนน สายยวน Tambon Rawai, อำเภอ เมืองภูเก็ต Chang Wat Phuket 83130, Thailand",
+      "lat": 7.795474,
+      "lng": 98.316746,
+      "google_maps_url": "https://maps.google.com/?cid=3157691573885666085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://absolutemmathailand.com/",
+      "logo": "/logos/ChIJnU0E1FMvUDARJQOzm8Ff0is.webp"
+    },
+    {
+      "place_id": "ChIJMdPp0YGf4jARNByOl8-ts_c",
+      "name": "BANGKOK",
+      "address": "43 Soi Phueng Mi 9, Bang Chak, Phra Khanong, แขวงบางจาก Phra kanong, กรุงเทพมหานคร 10260, Thailand",
+      "lat": 13.7040844,
+      "lng": 100.61200819999999,
+      "google_maps_url": "https://maps.google.com/?cid=17848800855311916084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/bangkokbjj",
+      "logo": "/logos/ChIJMdPp0YGf4jARNByOl8-ts_c.webp"
+    },
+    {
+      "place_id": "ChIJmfAhFbyXAjERDMNXIMu_K_Q",
+      "name": "Rage Fight Academy",
+      "address": "Thrappaya Road, 308/45 Soi Norway, เมืองพัทยา อำเภอบางละมุง ชลบุรี 20150, Thailand",
+      "lat": 12.911080799999999,
+      "lng": 100.8724998,
+      "google_maps_url": "https://maps.google.com/?cid=17594367248394863372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://ragefightacademy.com/",
+      "logo": "/logos/ChIJmfAhFbyXAjERDMNXIMu_K_Q.webp"
+    },
+    {
+      "place_id": "ChIJF_6NHQABAzERvEhUCnAkNgA",
+      "name": "(BJJ) Rayong",
+      "address": "J9CH+6HP, 8, Tambon Taphong, Amphoe Mueang Rayong, Chang Wat Rayong 21000, Thailand",
+      "lat": 12.620170499999999,
+      "lng": 101.3787164,
+      "google_maps_url": "https://maps.google.com/?cid=15239712370608316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.treerootsretreat.com/classes",
+      "logo": "/logos/ChIJF_6NHQABAzERvEhUCnAkNgA.webp"
+    },
+    {
+      "place_id": "ChIJe1_Y6EIvUDAR7UYB-0TrQwA",
+      "name": "Nova Uniao Phuket",
+      "address": "45/28 Soi Ta-iad, Tambon Chalong, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+      "lat": 7.851081100000001,
+      "lng": 98.34918839999999,
+      "google_maps_url": "https://maps.google.com/?cid=19117504941082349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://novauniaophuket.com/",
+      "logo": "/logos/ChIJe1_Y6EIvUDAR7UYB-0TrQwA.webp"
+    },
+    {
+      "place_id": "ChIJK8Yx6sSr_TARPQyn954l9RM",
+      "name": "Miranda Fight Team Hua HIn",
+      "address": "Trex Sports Club Tambon Hin Lek Fai, Amphoe Hua Hin, Chang Wat Prachuap Khiri Khan 77110, Thailand",
+      "lat": 12.5785792,
+      "lng": 99.9213996,
+      "google_maps_url": "https://maps.google.com/?cid=1438097020704721981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.mirandabjj.com/",
+      "logo": "/logos/ChIJK8Yx6sSr_TARPQyn954l9RM.webp"
+    },
+    {
+      "place_id": "ChIJOWSbweI72jARTsxX_uLQuJ0",
+      "name": "Pure Grappling Chiang Mai",
+      "address": "Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+      "lat": 18.7877711,
+      "lng": 98.96305930000001,
+      "google_maps_url": "https://maps.google.com/?cid=11365063333017799758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.puregrappling.org/",
+      "logo": "/logos/ChIJOWSbweI72jARTsxX_uLQuJ0.webp"
+    },
+    {
+      "place_id": "ChIJ2Szrg8gvUDARHJ0m6A8lleU",
+      "name": "Tiger Muay Thai",
+      "address": "7 35 Soi Ta-iad, Tambon Chalong, เมือง Chang Wat Phuket 83130, Thailand",
+      "lat": 7.856117500000001,
+      "lng": 98.3433967,
+      "google_maps_url": "https://maps.google.com/?cid=16543169556464966940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.tigermuaythai.com/",
+      "logo": "/logos/ChIJ2Szrg8gvUDARHJ0m6A8lleU.webp"
+    },
+    {
+      "place_id": "ChIJhSrhg2IvUDARxcEex3errmc",
+      "name": "Lions MMA Club Phuket",
+      "address": "45, 28 Soi Ta-iad, Tambon Chalong, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+      "lat": 7.8509987,
+      "lng": 98.34928389999999,
+      "google_maps_url": "https://maps.google.com/?cid=7471097362784371141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.lionsmmaclub.com/",
+      "logo": "/logos/ChIJhSrhg2IvUDARxcEex3errmc.webp"
+    },
+    {
+      "place_id": "ChIJk6zBNwef4jARCQ5MmV1odd0",
+      "name": "Elite Fight Club",
+      "address": "758/22 วอเตอร์ไดมอนด์ ทาวเวอร์ Soi Sukhumvit 30/1, Khwaeng Khlong Tan, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+      "lat": 13.726714099999999,
+      "lng": 100.5731067,
+      "google_maps_url": "https://maps.google.com/?cid=15957775605870366217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.elitefightclub.com/",
+      "logo": "/logos/ChIJk6zBNwef4jARCQ5MmV1odd0.webp"
+    },
+    {
+      "place_id": "ChIJaQwAWgI72jAR0CIsAiBQZvs",
+      "name": "Gato Studio",
+      "address": "เลขที่ 181/40 Thanon Changhuak, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+      "lat": 18.803323499999998,
+      "lng": 98.9849812,
+      "google_maps_url": "https://maps.google.com/?cid=18115254649550021328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/gatostudio.bjj?igshid=YmMyMTA2M2Y=",
+      "logo": "/logos/ChIJaQwAWgI72jAR0CIsAiBQZvs.webp"
+    },
+    {
+      "place_id": "ChIJv4WW5Hr9VDAR4CNZQJxH_-g",
+      "name": "Alfa",
+      "address": "111, 123/3, ตำบล บ้านใต้ Koh Phangan, สุราษฎร์ธานี 84280, Thailand",
+      "lat": 9.704767499999999,
+      "lng": 100.0114412,
+      "google_maps_url": "https://maps.google.com/?cid=16789216672280552416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/alfa_trainingcamp_kpg?igshid=YmMyMTA2M2Y=",
+      "logo": "/logos/ChIJv4WW5Hr9VDAR4CNZQJxH_-g.webp"
+    },
+    {
+      "place_id": "ChIJaXR0e1af4jARlPnBbNPoUB4",
+      "name": "POM GYM BJJ & Muay Thai",
+      "address": "Onnut Soi 17/1 Thailand 921/2 Thanon Sukhumvit 77, Khwaeng Suan Luang, Khet Suan Luang, Krung Thep Maha Nakhon 10250, Thailand",
+      "lat": 13.7116613,
+      "lng": 100.6121409,
+      "google_maps_url": "https://maps.google.com/?cid=2184501814035085716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/pomgymbkk?igsh=cnJtbzgzM2oyamF1",
+      "logo": "/logos/ChIJaXR0e1af4jARlPnBbNPoUB4.webp"
+    },
+    {
+      "place_id": "ChIJt1-dqgMx2jARyQmdUUn5x-Y",
+      "name": "Lazy Leopard BJJ and MMA",
+      "address": "Soi Mu Ban World Cup, Tambon Nong Kwai, Amphoe Hang Dong, Chang Wat Chiang Mai 50230, Thailand",
+      "lat": 18.7293534,
+      "lng": 98.94002239999999,
+      "google_maps_url": "https://maps.google.com/?cid=16629534242386020809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://lazyleopardbjj.com/",
+      "logo": "/logos/ChIJt1-dqgMx2jARyQmdUUn5x-Y.webp"
+    },
+    {
+      "place_id": "ChIJk3DnhJGD4jARJl4DfdJoxQU",
+      "name": "jujitsu & BJJ boriboonsil Don Mueang gym",
+      "address": "เลขที่ 200/377 Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+      "lat": 13.887118699999998,
+      "lng": 100.57883350000002,
+      "google_maps_url": "https://maps.google.com/?cid=415853793851432486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/gambit.jiujitsu",
+      "logo": "/logos/ChIJk3DnhJGD4jARJl4DfdJoxQU.webp"
+    },
+    {
+      "place_id": "ChIJz7UgsFUl2jARn17hMMzT9lM",
+      "name": "Core Combat Chiang Mai",
+      "address": "215/2 Changklan Rd, Tambon Chang Khlan, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100, Thailand",
+      "lat": 18.7723886,
+      "lng": 98.9988896,
+      "google_maps_url": "https://maps.google.com/?cid=6050256023365705375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.corecombatchiangmai.com/",
+      "logo": "/logos/ChIJz7UgsFUl2jARn17hMMzT9lM.webp"
+    },
+    {
+      "place_id": "ChIJp3y4yeF7HTER-b0PvWFyuuc",
+      "name": "Arete Brazilian Jiu-Jitsu Minburi",
+      "address": "588/1(A31, Thanon Hathai Rat, Samwatawantok, Klongsamwa, Krung Thep Maha Nakhon 10510, Thailand",
+      "lat": 13.911659199999999,
+      "lng": 100.7243215,
+      "google_maps_url": "https://maps.google.com/?cid=16697784332538854905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.areteminburi.com/",
+      "logo": "/logos/ChIJp3y4yeF7HTER-b0PvWFyuuc.webp"
+    },
+    {
+      "place_id": "ChIJA7ylQjIX2jARhZ0Sgmt9NPs",
+      "name": "Tiger Muay Thai School & Training Camp, Chiang Mai, Thailand",
+      "address": "298, Tambon Mae Faek Mai, Amphoe San Sai, Chang Wat Chiang Mai 50290, Thailand",
+      "lat": 18.9750124,
+      "lng": 98.99184140000001,
+      "google_maps_url": "https://maps.google.com/?cid=18101230703006096773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://tigermuaythaichiangmai.com/",
+      "logo": "/logos/ChIJA7ylQjIX2jARhZ0Sgmt9NPs.webp"
+    },
+    {
+      "place_id": "ChIJ23FHJGC94jARVIKnPckdpo8",
+      "name": "Gracie Jiu-Jitsu Bangkok",
+      "address": "41/1 Clix, ถ. พระรามที่ 2 แขวงแสมดำ Subdistrict, กรุงเทพมหานคร 10150, Thailand",
+      "lat": 13.6631254,
+      "lng": 100.43434529999999,
+      "google_maps_url": "https://maps.google.com/?cid=10350993543717683796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://graciebjjbkk.com/",
+      "logo": "/logos/ChIJ23FHJGC94jARVIKnPckdpo8.webp"
+    },
+    {
+      "place_id": "ChIJuVESL_IvUDARPeul0fJuXRI",
+      "name": "P’Chai Muay Thai & MMA",
+      "address": "81, 49 SOI SAMAKKHEE 2, Tambon Rawai, Phuket, Chang Wat Phuket 83130, Thailand",
+      "lat": 7.7954734,
+      "lng": 98.31674249999999,
+      "google_maps_url": "https://maps.google.com/?cid=1323335854695246653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJuVESL_IvUDARPeul0fJuXRI.webp"
+    },
+    {
+      "place_id": "ChIJi9Df5aY72jARrwb5DcEwQQE",
+      "name": "Kaizen Jiu Jitsu Chiang Mai",
+      "address": "Ruamchok Mall, 2nd Floor, 189, ตำบล ฟ้าฮ่าม Chiang Mai, เชียงใหม่ 50000, Thailand",
+      "lat": 18.8249848,
+      "lng": 99.0117137,
+      "google_maps_url": "https://maps.google.com/?cid=90407073245365935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJi9Df5aY72jARrwb5DcEwQQE.webp"
+    },
+    {
+      "place_id": "ChIJG1kaTbWf4jAR22BfIs0VXsY",
+      "name": "INNOV8 MMA - Brazilian Jiu-Jitsu, MMA, & Muay Thai",
+      "address": "169 Soi Sukhumvit 93, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+      "lat": 13.7005567,
+      "lng": 100.6078385,
+      "google_maps_url": "https://maps.google.com/?cid=14293886238109688027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.innov8mma.com/",
+      "logo": "/logos/ChIJG1kaTbWf4jAR22BfIs0VXsY.webp"
+    },
+    {
+      "place_id": "ChIJNSVDcC6Z4jARSP9CCcEywQQ",
+      "name": "Valhalla mma gym",
+      "address": "Soi So No Bangkok Noi, บางกอกน้อย, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand",
+      "lat": 13.7604269,
+      "lng": 100.47155049999999,
+      "google_maps_url": "https://maps.google.com/?cid=342610851322330952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/ValhallammaGym",
+      "logo": "/logos/ChIJNSVDcC6Z4jARSP9CCcEywQQ.webp"
+    },
+    {
+      "place_id": "ChIJSYxfh9qY4jARHbCJXceh8_o",
+      "name": "Executive Martial Arts Centre",
+      "address": "140/1-264 San Chao, Khwaeng Si Phraya, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand",
+      "lat": 13.726633300000001,
+      "lng": 100.5178481,
+      "google_maps_url": "https://maps.google.com/?cid=18082974806462541853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJSYxfh9qY4jARHbCJXceh8_o.webp"
+    },
+    {
+      "place_id": "ChIJEXEk3hQDTjARZg4UdasMN6o",
+      "name": "Icon BJJ Ko Lanta",
+      "address": "349, Icon Jiu-Jitsu, Saladan, Tambon Sala Dan, Amphoe Ko Lanta, Chang Wat Krabi 81150, Thailand",
+      "lat": 7.6331280999999995,
+      "lng": 99.0341119,
+      "google_maps_url": "https://maps.google.com/?cid=12265286040710024806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/lantabjj",
+      "logo": "/logos/ChIJEXEk3hQDTjARZg4UdasMN6o.webp"
+    },
+    {
+      "place_id": "ChIJ-zfNYJGf4jAR1_A-ERf8vTk",
+      "name": "Combat Studios",
+      "address": "Ambassador Hotel, Soi Sukhumvit 11, Khwaeng Khlong Toei Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+      "lat": 13.742175800000002,
+      "lng": 100.5566882,
+      "google_maps_url": "https://maps.google.com/?cid=4160758806763991255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.combatstudios.tv/",
+      "logo": "/logos/ChIJ-zfNYJGf4jAR1_A-ERf8vTk.webp"
+    },
+    {
+      "place_id": "ChIJ-ciG0kU72jARscepokvK5hQ",
+      "name": "Dang Muay Thai Gym & Muay Thai Gear Shop",
+      "address": "43, 1 Thanon Arak, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+      "lat": 18.788309299999998,
+      "lng": 98.97841869999999,
+      "google_maps_url": "https://maps.google.com/?cid=1506113551602403249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.dangmuaythai.com/",
+      "logo": "/logos/ChIJ-ciG0kU72jARscepokvK5hQ.webp"
+    },
+    {
+      "place_id": "ChIJxZoSfJY5UDARpkALfGrOjEE",
+      "name": "Sutai Muay Thai Gym Camp Shop",
+      "address": "110 221 Soi Hat Surin 8, Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83100, Thailand",
+      "lat": 7.982667999999999,
+      "lng": 98.28113289999999,
+      "google_maps_url": "https://maps.google.com/?cid=4723377065947775142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://sutaiphuket.com/",
+      "logo": "/logos/ChIJxZoSfJY5UDARpkALfGrOjEE.webp"
+    },
+    {
+      "place_id": "ChIJ17vHT1-f4jARtmXCIacJJi4",
+      "name": "Migaku Fitness Club",
+      "address": "16 Sukhumvit Rd, Khwaeng Khlong Tan, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+      "lat": 13.729164299999999,
+      "lng": 100.568613,
+      "google_maps_url": "https://maps.google.com/?cid=3325355988290266550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://dl-migaku.com/",
+      "logo": "/logos/ChIJ17vHT1-f4jARtmXCIacJJi4.webp"
+    },
+    {
+      "place_id": "ChIJW9cE2U7rUTARaLS4S4ovSKg",
+      "name": "Over The Top Muay Thai & MMA Gym",
+      "address": "723 moo 2 soi 9 Mueang, ตำบล อ่าวนาง Krabi, กระบี่ 81180, Thailand",
+      "lat": 8.0384531,
+      "lng": 98.8364927,
+      "google_maps_url": "https://maps.google.com/?cid=12125994267717448808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://overthetopkrabi.com/",
+      "logo": "/logos/ChIJW9cE2U7rUTARaLS4S4ovSKg.webp"
+    },
+    {
+      "place_id": "ChIJ5Z8faQfxVDAR0_YI4wGhol0",
+      "name": "Royal Fight Club Samui",
+      "address": "G26X+XR6, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+      "lat": 9.5124087,
+      "lng": 100.0495069,
+      "google_maps_url": "https://maps.google.com/?cid=6747132221230479059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.royal-fightclub.com/",
+      "logo": "/logos/ChIJ5Z8faQfxVDAR0_YI4wGhol0.webp"
+    },
+    {
+      "place_id": "ChIJtVNs29qf4jAREwMAI4Z-qKA",
+      "name": "Marrok Gym Rama 3",
+      "address": "1238 Thanon Rama III, Khwaeng Chong Nonsi, Khet Yan Nawa, Krung Thep Maha Nakhon 10120, Thailand",
+      "lat": 13.679141699999999,
+      "lng": 100.5476747,
+      "google_maps_url": "https://maps.google.com/?cid=11576641956733780755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.marrokgroup.com/?utm_source=google&utm_medium=gmb&utm_campaign=local-search",
+      "logo": "/logos/ChIJtVNs29qf4jAREwMAI4Z-qKA.webp"
+    },
+    {
+      "place_id": "ChIJtWTKC00vUDAR43jL3LDNVTo",
+      "name": "Fightlab Rawai | Thai Boxing Shorts & MMA Equipment",
+      "address": "Soi samakki4, Tambon Rawai, Amphoe Mueang Phuket, Chang Wat Phuket 83130, Thailand",
+      "lat": 7.792859,
+      "lng": 98.3215357,
+      "google_maps_url": "https://maps.google.com/?cid=4203491986722486499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.fightlab.com/",
+      "logo": "/logos/ChIJtWTKC00vUDAR43jL3LDNVTo.webp"
+    },
+    {
+      "place_id": "ChIJveDEgPdjHTERv8X-vOkV8oM",
+      "name": "RAW BJJ TEAM & TAEKWONDO",
+      "address": "2nd floor Summakorn Soi Muban Center Place, หัวหมาก Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand",
+      "lat": 13.7762698,
+      "lng": 100.6735728,
+      "google_maps_url": "https://maps.google.com/?cid=9507685856974915007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/profile.php?id=100063579332521",
+      "logo": "/logos/ChIJveDEgPdjHTERv8X-vOkV8oM.webp"
+    },
+    {
+      "place_id": "ChIJ802dyVotHDERqNQCPg1K9MQ",
+      "name": "Khao Yai Muay Thai",
+      "address": "Discovery Hill Resort, Tambon Nong Nam Daeng, Amphoe Pak Chong, Chang Wat Nakhon Ratchasima 30130, Thailand",
+      "lat": 14.593533799999998,
+      "lng": 101.35112439999999,
+      "google_maps_url": "https://maps.google.com/?cid=14192049746486678696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.khaoyaimuaythai.com/",
+      "logo": "/logos/ChIJ802dyVotHDERqNQCPg1K9MQ.webp"
+    },
+    {
+      "place_id": "ChIJmQxjGpV_4jARW4T56uUCnIY",
+      "name": "WildCard MMA",
+      "address": "ตรงข้าม tu โดม, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+      "lat": 14.0671267,
+      "lng": 100.6011565,
+      "google_maps_url": "https://maps.google.com/?cid=9699630883962192987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://m.facebook.com/wildcardmmagym/",
+      "logo": "/logos/ChIJmQxjGpV_4jARW4T56uUCnIY.webp"
+    },
+    {
+      "place_id": "ChIJoQ3fG7OZ4jARczXUuzpSLAM",
+      "name": "Studio Fluff Bangkok",
+      "address": "54, 28 Soi Santiphap, Khwaeng Si Phraya, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand",
+      "lat": 13.7291981,
+      "lng": 100.5261893,
+      "google_maps_url": "https://maps.google.com/?cid=228648093301880179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJoQ3fG7OZ4jARczXUuzpSLAM.webp"
+    },
+    {
+      "place_id": "ChIJGy0vgGKVAjERHAPw17ZtJnI",
+      "name": "EVO360 Muay Thai",
+      "address": "193 15 หมู่ที่ 11 Thanon Thep Prasit, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+      "lat": 12.9095432,
+      "lng": 100.8914839,
+      "google_maps_url": "https://maps.google.com/?cid=8225382401513095964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJGy0vgGKVAjERHAPw17ZtJnI.webp"
+    },
+    {
+      "place_id": "ChIJSUZcUlmd4jARm7uX-Ok7KXs",
+      "name": "Arete BJJ Chatuchak",
+      "address": "No. 18, 5th Floor, The Upper Ground, แขวงจตุจักร เขตจตุจักร กรุงเทพมหานคร 10900, Thailand",
+      "lat": 13.7978391,
+      "lng": 100.54664650000001,
+      "google_maps_url": "https://maps.google.com/?cid=8874690416794385307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://aretebjjchatuchak.gymdesk.com/",
+      "logo": "/logos/ChIJSUZcUlmd4jARm7uX-Ok7KXs.webp"
+    },
+    {
+      "place_id": "ChIJJ-SaUKD_VDARHmweePoOGCg",
+      "name": "Martial Arts Academy",
+      "address": "42, Woktum, 6, Tambon Ko Pha-ngan, Amphoe Ko Pha-ngan, Chang Wat Surat Thani 84280, Thailand",
+      "lat": 9.7359075,
+      "lng": 99.9800451,
+      "google_maps_url": "https://maps.google.com/?cid=2889075629878045726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://maa-phangan.com/",
+      "logo": "/logos/ChIJJ-SaUKD_VDARHmweePoOGCg.webp"
+    },
+    {
+      "place_id": "ChIJ30u28vmf4jARDTXX9XDJUpw",
+      "name": "Jungle Hunterz Muaythai มวยไทย",
+      "address": "8 ซ. ริมทางด่วน 2 Phra Khanong Tai, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
+      "lat": 13.692092400000002,
+      "lng": 100.5977917,
+      "google_maps_url": "https://maps.google.com/?cid=11264287105005073677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://junglehuntersmma.com/pages/membership-info",
+      "logo": "/logos/ChIJ30u28vmf4jARDTXX9XDJUpw.webp"
+    },
+    {
+      "place_id": "ChIJ_____wxgHTERNLEGsDIa_oI",
+      "name": "7Stars muaythai Gym",
+      "address": "2994 60 Phatthanakan Rd, Khwaeng Suan Luang, Khet Suan Luang, Krung Thep Maha Nakhon 10250, Thailand",
+      "lat": 13.7305508,
+      "lng": 100.65097250000001,
+      "google_maps_url": "https://maps.google.com/?cid=9439010674019053876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ_____wxgHTERNLEGsDIa_oI.webp"
+    },
+    {
+      "place_id": "ChIJMSs7_yeX3zARJVYmM5dut1M",
+      "name": "JP Boxing Gym",
+      "address": "10/61 Damripattana (Sriharach Dechochai 14) Ban Klong Sub Dristic, Mung, อำเภอเมืองพิษณุโลก พิษณุโลก 65000, Thailand",
+      "lat": 16.8214239,
+      "lng": 100.2385565,
+      "google_maps_url": "https://maps.google.com/?cid=6032411821563336229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.jpboxinggym.com/",
+      "logo": "/logos/ChIJMSs7_yeX3zARJVYmM5dut1M.webp"
+    },
+    {
+      "place_id": "ChIJMVue_Vw62jARrXT_rECve4g",
+      "name": "Lanna Muay Thai",
+      "address": "177, Amphoe Saraphi, Chang Wat Chiang Mai 50140, Thailand",
+      "lat": 18.7147859,
+      "lng": 98.9979711,
+      "google_maps_url": "https://maps.google.com/?cid=9834646903608800429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://lanna-muaythai.com/",
+      "logo": "/logos/ChIJMVue_Vw62jARrXT_rECve4g.webp"
+    }
+  ]
+}

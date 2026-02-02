@@ -1,0 +1,608 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "normalized_at": "2026-02-02T05:06:17.227Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJXSG9DzAFdkgRo97y-4eckjM",
+      "name": "ART UK -",
+      "address": "6 Sancroft St, London SE11 5UD, UK",
+      "lat": 51.4892003,
+      "lng": -0.1123999,
+      "google_maps_url": "https://maps.google.com/?cid=3716204750395596451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bjj-art.com/",
+      "logo": "/logos/ChIJXSG9DzAFdkgRo97y-4eckjM.webp"
+    },
+    {
+      "place_id": "ChIJ5wsYAX4bdkgRkP8cbckzbiE",
+      "name": "The London Jiu Jitsu Centre",
+      "address": "10 William Rd, London NW1 3EN, UK",
+      "lat": 51.527358799999995,
+      "lng": -0.13964859999999998,
+      "google_maps_url": "https://maps.google.com/?cid=2408919790901854096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.londonjiujitsucentre.com/",
+      "logo": "/logos/ChIJ5wsYAX4bdkgRkP8cbckzbiE.webp"
+    },
+    {
+      "place_id": "ChIJv9Fw4xcQdkgRX9NDfvyow8o",
+      "name": "Roger Gracie Brazilian Jiu Jitsu Academy HQ",
+      "address": "Ground Floor, Glen House, 22-24 Glenthorne Rd, London W6 0NG, UK",
+      "lat": 51.494640399999994,
+      "lng": -0.2267265,
+      "google_maps_url": "https://maps.google.com/?cid=14610707418523620191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://rogergracie.com/",
+      "logo": "/logos/ChIJv9Fw4xcQdkgRX9NDfvyow8o.webp"
+    },
+    {
+      "place_id": "ChIJazxs3kQDdkgRJba1w1sbjKk",
+      "name": "Canary Wharf",
+      "address": "Unit 165, Canon Workshop, London E14 4AS, UK",
+      "lat": 51.507612699999996,
+      "lng": -0.0264391,
+      "google_maps_url": "https://maps.google.com/?cid=12217169970088752677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.canarywharfbjj.com/",
+      "logo": "/logos/ChIJazxs3kQDdkgRJba1w1sbjKk.webp"
+    },
+    {
+      "place_id": "ChIJY54iVc4FdkgRumU2T3paXpI",
+      "name": "BUDDHABOX x BALANCE BRAZILIAN JIUJITSU ACADEMY",
+      "address": "16 Berkeley St, London W1J 8DZ, UK",
+      "lat": 51.5086448,
+      "lng": -0.14327289999999998,
+      "google_maps_url": "https://maps.google.com/?cid=10546966858709755322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.balancebjj.co.uk/",
+      "logo": "/logos/ChIJY54iVc4FdkgRumU2T3paXpI.webp"
+    },
+    {
+      "place_id": "ChIJx16enUpPiEgRxNBmvuJ3lko",
+      "name": "MNBJJ Glasgow",
+      "address": "Unit A, 24 Rosyth Rd, Glasgow G5 0YD, UK",
+      "lat": 55.8367932,
+      "lng": -4.2354894,
+      "google_maps_url": "https://maps.google.com/?cid=5374615021053989060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.mnbjjglasgow.co.uk/",
+      "logo": "/logos/ChIJx16enUpPiEgRxNBmvuJ3lko.webp"
+    },
+    {
+      "place_id": "ChIJz-43-Tp3fkgRpkaM-95DSu4",
+      "name": "United Kingdom Brazilian Jiu Jitsu Association (UKBJJA)",
+      "address": "The Beacon, Business Centre, Westgate Rd, Newcastle upon Tyne NE4 9PQ, UK",
+      "lat": 54.974497199999995,
+      "lng": -1.6483082999999998,
+      "google_maps_url": "https://maps.google.com/?cid=17170611154285512358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.ukbjja.org/",
+      "logo": "/logos/ChIJz-43-Tp3fkgRpkaM-95DSu4.webp"
+    },
+    {
+      "place_id": "ChIJa4R7B8McdkgRHMNddvxyzMY",
+      "name": "Fightzone London",
+      "address": "16-22 Pritchard's Rd, London E2 9AP, UK",
+      "lat": 51.532775699999995,
+      "lng": -0.0612483,
+      "google_maps_url": "https://maps.google.com/?cid=14324950943401886492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://fightzonelondon.co.uk/",
+      "logo": "/logos/ChIJa4R7B8McdkgRHMNddvxyzMY.webp"
+    },
+    {
+      "place_id": "ChIJ01Cl4kAFdkgRHC9Bqk8YBbM",
+      "name": "Valour Jiu-Jitsu HQ",
+      "address": "4 Fulham High St, London SW6 3LQ, UK",
+      "lat": 51.471562999999996,
+      "lng": -0.21136200000000002,
+      "google_maps_url": "https://maps.google.com/?cid=12899743438110535452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://valourjiujitsu.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "logo": "/logos/ChIJ01Cl4kAFdkgRHC9Bqk8YBbM.webp"
+    },
+    {
+      "place_id": "ChIJg74Pg9-o2EcRpj9OswOnJQI",
+      "name": "Kodokan Academy of Brazilian Jiu Jitsu - BJJ School London",
+      "address": "Unit 1C, Woolwich Church St, London SE18 5NS, UK",
+      "lat": 51.4931525,
+      "lng": 0.0481858,
+      "google_maps_url": "https://maps.google.com/?cid=154713396549140390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.thekodokan.com/",
+      "logo": "/logos/ChIJg74Pg9-o2EcRpj9OswOnJQI.webp"
+    },
+    {
+      "place_id": "ChIJX0uzneQRdkgRjISKDn8VCBg",
+      "name": "PURE JIUJITSU",
+      "address": "The Rehearsal Rooms, Victoria Rd, North Acton, London W3 6HU, UK",
+      "lat": 51.523465099999996,
+      "lng": -0.26139029999999996,
+      "google_maps_url": "https://maps.google.com/?cid=1731657692172944524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.purejiujitsu.com/",
+      "logo": "/logos/ChIJX0uzneQRdkgRjISKDn8VCBg.webp"
+    },
+    {
+      "place_id": "ChIJ949PdGi7cEgRqhyaWBeQQhI",
+      "name": "Pro Jiu Jitsu",
+      "address": "91a Bracebridge St, Birmingham B6 4PJ, UK",
+      "lat": 52.4946384,
+      "lng": -1.8908713,
+      "google_maps_url": "https://maps.google.com/?cid=1315772471090748586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://projiujitsu.co.uk/",
+      "logo": "/logos/ChIJ949PdGi7cEgRqhyaWBeQQhI.webp"
+    },
+    {
+      "place_id": "ChIJUe0M3vYFdkgRc45NKDDucT8",
+      "name": "Alliance Jiu Jitsu London",
+      "address": "Imperial Wharf, 10-12 The Blvd, Townmead Rd, London SW6 2UB, UK",
+      "lat": 51.4729904,
+      "lng": -0.18182289999999998,
+      "google_maps_url": "https://maps.google.com/?cid=4571696987359776371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://alliancejjlondon.com/",
+      "logo": "/logos/ChIJUe0M3vYFdkgRc45NKDDucT8.webp"
+    },
+    {
+      "place_id": "ChIJl5POKQfBeUgRs0YnEbH8_E0",
+      "name": "Total Brazilian Jiu-Jitsu & Grappling",
+      "address": "30 Miall St, Lenton, Nottingham NG7 2AQ, UK",
+      "lat": 52.955008799999995,
+      "lng": -1.1794831,
+      "google_maps_url": "https://maps.google.com/?cid=5619644272478734003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://totalbjj.co.uk/",
+      "logo": "/logos/ChIJl5POKQfBeUgRs0YnEbH8_E0.webp"
+    },
+    {
+      "place_id": "ChIJHyw8HIUfdkgRzexZcWnSKs4",
+      "name": "Gorilla",
+      "address": "2 Nags Head Rd, Enfield EN3 7AJ, UK",
+      "lat": 51.6487815,
+      "lng": -0.0453939,
+      "google_maps_url": "https://maps.google.com/?cid=14855917671150120141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://gorillabrazilianjiujitsu.com/",
+      "logo": "/logos/ChIJHyw8HIUfdkgRzexZcWnSKs4.webp"
+    },
+    {
+      "place_id": "ChIJ8eIFxzkOdkgRJVMnErxpP98",
+      "name": "Wave",
+      "address": "11-13 Chiswick High Rd., Chiswick, London W4 2ND, UK",
+      "lat": 51.4931434,
+      "lng": -0.2458202,
+      "google_maps_url": "https://maps.google.com/?cid=16086692650470036261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjwestlondon.com/",
+      "logo": "/logos/ChIJ8eIFxzkOdkgRJVMnErxpP98.webp"
+    },
+    {
+      "place_id": "ChIJGW25x7Kxe0gRbhBMXcT1lBU",
+      "name": "Academia BJJ Lifestyle UK",
+      "address": "Arch 3 Bennett St, Manchester M12 5AQ, UK",
+      "lat": 53.4678149,
+      "lng": -2.2088237,
+      "google_maps_url": "https://maps.google.com/?cid=1555137995077324910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/Lucio-Sergio-BJJ-Manchester-555650387813876/",
+      "logo": "/logos/ChIJGW25x7Kxe0gRbhBMXcT1lBU.webp"
+    },
+    {
+      "place_id": "ChIJ7VRo9Del2EcRueE9oPxViqI",
+      "name": "Redbridge",
+      "address": "Sports Club, 3 Cricklefield Pl, Ilford IG1 1FY, UK",
+      "lat": 51.5606161,
+      "lng": 0.0914975,
+      "google_maps_url": "https://maps.google.com/?cid=11712268324438925753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://redbridgebjj.com/",
+      "logo": "/logos/ChIJ7VRo9Del2EcRueE9oPxViqI.webp"
+    },
+    {
+      "place_id": "ChIJi_HpzkIPdkgRjGSiqtv8I1U",
+      "name": "Guild of Fighters",
+      "address": "59-61 Armoury Way, London SW18 1JZ, UK",
+      "lat": 51.457670699999994,
+      "lng": -0.1974737,
+      "google_maps_url": "https://maps.google.com/?cid=6135025137799554188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.guildbjj.com/",
+      "logo": "/logos/ChIJi_HpzkIPdkgRjGSiqtv8I1U.webp"
+    },
+    {
+      "place_id": "ChIJF1WhNEXPsGoRh48ziu-ZI20",
+      "name": "Integrity Jiujitsu",
+      "address": "103 Princes Rd, Mitcham SA 5062, Australia",
+      "lat": -34.9765847,
+      "lng": 138.6198796,
+      "google_maps_url": "https://maps.google.com/?cid=7864298628413886343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://integrityjiujitsu.com/",
+      "logo": "/logos/ChIJF1WhNEXPsGoRh48ziu-ZI20.webp"
+    },
+    {
+      "place_id": "ChIJb7sBxl8PdkgR9zdlawigCs8",
+      "name": "Consistency",
+      "address": "347 North End Rd, London SW6 1NN, UK",
+      "lat": 51.484660999999996,
+      "lng": -0.20176329999999998,
+      "google_maps_url": "https://maps.google.com/?cid=14918912673640167415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.consistencybjj.com/",
+      "logo": "/logos/ChIJb7sBxl8PdkgR9zdlawigCs8.webp"
+    },
+    {
+      "place_id": "ChIJW96hPxIKdkgRHRqvjJ9FPH0",
+      "name": "PATELLO",
+      "address": "84 Walton Rd, Molesey, East Molesey KT8 0DL, UK",
+      "lat": 51.3997015,
+      "lng": -0.3540025,
+      "google_maps_url": "https://maps.google.com/?cid=9024164304906033693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.patellobjj.co.uk/",
+      "logo": "/logos/ChIJW96hPxIKdkgRHRqvjJ9FPH0.webp"
+    },
+    {
+      "place_id": "ChIJe45rnYuze0gRDWcSc7clP8E",
+      "name": "Factory BJJ -",
+      "address": "Unit 22 Haigh Park, Reddish, Stockport SK4 1QR, UK",
+      "lat": 53.426576399999995,
+      "lng": -2.1669962,
+      "google_maps_url": "https://maps.google.com/?cid=13924890042692691725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://factorybjj.com/",
+      "logo": "/logos/ChIJe45rnYuze0gRDWcSc7clP8E.webp"
+    },
+    {
+      "place_id": "ChIJYT7F9qYcdkgRnBZ9VosFAdA",
+      "name": "London Fight Factory",
+      "address": "19 Ebenezer St, London N1 7LU, UK",
+      "lat": 51.5284974,
+      "lng": -0.0899933,
+      "google_maps_url": "https://maps.google.com/?cid=14988267130875352732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.londonfightfactory.com/",
+      "logo": "/logos/ChIJYT7F9qYcdkgRnBZ9VosFAdA.webp"
+    },
+    {
+      "place_id": "ChIJuXkUX6sLdkgRKANoNZN06hw",
+      "name": "and MMA",
+      "address": "More Energy Fitness Centre, University, Campus, Penrhyn Rd, Fassett Rd, Kingston upon Thames KT1 2EE, UK",
+      "lat": 51.4043633,
+      "lng": -0.3041783,
+      "google_maps_url": "https://maps.google.com/?cid=2083605953217299240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.blackbeltstyle.co.uk/",
+      "logo": "/logos/ChIJuXkUX6sLdkgRKANoNZN06hw.webp"
+    },
+    {
+      "place_id": "ChIJ16gw0C8rdEgRDSyq0nnYlRg",
+      "name": "Jay Butler",
+      "address": "1st Floor, Rosebank Parade, Yateley GU46 7UW, UK",
+      "lat": 51.341975899999994,
+      "lng": -0.8211634,
+      "google_maps_url": "https://maps.google.com/?cid=1771560046177168397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.jaybutler-bjj.com/",
+      "logo": "/logos/ChIJ16gw0C8rdEgRDSyq0nnYlRg.webp"
+    },
+    {
+      "place_id": "ChIJU2VRKmEPdkgRMxm3Jm8oEhE",
+      "name": "Wandsworth",
+      "address": "Tooting Leisure Centre, Greaves Pl, London SW17 0NE, UK",
+      "lat": 51.4291024,
+      "lng": -0.1738244,
+      "google_maps_url": "https://maps.google.com/?cid=1230090106081581363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.wandsworthbjj.com/",
+      "logo": "/logos/ChIJU2VRKmEPdkgRMxm3Jm8oEhE.webp"
+    },
+    {
+      "place_id": "ChIJff4Qb_MZdkgRjUqdJP5Gw_0",
+      "name": "Equilibrium",
+      "address": "EQUILIBRIUM bjj, Cypriot Community Centre, Earlham Grove, London N22 5HJ, UK",
+      "lat": 51.6027892,
+      "lng": -0.110884,
+      "google_maps_url": "https://maps.google.com/?cid=18285536969404271245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.equilibriumbjj.com/",
+      "logo": "/logos/ChIJff4Qb_MZdkgRjUqdJP5Gw_0.webp"
+    },
+    {
+      "place_id": "ChIJB2-qv10JdkgRWzWOH_D9ULk",
+      "name": "Wimbledon Brazilian Jiu Jitsu & Self Defence",
+      "address": "Unit 18, Lombard Business Park, 8 Lombard Rd, London SW19 3TZ, UK",
+      "lat": 51.4085962,
+      "lng": -0.1902032,
+      "google_maps_url": "https://maps.google.com/?cid=13353452102916912475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.wimbledonbjj.com/",
+      "logo": "/logos/ChIJB2-qv10JdkgRWzWOH_D9ULk.webp"
+    },
+    {
+      "place_id": "ChIJZQyQmSaNfEgR1xuPMos92So",
+      "name": "Lake District Brazilian Jiu Jitsu Academy",
+      "address": "unit 1b Parkside Rd, Kendal LA9 7DU, UK",
+      "lat": 54.3203576,
+      "lng": -2.7395624,
+      "google_maps_url": "https://maps.google.com/?cid=3087566687597173719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.lakesbjj.co.uk/",
+      "logo": "/logos/ChIJZQyQmSaNfEgR1xuPMos92So.webp"
+    },
+    {
+      "place_id": "ChIJe1U9HU4bdkgRPAnFyRTMKVE",
+      "name": "Grand Union Jiu Jitsu at Gymbox",
+      "address": "Gymbox, 12A Leather Ln, London EC1N 7SS, UK",
+      "lat": 51.5189108,
+      "lng": -0.10832829999999999,
+      "google_maps_url": "https://maps.google.com/?cid=5848429980773845308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://grandunionbjj.com/",
+      "logo": "/logos/ChIJe1U9HU4bdkgRPAnFyRTMKVE.webp"
+    },
+    {
+      "place_id": "ChIJIfCH5ikbdkgRveHr3L0KLx8",
+      "name": "Origin Brazilian Jiu Jitsu - Team N22",
+      "address": "Unit C, 2nd Floor, Cypress House, London N22 6UJ, UK",
+      "lat": 51.5945518,
+      "lng": -0.11305430000000001,
+      "google_maps_url": "https://maps.google.com/?cid=2247026549652709821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.londonbjj.com/",
+      "logo": "/logos/ChIJIfCH5ikbdkgRveHr3L0KLx8.webp"
+    },
+    {
+      "place_id": "ChIJcfVJSzIBdkgR7IKfHUMtxG0",
+      "name": "GF Team Brazilian Jiu Jitsu West Wickham",
+      "address": "11 Ravenswood Cres, West Wickham BR4 0JH, UK",
+      "lat": 51.3794799,
+      "lng": -0.0150494,
+      "google_maps_url": "https://maps.google.com/?cid=7909496611852485356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.brazilianjiujitsugfteam.co.uk/",
+      "logo": "/logos/ChIJcfVJSzIBdkgR7IKfHUMtxG0.webp"
+    },
+    {
+      "place_id": "ChIJG-sYCDu9cEgRuWSSuhSZNEw",
+      "name": "Royal Jiu Jitsu",
+      "address": "293b Harborne Ln, Birmingham B17 0NT, UK",
+      "lat": 52.447043,
+      "lng": -1.9460758999999999,
+      "google_maps_url": "https://maps.google.com/?cid=5491182159980029113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.royaljiujitsu.co.uk/",
+      "logo": "/logos/ChIJG-sYCDu9cEgRuWSSuhSZNEw.webp"
+    },
+    {
+      "place_id": "ChIJoZ4WIviGdUgRVfiMwk0Z4XY",
+      "name": "Grand Union Brazilian Jiu Jitsu Brighton",
+      "address": "10 High St, Rottingdean, Brighton and Hove, Brighton BN2 7HR, UK",
+      "lat": 50.8026366,
+      "lng": -0.0567959,
+      "google_maps_url": "https://maps.google.com/?cid=8566155788002588757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://grandunionbjj.com/",
+      "logo": "/logos/ChIJoZ4WIviGdUgRVfiMwk0Z4XY.webp"
+    },
+    {
+      "place_id": "ChIJlW7gQiAbdkgRLX4NKZFRQxY",
+      "name": "Apex Jiu-Jitsu",
+      "address": "Ground floor 1, 3 & 5 Morris Pl, Clifton Terrace, Finsbury Park, London N4 3JG, UK",
+      "lat": 51.565934000000006,
+      "lng": -0.1074895,
+      "google_maps_url": "https://maps.google.com/?cid=1604215576174886445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.apexbjj.co.uk/",
+      "logo": "/logos/ChIJlW7gQiAbdkgRLX4NKZFRQxY.webp"
+    },
+    {
+      "place_id": "ChIJOxhPtQoPdkgRmtHAbXcNfyA",
+      "name": "Brazilian Jiu Jitsu",
+      "address": "4 Fulham High St, London SW6 3LQ, UK",
+      "lat": 51.4715224,
+      "lng": -0.211313,
+      "google_maps_url": "https://maps.google.com/?cid=2341605137849569690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://gbfulham.co.uk/",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJ4aEvqI4bdkgRp0uKJAcSWjw",
+      "name": "Reis",
+      "address": "Vernon Square, London WC1X 9EW, UK",
+      "lat": 51.52984,
+      "lng": -0.11522510000000001,
+      "google_maps_url": "https://maps.google.com/?cid=4348808212066749351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://reisbjj.co.uk/",
+      "logo": "/logos/ChIJ4aEvqI4bdkgRp0uKJAcSWjw.webp"
+    },
+    {
+      "place_id": "ChIJ-dkRuyC3e0gRkE6PUB38Aoo",
+      "name": "Henshall",
+      "address": "54 Graver Ln, Newton Heath, Manchester M40 1QW, UK",
+      "lat": 53.4953656,
+      "lng": -2.1670754999999997,
+      "google_maps_url": "https://maps.google.com/?cid=9944788130023296656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.manchesterbrazilianjiujitsu.co.uk/",
+      "logo": "/logos/ChIJ-dkRuyC3e0gRkE6PUB38Aoo.webp"
+    },
+    {
+      "place_id": "ChIJyZgXdbqf2EcRlGLdcjrBqiA",
+      "name": "MORPH Brazilian Jiu Jitsu Essex",
+      "address": "Unit 9, Morph Brazilian Jiu Jitsu Essex, Richmond Farm, Parsloe Rd, Epping CM16 6QB, UK",
+      "lat": 51.7420858,
+      "lng": 0.0764103,
+      "google_maps_url": "https://maps.google.com/?cid=2353906212033880724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.morphbrazilianjiujitsu.uk/",
+      "logo": "/logos/ChIJyZgXdbqf2EcRlGLdcjrBqiA.webp"
+    },
+    {
+      "place_id": "ChIJq6qqqtUCdkgR9D0-XonNu8Q",
+      "name": "10th Planet Jiu Jitsu London",
+      "address": "1012 Dockside Rd, London E16 2QT, UK",
+      "lat": 51.5078633,
+      "lng": 0.0412323,
+      "google_maps_url": "https://maps.google.com/?cid=14176150241954119156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.10thplanetjjlondon.com/",
+      "logo": "/logos/ChIJq6qqqtUCdkgR9D0-XonNu8Q.webp"
+    },
+    {
+      "place_id": "ChIJU01JxZexe0gRUM-rvY8CIUw",
+      "name": "SBG Manchester Mixed Martial Arts and",
+      "address": "12 Sheffield St, Manchester M1 2ND, UK",
+      "lat": 53.47722400000001,
+      "lng": -2.2273278999999997,
+      "google_maps_url": "https://maps.google.com/?cid=5485668637499707216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.sbgmanchester.com/",
+      "logo": "/logos/ChIJU01JxZexe0gRUM-rvY8CIUw.webp"
+    },
+    {
+      "place_id": "ChIJyZK9zDwddkgR3xSfQd4cZ-c",
+      "name": "Roger Gracie Euston",
+      "address": "Unit 2, Jiu Jitsu centre, 10 William Rd, London NW1 3EN, UK",
+      "lat": 51.527439199999996,
+      "lng": -0.1394645,
+      "google_maps_url": "https://maps.google.com/?cid=16674327886271812831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://rogergracieeuston.com/",
+      "logo": "/logos/ChIJyZK9zDwddkgR3xSfQd4cZ-c.webp"
+    },
+    {
+      "place_id": "ChIJPSSfN0QPdkgRECqDmCkaBBU",
+      "name": "Cantagalo JiuJitsu London",
+      "address": "Aspenlea Rd, London W6 8LH, UK",
+      "lat": 51.485603399999995,
+      "lng": -0.21977359999999999,
+      "google_maps_url": "https://maps.google.com/?cid=1514364140658043408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://cantagalobjj.com/",
+      "logo": "/logos/ChIJPSSfN0QPdkgRECqDmCkaBBU.webp"
+    },
+    {
+      "place_id": "ChIJi16808wPhEgRlQXB06VDQ4Y",
+      "name": "SBG Aberdeen Brazilian Jiu-Jitsu (BJJ) Club",
+      "address": "13-14 Adelphi, Aberdeen AB11 5BL, UK",
+      "lat": 57.1467484,
+      "lng": -2.0961373,
+      "google_maps_url": "https://maps.google.com/?cid=9674650804023264661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.sbgaberdeen.co.uk/",
+      "logo": "/logos/ChIJi16808wPhEgRlQXB06VDQ4Y.webp"
+    },
+    {
+      "place_id": "ChIJWeYeO4wbdkgR-P8A-O947lA",
+      "name": "Luciano Cristovam BJJ Academy",
+      "address": "unit 5, Holmes Studios, 45 Holmes Rd, London NW5 3AN, UK",
+      "lat": 51.5494973,
+      "lng": -0.1439105,
+      "google_maps_url": "https://maps.google.com/?cid=5831731539544702968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://lucianocristovam.com/",
+      "logo": "/logos/ChIJWeYeO4wbdkgR-P8A-O947lA.webp"
+    },
+    {
+      "place_id": "ChIJ4dDRlPLPsGoR-bk6KIEzPyY",
+      "name": "Ground LVL - Brazilian Jiu-Jitsu Adelaide (Gi/No Gi)",
+      "address": "Unit 9/108-120 Marion Rd, Brooklyn Park SA 5032, Australia",
+      "lat": -34.9354424,
+      "lng": 138.5521233,
+      "google_maps_url": "https://maps.google.com/?cid=2755978126792767993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.groundlvl.net/",
+      "logo": "/logos/ChIJ4dDRlPLPsGoR-bk6KIEzPyY.webp"
+    },
+    {
+      "place_id": "ChIJoWKua9QCdkgRGhDOkE-80XA",
+      "name": "Diesel Gym London",
+      "address": "1012 Dockside Rd, London E16 2QT, UK",
+      "lat": 51.507659399999994,
+      "lng": 0.041636599999999996,
+      "google_maps_url": "https://maps.google.com/?cid=8129485852298317850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.dieselgym.co.uk/",
+      "logo": "/logos/ChIJoWKua9QCdkgRGhDOkE-80XA.webp"
+    },
+    {
+      "place_id": "ChIJ-eeKf3NtdkgRPhTpr09kUL8",
+      "name": "Hillingdon",
+      "address": "Unit 3, 57 Pump Ln, London UB3 3FB, UK",
+      "lat": 51.5058978,
+      "lng": -0.4137575,
+      "google_maps_url": "https://maps.google.com/?cid=13785628752797570110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://hillingdonbjj.com/",
+      "logo": "/logos/ChIJ-eeKf3NtdkgRPhTpr09kUL8.webp"
+    },
+    {
+      "place_id": "ChIJpzIb_OgDdkgRWBa9zJ0e1lg",
+      "name": "North Dulwich Brazilian Jiu Jitsu - TRICCS ACADEMY",
+      "address": "JAGS Sports Club, Red Post Hl, North Dulwich, London SE24 9JN, UK",
+      "lat": 51.4563778,
+      "lng": -0.090754,
+      "google_maps_url": "https://maps.google.com/?cid=6401337583447381592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.dulwichbjj.com/",
+      "logo": "/logos/ChIJpzIb_OgDdkgRWBa9zJ0e1lg.webp"
+    },
+    {
+      "place_id": "ChIJAQDQf8wEdkgRUFDt9kdPzO0",
+      "name": "London Ju Jitsu - Elephant and Castle",
+      "address": "118 St George's Rd, London SE1 6EX, UK",
+      "lat": 51.497229,
+      "lng": -0.1060636,
+      "google_maps_url": "https://maps.google.com/?cid=17135157852741914704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.londonjujitsu.com/",
+      "logo": "/logos/ChIJAQDQf8wEdkgRUFDt9kdPzO0.webp"
+    },
+    {
+      "place_id": "ChIJr6k8uncRdkgRr_220Olo0bE",
+      "name": "House Academy",
+      "address": "152 Willesden Ln, London NW6 7TH, UK",
+      "lat": 51.5414878,
+      "lng": -0.2054918,
+      "google_maps_url": "https://maps.google.com/?cid=12813137768284093871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bjjhouse.uk/",
+      "logo": "/logos/ChIJr6k8uncRdkgRr_220Olo0bE.webp"
+    },
+    {
+      "place_id": "ChIJs-8pszi3e0gRGJw6c97WtBs",
+      "name": "Stealth BJJ - Manchester",
+      "address": "Bourne St, Chadderton, Oldham OL9 7LX, UK",
+      "lat": 53.52186,
+      "lng": -2.1432995999999997,
+      "google_maps_url": "https://maps.google.com/?cid=1996456785736277016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.stealthbjj.com/",
+      "logo": "/logos/ChIJs-8pszi3e0gRGJw6c97WtBs.webp"
+    },
+    {
+      "place_id": "ChIJ4wDECI8EdkgRriJQiSB2OUo",
+      "name": "Gracie Barra Oval",
+      "address": "Gracie Barra Oval, 66-68 Bolton Cres, London SE5 0SE, UK",
+      "lat": 51.480533,
+      "lng": -0.107642,
+      "google_maps_url": "https://maps.google.com/?cid=5348435914593936046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.graciebarraoval.com/",
+      "logo": "/logos/ChIJ4wDECI8EdkgRriJQiSB2OUo.webp"
+    },
+    {
+      "place_id": "ChIJIQAQ-JtGiEgRyfaceu8De7k",
+      "name": "Glasgow Jiu Jitsu Academy",
+      "address": "1 St Luke's Pl, Gorbals, Glasgow G5 0TS, UK",
+      "lat": 55.8506728,
+      "lng": -4.2515865999999995,
+      "google_maps_url": "https://maps.google.com/?cid=13365280646241253065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.glasgowjiujitsuacademy.co.uk/",
+      "logo": "/logos/ChIJIQAQ-JtGiEgRyfaceu8De7k.webp"
+    },
+    {
+      "place_id": "ChIJ20NnFLBlfkgR3VjqB4Oz5Sc",
+      "name": "The Dungeon Bjj - K1 Kickboxing and mma",
+      "address": "Castle View, Castletown, Sunderland SR5 3DR, UK",
+      "lat": 54.918566999999996,
+      "lng": -1.4379602,
+      "google_maps_url": "https://maps.google.com/?cid=2874901312500816093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.thedungeonbjj.co.uk/",
+      "logo": "/logos/ChIJ20NnFLBlfkgR3VjqB4Oz5Sc.webp"
+    },
+    {
+      "place_id": "ChIJK3-6_UkOdkgRr362kim8EMk",
+      "name": "Carlson Gracie London",
+      "address": "89 Richford St, London W6 7HJ, UK",
+      "lat": 51.499373,
+      "lng": -0.2265348,
+      "google_maps_url": "https://maps.google.com/?cid=14488286887992000175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjlondon.com/",
+      "logo": "/logos/ChIJK3-6_UkOdkgRr362kim8EMk.webp"
+    },
+    {
+      "place_id": "ChIJQ9q2MzjBh0gReN-rUtpuyEo",
+      "name": "Guerri",
+      "address": "Midlothian Innovation Centre, Easter Bush, Roslin EH26 9RE, UK",
+      "lat": 55.8677845,
+      "lng": -3.1942703,
+      "google_maps_url": "https://maps.google.com/?cid=5388678838117719928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://guerribjj.co.uk/",
+      "logo": "/logos/ChIJQ9q2MzjBh0gReN-rUtpuyEo.webp"
+    },
+    {
+      "place_id": "ChIJZaLBGMcPdkgRf9Q8B0zN3eI",
+      "name": "Los Banditos Submission Grappling Club",
+      "address": "150 Barlby Rd, London W10 6BS, UK",
+      "lat": 51.5236567,
+      "lng": -0.2172487,
+      "google_maps_url": "https://maps.google.com/?cid=16347447948847404159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://losbanditos.club/",
+      "logo": "/logos/ChIJZaLBGMcPdkgRf9Q8B0zN3eI.webp"
+    },
+    {
+      "place_id": "ChIJlR-LE5Oxe0gRoEn16_Tix8E",
+      "name": "MMU Jiu Jitsu",
+      "address": "114 Grosvenor St, Manchester M1 7HL, UK",
+      "lat": 53.4708879,
+      "lng": -2.2355099,
+      "google_maps_url": "https://maps.google.com/?cid=13963378711244130720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.mmu.ac.uk/sport/find-a-sport/jiu-jitsu",
+      "logo": null
+    }
+  ]
+}

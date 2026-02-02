@@ -1,0 +1,608 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "normalized_at": "2026-02-02T05:01:18.510Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJWzSgpRDVmwARccxCE0lDKxY",
+      "name": "Brazilian Black Belt",
+      "address": "R. Visc. de Pirajá, 151/201 - Ipanema, Rio de Janeiro - RJ, 22410-003, Brazil",
+      "lat": -22.9846723,
+      "lng": -43.1998264,
+      "google_maps_url": "https://maps.google.com/?cid=1597444473967791217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://brazilianblackbelt.com/pt/academia",
+      "logo": "/logos/ChIJWzSgpRDVmwARccxCE0lDKxY.webp"
+    },
+    {
+      "place_id": "ChIJRwUIWVrVmwARQDFdxMZd3qY",
+      "name": "Ares BJJ Brasil",
+      "address": "R. Silva Castro - Copacabana, Rio de Janeiro - RJ, 22031-030, Brazil",
+      "lat": -22.9677993,
+      "lng": -43.186034,
+      "google_maps_url": "https://maps.google.com/?cid=12024151163405152576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://abrir.link/PxitM",
+      "logo": "/logos/ChIJRwUIWVrVmwARQDFdxMZd3qY.webp"
+    },
+    {
+      "place_id": "ChIJV5L3EUFRzpQREyPWqXzLoKM",
+      "name": "Brazilian Roots Jiu-Jitsu",
+      "address": "R. Américo Brasiliense, 2240 - Chácara Santo Antônio (Zona Sul), São Paulo - SP, 04715-004, Brazil",
+      "lat": -23.628069,
+      "lng": -46.707281699999996,
+      "google_maps_url": "https://maps.google.com/?cid=11790647560741724947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/brazilianrootsjj",
+      "logo": "/logos/ChIJV5L3EUFRzpQREyPWqXzLoKM.webp"
+    },
+    {
+      "place_id": "ChIJnYkf7DzVmwAR_mL3-6ld154",
+      "name": "Gracie Barra Copacabana",
+      "address": "R. Barata Ribeiro, 655 - 2 Piso - Copacabana, Rio de Janeiro - RJ, 22051-002, Brazil",
+      "lat": -22.9733141,
+      "lng": -43.1908081,
+      "google_maps_url": "https://maps.google.com/?cid=11445719962643555070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJnYkf7DzVmwAR_mL3-6ld154.webp"
+    },
+    {
+      "place_id": "ChIJmfSDDUGHmQARX1a7laeD9JE",
+      "name": "Art Academy",
+      "address": "R. das Rosas, 159 - Itacoatiara, Niterói - RJ, 24348-120, Brazil",
+      "lat": -22.9733284,
+      "lng": -43.029972099999995,
+      "google_maps_url": "https://maps.google.com/?cid=10517175785611810399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bjjartacademy.com/",
+      "logo": "/logos/ChIJmfSDDUGHmQARX1a7laeD9JE.webp"
+    },
+    {
+      "place_id": "ChIJG7ERFPt_mQARpn9rvf7V-tA",
+      "name": "Brazilian Fight Jiu-Jitsu",
+      "address": "R. Rodrigo de Brito, 11 - Botafogo, Rio de Janeiro - RJ, 22280-100, Brazil",
+      "lat": -22.955603999999997,
+      "lng": -43.182812999999996,
+      "google_maps_url": "https://maps.google.com/?cid=15058583594143023014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.jiujitsubotafogorj.com.br/",
+      "logo": "/logos/ChIJG7ERFPt_mQARpn9rvf7V-tA.webp"
+    },
+    {
+      "place_id": "ChIJvQgtzFvVmwAR8LDV9-jwh5E",
+      "name": "Ari Galo Jiu Jitsu",
+      "address": "Ladeira dos Tabajaras, 538 - Casa 11 - Copacabana, Rio de Janeiro - RJ, 22031-112, Brazil",
+      "lat": -22.9635264,
+      "lng": -43.1901514,
+      "google_maps_url": "https://maps.google.com/?cid=10486615140736545008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://carlsongraciearigalo.com/",
+      "logo": "/logos/ChIJvQgtzFvVmwAR8LDV9-jwh5E.webp"
+    },
+    {
+      "place_id": "ChIJuw4tlkDVmwARSu8zaXZXejo",
+      "name": "Equipe Fabricio Jiu-Jitsu",
+      "address": "Av. Nossa Sra. de Copacabana, 1017 - 201 e 203 - Copacabana, Rio de Janeiro - RJ, 22060-001, Brazil",
+      "lat": -22.9776779,
+      "lng": -43.19041,
+      "google_maps_url": "https://maps.google.com/?cid=4213776567441289034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://equipefabricio.com.br/",
+      "logo": "/logos/ChIJuw4tlkDVmwARSu8zaXZXejo.webp"
+    },
+    {
+      "place_id": "ChIJzfzjIVrj3JQRbcJBqs8mU-M",
+      "name": "Garage Team",
+      "address": "R. João Cubas, 251 - Novo Mundo, Curitiba - PR, 81020-110, Brazil",
+      "lat": -25.484258,
+      "lng": -49.28950280000001,
+      "google_maps_url": "https://maps.google.com/?cid=16380478943033148013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/garageteambjj/",
+      "logo": "/logos/ChIJzfzjIVrj3JQRbcJBqs8mU-M.webp"
+    },
+    {
+      "place_id": "ChIJGdmqi49ZzpQRnwVPSeqhRfM",
+      "name": "Barbosa Jiu-Jitsu B9",
+      "address": "R. Remanso, 21 - Vila Mariana, São Paulo - SP, 04013-010, Brazil",
+      "lat": -23.5807008,
+      "lng": -46.641711,
+      "google_maps_url": "https://maps.google.com/?cid=17529595152233858463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.barbosajj.com.br/",
+      "logo": "/logos/ChIJGdmqi49ZzpQRnwVPSeqhRfM.webp"
+    },
+    {
+      "place_id": "ChIJlUEGNYdbzpQRav_yVtJy8js",
+      "name": "MMA CAMP BRAZIL",
+      "address": "R. Guatapara, 163 - Vila Guarani, São Paulo - SP, 04313-040, Brazil",
+      "lat": -23.6340972,
+      "lng": -46.6408001,
+      "google_maps_url": "https://maps.google.com/?cid=4319641240329191274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://mmacampbrazil.com/",
+      "logo": "/logos/ChIJlUEGNYdbzpQRav_yVtJy8js.webp"
+    },
+    {
+      "place_id": "ChIJ5fEHTwXVmwARDxGHc75mv6s",
+      "name": "Rio Dojō | Mauro Ayres Jiu-Jitsu | Carlson Gracie Ipanema",
+      "address": "R. Visc. de Pirajá, 318 - Sl 205A - Ipanema, Rio de Janeiro - RJ, 22410-000, Brazil",
+      "lat": -22.9840399,
+      "lng": -43.2042564,
+      "google_maps_url": "https://maps.google.com/?cid=12375723269205463311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.mauroayresbjj.com/",
+      "logo": "/logos/ChIJ5fEHTwXVmwARDxGHc75mv6s.webp"
+    },
+    {
+      "place_id": "ChIJL34tbVTVmwARmR9KF5sJZ7Y",
+      "name": "Mussumba team",
+      "address": "Rua Siqueira Campos, 43 - sala 816 - Copacabana, Rio de Janeiro - RJ, 22031-901, Brazil",
+      "lat": -22.9694715,
+      "lng": -43.1845783,
+      "google_maps_url": "https://maps.google.com/?cid=13143484599219396505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/mussumba_team?igshid=YmMyMTA2M2Y=",
+      "logo": "/logos/ChIJL34tbVTVmwARmR9KF5sJZ7Y.webp"
+    },
+    {
+      "place_id": "ChIJ_yKxzeZ_mQARdAlBUdSImkI",
+      "name": "GRA Bjj Lifestyle",
+      "address": "Praia de Botafogo, 488 - sala A - Botafogo, Rio de Janeiro - RJ, 22250-040, Brazil",
+      "lat": -22.9503071,
+      "lng": -43.181947,
+      "google_maps_url": "https://maps.google.com/?cid=4799298798394345844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/grabjjoficial/",
+      "logo": "/logos/ChIJ_yKxzeZ_mQARdAlBUdSImkI.webp"
+    },
+    {
+      "place_id": "ChIJq9QpCnFRzpQRs8lTU3Znz3I",
+      "name": "MK",
+      "address": "R. Califórnia - R. sem saída, 1400 - Brooklin, São Paulo - SP, 04566-062, Brazil",
+      "lat": -23.6154512,
+      "lng": -46.687945299999996,
+      "google_maps_url": "https://maps.google.com/?cid=8272944798404692403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJq9QpCnFRzpQRs8lTU3Znz3I.webp"
+    },
+    {
+      "place_id": "ChIJAfa9YaJnzpQRnmJA6IFDRTE",
+      "name": "Genesis Academy Brazil Jiu Jitsu",
+      "address": "R. Piranguinho, 393 - Cidade São Mateus, São Paulo - SP, 03930-310, Brazil",
+      "lat": -23.5818405,
+      "lng": -46.498685699999996,
+      "google_maps_url": "https://maps.google.com/?cid=3550318106477879966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/genesisjiujitsusaopaulo?igshid=OGIzYTJhMTRmYQ==",
+      "logo": "/logos/ChIJAfa9YaJnzpQRnmJA6IFDRTE.webp"
+    },
+    {
+      "place_id": "ChIJg6F7MwAdzpQRlANOZu1n1JQ",
+      "name": "TEAM WR",
+      "address": "R. Expedicionários Vicentinos, 92 - Centro, São Vicente - SP, 11310-510, Brazil",
+      "lat": -23.9642469,
+      "lng": -46.385084299999995,
+      "google_maps_url": "https://maps.google.com/?cid=10724310881997292436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://teamwrjiujitsu.com.br/",
+      "logo": "/logos/ChIJg6F7MwAdzpQRlANOZu1n1JQ.webp"
+    },
+    {
+      "place_id": "ChIJJR-3l6jVmwARMeqvWfP7gxA",
+      "name": "BTT Lagoa - Brazilian Top Team",
+      "address": "Av. Borges de Medeiros, 829 - Leblon, Rio de Janeiro - RJ, 22430-041, Brazil",
+      "lat": -22.9814342,
+      "lng": -43.216872599999995,
+      "google_maps_url": "https://maps.google.com/?cid=1190071749156268593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bttlagoa.com.br/",
+      "logo": "/logos/ChIJJR-3l6jVmwARMeqvWfP7gxA.webp"
+    },
+    {
+      "place_id": "ChIJ9aTBKzzVmwARTSU1CI3q7_Y",
+      "name": "Fightzone",
+      "address": "R. Francisco Sá, 36 - Copacabana, Rio de Janeiro - RJ, 22080-010, Brazil",
+      "lat": -22.982988000000002,
+      "lng": -43.191449899999995,
+      "google_maps_url": "https://maps.google.com/?cid=17793698544213108045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ9aTBKzzVmwARTSU1CI3q7_Y.webp"
+    },
+    {
+      "place_id": "ChIJlfYD9nh3GZUR4TMDwwDMmYw",
+      "name": "Drill Brazilian Jiu Jitsu School",
+      "address": "R. Barão do Rio Grande, 10 - Boa Vista, Porto Alegre - RS, 91340-330, Brazil",
+      "lat": -30.026556799999998,
+      "lng": -51.175777599999996,
+      "google_maps_url": "https://maps.google.com/?cid=10131353140390474721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.drillbjj.com/",
+      "logo": "/logos/ChIJlfYD9nh3GZUR4TMDwwDMmYw.webp"
+    },
+    {
+      "place_id": "ChIJBRvCkbNjzpQRfxaMuY6Yefc",
+      "name": "House -",
+      "address": "Av. do Contôrno, 159 - Jardim Normandia, Guarulhos - SP, 07252-015, Brazil",
+      "lat": -23.4475935,
+      "lng": -46.4073443,
+      "google_maps_url": "https://maps.google.com/?cid=17832451938315933311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJBRvCkbNjzpQRfxaMuY6Yefc.webp"
+    },
+    {
+      "place_id": "ChIJm9EEs1NJJ5URS5wbjKxFiiI",
+      "name": "Warriors Club",
+      "address": "R. José Cândido da Silva, 512 - Balneario, Florianópolis - SC, 88075-250, Brazil",
+      "lat": -27.579933999999998,
+      "lng": -48.579215999999995,
+      "google_maps_url": "https://maps.google.com/?cid=2488878351462931531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJm9EEs1NJJ5URS5wbjKxFiiI.webp"
+    },
+    {
+      "place_id": "ChIJl_mkK0CRzJMRIHUuqo6pqGQ",
+      "name": "Brothers",
+      "address": "Av. Guaporé, 3232 - St. 05, Ariquemes - RO, 76870-590, Brazil",
+      "lat": -9.8992784,
+      "lng": -63.03596749999999,
+      "google_maps_url": "https://maps.google.com/?cid=7253233630085805344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/brothers.bjj1/",
+      "logo": "/logos/ChIJl_mkK0CRzJMRIHUuqo6pqGQ.webp"
+    },
+    {
+      "place_id": "ChIJIVmQcDTtjZQR6GGYxT6x7Z8",
+      "name": "Pontal",
+      "address": "Praça Antonio de Castilho, 33 - Primavera, Rosana - SP, 19274-000, Brazil",
+      "lat": -22.5316531,
+      "lng": -52.9468519,
+      "google_maps_url": "https://maps.google.com/?cid=11524061904672154088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJIVmQcDTtjZQR6GGYxT6x7Z8.webp"
+    },
+    {
+      "place_id": "ChIJn5375199mQARtewLtewWX78",
+      "name": "CT SM BJJ Studio de Performance 582",
+      "address": "Av. Monsenhor Félix, 582 - sobre loja - Irajá, Rio de Janeiro - RJ, 21235-110, Brazil",
+      "lat": -22.845429199999998,
+      "lng": -43.3235629,
+      "google_maps_url": "https://maps.google.com/?cid=13789765789937298613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJn5375199mQARtewLtewWX78.webp"
+    },
+    {
+      "place_id": "ChIJR1qLR6doA4wRkyt5JbZf5fM",
+      "name": "Puerto Rico",
+      "address": "229 Cll Paris, San Juan, 00917, Puerto Rico",
+      "lat": 18.4242637,
+      "lng": -66.047722,
+      "google_maps_url": "https://maps.google.com/?cid=17574558356800613267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.brazilianjiujitsupr.com/",
+      "logo": "/logos/ChIJR1qLR6doA4wRkyt5JbZf5fM.webp"
+    },
+    {
+      "place_id": "ChIJp0dvc6PbmwAR43N15qDSmzo",
+      "name": "Soul Fighters Jiu-Jitsu - Barra",
+      "address": "Av. das Américas, 489 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-104, Brazil",
+      "lat": -23.0052949,
+      "lng": -43.3199484,
+      "google_maps_url": "https://maps.google.com/?cid=4223200664093029347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJp0dvc6PbmwAR43N15qDSmzo.webp"
+    },
+    {
+      "place_id": "ChIJp6ZwPmNZzpQRyZgpeUFcqXY",
+      "name": "Jiu-Jitsu Academy SP / Aclimação",
+      "address": "R. Bueno de Andrade, 570 - Aclimação, São Paulo - SP, 01526-000, Brazil",
+      "lat": -23.565262900000004,
+      "lng": -46.631595399999995,
+      "google_maps_url": "https://maps.google.com/?cid=8550466803814996169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.academysp.com.br/",
+      "logo": "/logos/ChIJp6ZwPmNZzpQRyZgpeUFcqXY.webp"
+    },
+    {
+      "place_id": "ChIJ_Rgi6zkCzpQRlcRXr6nL9Lk",
+      "name": "Zenith Jiu-Jitsu - Santos [Matriz]",
+      "address": "R. Alexandre Herculano, 197 - Sala 503 - Gonzaga, Santos - SP, 11050-030, Brazil",
+      "lat": -23.959372899999998,
+      "lng": -46.3298604,
+      "google_maps_url": "https://maps.google.com/?cid=13399558720985744533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://zenithbjj.com.br/",
+      "logo": "/logos/ChIJ_Rgi6zkCzpQRlcRXr6nL9Lk.webp"
+    },
+    {
+      "place_id": "ChIJu-ADVtbQmwARQi8rhwj8z0c",
+      "name": "Gordo Jiu-Jitsu",
+      "address": "Av. Olegário Maciel, 260 - Barra da Tijuca, Rio de Janeiro - RJ, 22621-200, Brazil",
+      "lat": -23.0125428,
+      "lng": -43.304914200000006,
+      "google_maps_url": "https://maps.google.com/?cid=5174631610429681474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://gordobjj.com.br/",
+      "logo": "/logos/ChIJu-ADVtbQmwARQi8rhwj8z0c.webp"
+    },
+    {
+      "place_id": "ChIJxfeNQEs1zJQR0Bnm1eVYDvI",
+      "name": "Studio",
+      "address": "Av. Dep. Benedito Matarazzo, 5101 - Jardim Aquarius, São José dos Campos - SP, 12246-840, Brazil",
+      "lat": -23.227776799999997,
+      "lng": -45.9100968,
+      "google_maps_url": "https://maps.google.com/?cid=17441976151011891664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://studiobjjofficial.wixsite.com/studiobjj",
+      "logo": "/logos/ChIJxfeNQEs1zJQR0Bnm1eVYDvI.webp"
+    },
+    {
+      "place_id": "ChIJzeOhTrg6WpMRkEdlDcT2xzs",
+      "name": "Barreto Jiu-Jitsu",
+      "address": "Via W2 Sul, 01/02 - Bloco C - Asa Sul, Brasília - DF, 70351-530, Brazil",
+      "lat": -15.8115679,
+      "lng": -47.9041858,
+      "google_maps_url": "https://maps.google.com/?cid=4307682890501932944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://barretojiujitsu.com.br/",
+      "logo": "/logos/ChIJzeOhTrg6WpMRkEdlDcT2xzs.webp"
+    },
+    {
+      "place_id": "ChIJY90hHgDVmwARtgOEiljSJxs",
+      "name": "ATTILIO TEAM",
+      "address": "Estr. da Gávea, 451 - Rocinha, Rio de Janeiro - RJ, 22451-264, Brazil",
+      "lat": -22.988961999999997,
+      "lng": -43.249337,
+      "google_maps_url": "https://maps.google.com/?cid=1956763840838632374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJY90hHgDVmwARtgOEiljSJxs.webp"
+    },
+    {
+      "place_id": "ChIJTYMdmZhXzpQRFCLcy6hXeCI",
+      "name": "Alliance Jiu Jitsu Vila Madalena",
+      "address": "R. Simão Álvares, 784 - casa 1 - Pinheiros, São Paulo - SP, 05417-020, Brazil",
+      "lat": -23.561143599999998,
+      "lng": -46.690559799999996,
+      "google_maps_url": "https://maps.google.com/?cid=2483831576981152276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://andremacedobjj.com.br/",
+      "logo": "/logos/ChIJTYMdmZhXzpQRFCLcy6hXeCI.webp"
+    },
+    {
+      "place_id": "ChIJTwVXYbQ3jgcR2iDjRgBQKvQ",
+      "name": "WARRIORS FIGHTER BRASILIAN JIU-JITSU",
+      "address": "R. Esperanto - Monte Castelo, Teresina - PI, 64016-230, Brazil",
+      "lat": -5.1011302999999995,
+      "lng": -42.7983494,
+      "google_maps_url": "https://maps.google.com/?cid=17593962856395776218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://warriorsfighterbjj.netlify.app/",
+      "logo": "/logos/ChIJTwVXYbQ3jgcR2iDjRgBQKvQ.webp"
+    },
+    {
+      "place_id": "ChIJ22l-hYfNJJMRv5NBwxfJJ5M",
+      "name": "Ares Bjj Pmw",
+      "address": "Q. 108 Sul Alameda 4, 40 - 108 Sul - Plano Diretor Sul, Palmas - TO, 77020-104, Brazil",
+      "lat": -10.1881633,
+      "lng": -48.317877599999996,
+      "google_maps_url": "https://maps.google.com/?cid=10603664951564407743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/aresbjjpmw?igshid=MzRlODBiNWFlZA==200",
+      "logo": "/logos/ChIJ22l-hYfNJJMRv5NBwxfJJ5M.webp"
+    },
+    {
+      "place_id": "ChIJLbL3fI4FlwARHjSnrJ7N6Lg",
+      "name": "Brazilian Coast Jiu-Jitsu",
+      "address": "R. Cel. Ferreira, 932 - Portinho, Cabo Frio - RJ, 28915-370, Brazil",
+      "lat": -22.870803,
+      "lng": -42.029868,
+      "google_maps_url": "https://maps.google.com/?cid=13324125578960778270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/brazilian.coast.bjj/",
+      "logo": "/logos/ChIJLbL3fI4FlwARHjSnrJ7N6Lg.webp"
+    },
+    {
+      "place_id": "ChIJISwlIoHV3ZQRmUUGpqYmDJI",
+      "name": "Arena Jiu Jitsu",
+      "address": "Anexo Academia Teles Fitness - R. Rodolfo Klauman, 35 - Centro, São Bento do Sul - SC, 89280-393, Brazil",
+      "lat": -26.245970999999997,
+      "lng": -49.380014599999996,
+      "google_maps_url": "https://maps.google.com/?cid=10523828926449862041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJISwlIoHV3ZQRmUUGpqYmDJI.webp"
+    },
+    {
+      "place_id": "ChIJOW3lwJBZzpQRP_oGUTy2ri4",
+      "name": "Acad",
+      "address": "Rua Muniz de Sousa, 655 - Prédio 2 - Aclimação, São Paulo - SP, 01534-001, Brazil",
+      "lat": -23.568734499999998,
+      "lng": -46.626613,
+      "google_maps_url": "https://maps.google.com/?cid=3363826341866043967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://acadbrazilian.com.br/",
+      "logo": "/logos/ChIJOW3lwJBZzpQRP_oGUTy2ri4.webp"
+    },
+    {
+      "place_id": "ChIJM1oKD2Qnz5QRaGdm6dV-79w",
+      "name": "College Jundiai - Academia de Jiu Jitsu - Melqui Galvao",
+      "address": "Av. Dr. Cavalcanti, 678 - Centro, Jundiaí - SP, 13201-003, Brazil",
+      "lat": -23.190809299999998,
+      "lng": -46.879612699999996,
+      "google_maps_url": "https://maps.google.com/?cid=15920082664986929000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bit.ly/m/bjjcollege_jundiai",
+      "logo": "/logos/ChIJM1oKD2Qnz5QRaGdm6dV-79w.webp"
+    },
+    {
+      "place_id": "ChIJd6RfhVPRmwARcTxz4fu-Rh0",
+      "name": "Gracie Barra Matriz - Barra da Tijuca",
+      "address": "Av. Érico Veríssimo, 970 - Barra da Tijuca, Rio de Janeiro - RJ, 22621-180, Brazil",
+      "lat": -23.0092662,
+      "lng": -43.3055643,
+      "google_maps_url": "https://maps.google.com/?cid=2109583464498150513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJd6RfhVPRmwARcTxz4fu-Rh0.webp"
+    },
+    {
+      "place_id": "ChIJmdqQ7VZ-mQAR-jQrnPDL9tU",
+      "name": "Tatu",
+      "address": "R. Mariz e Barros, 554 - Maracanã, Rio de Janeiro - RJ, 20270-001, Brazil",
+      "lat": -22.914487599999998,
+      "lng": -43.2196613,
+      "google_maps_url": "https://maps.google.com/?cid=15417734608622138618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJmdqQ7VZ-mQAR-jQrnPDL9tU.webp"
+    },
+    {
+      "place_id": "ChIJ11iyGU7zsAcR15U0NNcjE3U",
+      "name": "CENTRO DE TREINAMENTO FL",
+      "address": "R. Monsenhor Júlio Alves Bezerra, N° 1220 - Centro, Açu - RN, 59650-000, Brazil",
+      "lat": -5.5769781,
+      "lng": -36.9092784,
+      "google_maps_url": "https://maps.google.com/?cid=8436125934195873239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/teamjonsonrodriguesassu?igsh=MXF1Zmp5NXNtaHE3dQ==",
+      "logo": "/logos/ChIJ11iyGU7zsAcR15U0NNcjE3U.webp"
+    },
+    {
+      "place_id": "ChIJvWDoPi_VmwARb8tntvXoFEU",
+      "name": "27 | Leblon | Charlão De França",
+      "address": "Av. Ataulfo de Paiva, 566 - lj 312 - Leblon, Rio de Janeiro - RJ, 22440-033, Brazil",
+      "lat": -22.983818799999998,
+      "lng": -43.2213521,
+      "google_maps_url": "https://maps.google.com/?cid=4977859630176127855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/charlaobjj27/",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJA_6ha_rj3JQR_Y6r8VZ5BjU",
+      "name": "Sede Administrativa CMSYSTEM",
+      "address": "R. José Domingos Marcondes de Carvalho, 253 - Pilarzinho, Curitiba - PR, 82100-290, Brazil",
+      "lat": -25.4004917,
+      "lng": -49.2894648,
+      "google_maps_url": "https://maps.google.com/?cid=3820874748199145213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://pt-br.facebook.com/cmsystem",
+      "logo": "/logos/ChIJA_6ha_rj3JQR_Y6r8VZ5BjU.webp"
+    },
+    {
+      "place_id": "ChIJiwi1X8L1AAcRX0wxHc90CKw",
+      "name": "Max Team",
+      "address": "R. José Buarque Sampaio - Centro, Maragogi - AL, 57955-000, Brazil",
+      "lat": -9.0126504,
+      "lng": -35.2242104,
+      "google_maps_url": "https://maps.google.com/?cid=12396286407234112607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJiwi1X8L1AAcRX0wxHc90CKw.webp"
+    },
+    {
+      "place_id": "ChIJ7xwl451b65QR6kxnDSJNtWw",
+      "name": "Matsushita Jiu-Jitsu",
+      "address": "Av. Juscelino Kubitscheck, 935 - Centro, Londrina - PR, 86020-000, Brazil",
+      "lat": -23.310086300000002,
+      "lng": -51.170381199999994,
+      "google_maps_url": "https://maps.google.com/?cid=7833251935529946346&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ7xwl451b65QR6kxnDSJNtWw.webp"
+    },
+    {
+      "place_id": "ChIJUxeS31DVmwARH6QiLlMqMeg",
+      "name": "Michel Safi Brazilian Jiu-Jitsu School",
+      "address": "Shopping Vitrine Leblon - Av. Ataulfo de Paiva, 1079 - sala 301, 3o andar - Leblon, Rio de Janeiro - RJ, 22440-035, Brazil",
+      "lat": -22.9854453,
+      "lng": -43.226012999999995,
+      "google_maps_url": "https://maps.google.com/?cid=16731200627402777631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/michelsafibjjschool/",
+      "logo": "/logos/ChIJUxeS31DVmwARH6QiLlMqMeg.webp"
+    },
+    {
+      "place_id": "ChIJmd54IWdrzpQRJfnIqpyvbpU",
+      "name": "OUT - Jiu-Jitsu Academy",
+      "address": "R. Brasília, 41 - Parque das Américas, Mauá - SP, 09350-600, Brazil",
+      "lat": -23.6857796,
+      "lng": -46.4486406,
+      "google_maps_url": "https://maps.google.com/?cid=10767736846504491301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/bjj_out_academy?igsh=NjAyOWpjaTF1YXI4",
+      "logo": "/logos/ChIJmd54IWdrzpQRJfnIqpyvbpU.webp"
+    },
+    {
+      "place_id": "ChIJH8shkNTDmwARkjCBaR0cpFw",
+      "name": "Escola Behring de Jiu Jitsu Brasil",
+      "address": "Avenida das Américas, 16691 - R. Min. Aliomar Baleeiro, 840 - sala 202 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-704, Brazil",
+      "lat": -23.0171447,
+      "lng": -43.475077399999996,
+      "google_maps_url": "https://maps.google.com/?cid=6675491460319621266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.escolabehring.com.br/",
+      "logo": "/logos/ChIJH8shkNTDmwARkjCBaR0cpFw.webp"
+    },
+    {
+      "place_id": "ChIJ50fTQiv73JQRmLMvj92XhxA",
+      "name": "Chute Boxe - MMA",
+      "address": "Rua Tenente Francisco Ferreira de Souza, 1540 - Hauer, Curitiba - PR, 81630-000, Brazil",
+      "lat": -25.482846499999997,
+      "lng": -49.2484682,
+      "google_maps_url": "https://maps.google.com/?cid=1191087604308620184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/chuteboxeoficial/",
+      "logo": "/logos/ChIJ50fTQiv73JQRmLMvj92XhxA.webp"
+    },
+    {
+      "place_id": "ChIJiS_nKPE9J5URV_B5nsyflwc",
+      "name": "Camps",
+      "address": "R. Isaltina de Assunção Farias, 408 - Rio Tavares, Florianópolis - SC, 88048-416, Brazil",
+      "lat": -27.651066999999998,
+      "lng": -48.474581,
+      "google_maps_url": "https://maps.google.com/?cid=547081580929740887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJiS_nKPE9J5URV_B5nsyflwc.webp"
+    },
+    {
+      "place_id": "ChIJsVnwVWD3zpQR5uTcDHTltHw",
+      "name": "Academia de Jiu Jitsu Gracie Barra - Santana - Zona Norte de São Paulo",
+      "address": "R. Banco das Palmas, 376 - Santana, São Paulo - SP, 02016-020, Brazil",
+      "lat": -23.5009688,
+      "lng": -46.6308679,
+      "google_maps_url": "https://maps.google.com/?cid=8986059443105752294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bi-o.link/graciebarra",
+      "logo": "/logos/ChIJsVnwVWD3zpQR5uTcDHTltHw.webp"
+    },
+    {
+      "place_id": "ChIJXRlvThp8mQAR92F0IRIyLoI",
+      "name": "Breda Jiu Jitsu",
+      "address": "Rua Ramos de Queiros, 23 - Higienópolis, Rio de Janeiro - RJ, 21051-540, Brazil",
+      "lat": -22.8720863,
+      "lng": -43.2599391,
+      "google_maps_url": "https://maps.google.com/?cid=9380490127311397367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.facebook.com/bredajiujitsu/",
+      "logo": "/logos/ChIJXRlvThp8mQAR92F0IRIyLoI.webp"
+    },
+    {
+      "place_id": "ChIJkYT5TeUDzpQR3kBkx-w2tMk",
+      "name": "Escola de jiu jitsu knights",
+      "address": "Av. Senador Feijó, 541 11 - Vila Matias, Santos - SP, 11015-505, Brazil",
+      "lat": -23.947992,
+      "lng": -46.326774799999995,
+      "google_maps_url": "https://maps.google.com/?cid=14534302288016851166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://knightsjiujitsu.com.br/",
+      "logo": "/logos/ChIJkYT5TeUDzpQR3kBkx-w2tMk.webp"
+    },
+    {
+      "place_id": "ChIJDSq4FRs5J5URPJw6MetOImw",
+      "name": "DRAVA JIU JITSU - Alexandre de Souza",
+      "address": "Servidão Tomás Serapião Vasques, 40 - João Paulo, Florianópolis - SC, 88030-363, Brazil",
+      "lat": -27.562442899999997,
+      "lng": -48.5150958,
+      "google_maps_url": "https://maps.google.com/?cid=7791877077354585148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJDSq4FRs5J5URPJw6MetOImw.webp"
+    },
+    {
+      "place_id": "ChIJbcuXYag7WpMR1lmDXcn7J9s",
+      "name": "Cerrado MMA | Muay Thai | Boxe | Jiu-Jitsu | Luta-livre | Artes Marciais",
+      "address": "Clube Social Unidade de Vizinhança Norte - Asa Norte, Brasília - DF, 70830-153, Brazil",
+      "lat": -15.7755197,
+      "lng": -47.87421,
+      "google_maps_url": "https://maps.google.com/?cid=15791867460673821142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://cerradomma.com/",
+      "logo": "/logos/ChIJbcuXYag7WpMR1lmDXcn7J9s.webp"
+    },
+    {
+      "place_id": "ChIJGV47JUOPi5QRZwoEMG2e2pk",
+      "name": "Origens BJJ - Academia de Jiu Jitsu",
+      "address": "R. Smaylly José dos Santos, 191 - Centro, Naviraí - MS, 79950-000, Brazil",
+      "lat": -23.064663,
+      "lng": -54.183411,
+      "google_maps_url": "https://maps.google.com/?cid=11086347624520092263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://linktr.ee/origensbjj",
+      "logo": "/logos/ChIJGV47JUOPi5QRZwoEMG2e2pk.webp"
+    },
+    {
+      "place_id": "ChIJ7UEj2u3_lgARlfSrekdQqcY",
+      "name": "Black Samurai - Bruno Miguel - BJJ Old School",
+      "address": "Av. José Bento Ribeiro Dantas, 540 - Manguinhos, Armação dos Búzios - RJ, 28950-000, Brazil",
+      "lat": -22.7686594,
+      "lng": -41.905325999999995,
+      "google_maps_url": "https://maps.google.com/?cid=14315061158504821909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ7UEj2u3_lgARlfSrekdQqcY.webp"
+    },
+    {
+      "place_id": "ChIJF0nMDvRzGZURXzo4o0tNjFk",
+      "name": "Braziljiu",
+      "address": "R. Emília Gaúna Bochehin, 542 - Parque da Matriz, Cachoeirinha - RS, 94950-545, Brazil",
+      "lat": -29.945237599999995,
+      "lng": -51.0792577,
+      "google_maps_url": "https://maps.google.com/?cid=6452617353371335263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJF0nMDvRzGZURXzo4o0tNjFk.webp"
+    }
+  ]
+}

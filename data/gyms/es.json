@@ -1,0 +1,608 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "normalized_at": "2026-02-02T05:05:06.727Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJm2ic2BajpBIRd1nd31X4xi4",
+      "name": "Acadèmia Barcelona Jiu-Jitsu",
+      "address": "Carrer de Llull, 16, Sant Martí, 08005 Barcelona, Spain",
+      "lat": 41.3917192,
+      "lng": 2.1896502,
+      "google_maps_url": "https://maps.google.com/?cid=3370654418845129079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.barcelonajiujitsu.com/",
+      "logo": "/logos/ChIJm2ic2BajpBIRd1nd31X4xi4.webp"
+    },
+    {
+      "place_id": "ChIJiZMQ8BCjpBIRnP94Ers55Eo",
+      "name": "10th Planet Jiu Jitsu Barcelona",
+      "address": "Carrer de Sant Pere Màrtir, 37, Gràcia, 08012 Barcelona, Spain",
+      "lat": 41.3997635,
+      "lng": 2.1568332,
+      "google_maps_url": "https://maps.google.com/?cid=5396501729128284060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.10thplanetbarcelona.com/",
+      "logo": "/logos/ChIJiZMQ8BCjpBIRnP94Ers55Eo.webp"
+    },
+    {
+      "place_id": "ChIJvQFsIVujpBIRaie5Tav4QAk",
+      "name": "Atos Jiu Jitsu Barcelona",
+      "address": "Carrer d'Entença, 114, Eixample, 08015 Barcelona, Spain",
+      "lat": 41.3809158,
+      "lng": 2.1492774,
+      "google_maps_url": "https://maps.google.com/?cid=666806159477909354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.atosjiujitsubcn.es/",
+      "logo": "/logos/ChIJvQFsIVujpBIRaie5Tav4QAk.webp"
+    },
+    {
+      "place_id": "ChIJLd9ykF6ipBIR-BATiUcgSJs",
+      "name": "Gullo Jiu-Jitsu Barcelona",
+      "address": "Carrer de Viladomat, 88, Bajos, Eixample, 08015 Barcelona, Spain",
+      "lat": 41.3790973,
+      "lng": 2.1582806,
+      "google_maps_url": "https://maps.google.com/?cid=11189228765816492280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.gullojiujitsu.com/",
+      "logo": "/logos/ChIJLd9ykF6ipBIR-BATiUcgSJs.webp"
+    },
+    {
+      "place_id": "ChIJ-bAdAlIoQg0R9B_Jp1Hr7Zs",
+      "name": "MADRID - LOTUS CLUB",
+      "address": "C. de Guzmán el Bueno, 95, Soportales, Chamberí, 28015 Madrid, Spain",
+      "lat": 40.438345399999996,
+      "lng": -3.7130864,
+      "google_maps_url": "https://maps.google.com/?cid=11235895381299109876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bjjmadrid.com/",
+      "logo": "/logos/ChIJ-bAdAlIoQg0R9B_Jp1Hr7Zs.webp"
+    },
+    {
+      "place_id": "ChIJgaZNoJopQg0RCvv8YvmrL9w",
+      "name": "Malasaña",
+      "address": "Plaza Conde de Toreno, 2, Planta Baja Local 5, Centro, 28015 Madrid, Spain",
+      "lat": 40.4246731,
+      "lng": -3.7096229,
+      "google_maps_url": "https://maps.google.com/?cid=15866089099845499658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjmalasaña.com/",
+      "logo": "/logos/ChIJgaZNoJopQg0RCvv8YvmrL9w.webp"
+    },
+    {
+      "place_id": "ChIJS55Ixc0vQg0RQ_3KrLaEG6Q",
+      "name": "Atenea Brazilian Jiu Jitsu Team",
+      "address": "C. del Canal de Panamá, 3, Cdad. Lineal, 28027 Madrid, Spain",
+      "lat": 40.4401526,
+      "lng": -3.6512938999999998,
+      "google_maps_url": "https://maps.google.com/?cid=11825191166709267779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.ateneabjjteam.com/",
+      "logo": "/logos/ChIJS55Ixc0vQg0RQ_3KrLaEG6Q.webp"
+    },
+    {
+      "place_id": "ChIJ1TBQYvCZpBIRK1RzmI1sJlM",
+      "name": "Aranha Barcelona - Brazilian jiu jitsu - self defense",
+      "address": "Carrer de Robrenyo, 63, Sants-Montjuïc, 08014 Barcelona, Spain",
+      "lat": 41.3822648,
+      "lng": 2.1393904,
+      "google_maps_url": "https://maps.google.com/?cid=5991595709666907179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.aranhabarcelona.com/",
+      "logo": "/logos/ChIJ1TBQYvCZpBIRK1RzmI1sJlM.webp"
+    },
+    {
+      "place_id": "ChIJjUitwUkvQg0RhOEKL9BxqZ8",
+      "name": "Checkmat Madrid",
+      "address": "Calle Esteban Collantes, 32, Cdad. Lineal, 28017 Madrid, Spain",
+      "lat": 40.43192,
+      "lng": -3.6397299999999997,
+      "google_maps_url": "https://maps.google.com/?cid=11504851862051021188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://checkmatmadrid.com/",
+      "logo": "/logos/ChIJjUitwUkvQg0RhOEKL9BxqZ8.webp"
+    },
+    {
+      "place_id": "ChIJjwmsHhajpBIRW4AgcOM0E0M",
+      "name": "Barcelona",
+      "address": "Carrer de Roc Boronat, 66, Sant Martí, 08005 Barcelona, Spain",
+      "lat": 41.4002392,
+      "lng": 2.1981268,
+      "google_maps_url": "https://maps.google.com/?cid=4833264976542072923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bcnma.com/",
+      "logo": "/logos/ChIJjwmsHhajpBIRW4AgcOM0E0M.webp"
+    },
+    {
+      "place_id": "ChIJG5oc7BMpQg0RWDxgWYxJv0U",
+      "name": "Círculo de Jiu Jitsu",
+      "address": "Cl. de Ayala, 71, Salamanca, 28001 Madrid, Spain",
+      "lat": 40.4274823,
+      "lng": -3.6761227,
+      "google_maps_url": "https://maps.google.com/?cid=5025816576312491096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://circulodejiujitsu.com/",
+      "logo": "/logos/ChIJG5oc7BMpQg0RWDxgWYxJv0U.webp"
+    },
+    {
+      "place_id": "ChIJS1g7qF0pQg0RaEtM6bewJ-Y",
+      "name": "Somos Jiu Jitsu",
+      "address": "P.º de la Castellana, 161, Tetuán, 28046 Madrid, Spain",
+      "lat": 40.4614076,
+      "lng": -3.6911834999999997,
+      "google_maps_url": "https://maps.google.com/?cid=16584418456754735976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://somosjiujitsu.com/",
+      "logo": "/logos/ChIJS1g7qF0pQg0RaEtM6bewJ-Y.webp"
+    },
+    {
+      "place_id": "ChIJFXqnFbNPYA0RgTbioHUs4eI",
+      "name": "Valencia",
+      "address": "C/ Dr. Desiderio Gallego Moya, 13, 46930 València, Valencia, Spain",
+      "lat": 39.4835336,
+      "lng": -0.4457062,
+      "google_maps_url": "https://maps.google.com/?cid=16348397006053586561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJFXqnFbNPYA0RgTbioHUs4eI.webp"
+    },
+    {
+      "place_id": "ChIJCQDDxTeZpBIRY04tvpJ5YDc",
+      "name": "Aranha Hospitalet I Jiu Jitsu, MMA y Muay Thai",
+      "address": "Carrer de la Constitució, 169, Sants-Montjuïc, 08014 Barcelona, Spain",
+      "lat": 41.368437,
+      "lng": 2.1323825,
+      "google_maps_url": "https://maps.google.com/?cid=3990322941013085795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.instagram.com/aranha_hospitalet",
+      "logo": "/logos/ChIJCQDDxTeZpBIRY04tvpJ5YDc.webp"
+    },
+    {
+      "place_id": "ChIJrzP4zHujpBIRbR8J_1psIPc",
+      "name": "METHOD BCN - Jiu Jitsu & Grappling",
+      "address": "Travessera de Gràcia, 419, Horta-Guinardó, 08025 Barcelona, Spain",
+      "lat": 41.410543,
+      "lng": 2.1717212999999997,
+      "google_maps_url": "https://maps.google.com/?cid=17807352064704585581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/method_bcn?igshid=ZDdkNTZiNTM=",
+      "logo": "/logos/ChIJrzP4zHujpBIRbR8J_1psIPc.webp"
+    },
+    {
+      "place_id": "ChIJo7z0VMNJYA0RFIpwYb8zuoA",
+      "name": "Dream Art Valencia",
+      "address": "C/ de l'Explorador Andrés, 7, Algirós, 46022 València, Valencia, Spain",
+      "lat": 39.472378299999995,
+      "lng": -0.3473072,
+      "google_maps_url": "https://maps.google.com/?cid=9275783279589493268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.jiujitsuvalencia.es/",
+      "logo": "/logos/ChIJo7z0VMNJYA0RFIpwYb8zuoA.webp"
+    },
+    {
+      "place_id": "ChIJ83PEIseipBIR2H5iXBjYYK4",
+      "name": "Anaconda",
+      "address": "Calle, Travessera de Gràcia, 294, local 2 - 08025, Gràcia, 08025 Barcelona, Spain",
+      "lat": 41.40705380000001,
+      "lng": 2.1671451999999998,
+      "google_maps_url": "https://maps.google.com/?cid=12565280559504457432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.anacondajiujitsu.com/",
+      "logo": "/logos/ChIJ83PEIseipBIR2H5iXBjYYK4.webp"
+    },
+    {
+      "place_id": "ChIJs3_dCtiipBIRQBhEafM5qMw",
+      "name": "Reinaldo Ribeiro Team Barcelona Jiu-Jitsu",
+      "address": "Carrer de la Bòbila, 6, Sants-Montjuïc, 08004 Barcelona, Spain",
+      "lat": 41.373297699999995,
+      "lng": 2.1583587,
+      "google_maps_url": "https://maps.google.com/?cid=14747100697430595648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://reinaldoribeiroteam.com/",
+      "logo": "/logos/ChIJs3_dCtiipBIRQBhEafM5qMw.webp"
+    },
+    {
+      "place_id": "ChIJ9Sa_UOopQg0RjrqzfrB1e0Q",
+      "name": "Madrid Academy",
+      "address": "C. de Agustín de Foxá, 25, Bajo C, Chamartín, 28036 Madrid, Spain",
+      "lat": 40.4703855,
+      "lng": -3.6858076000000004,
+      "google_maps_url": "https://maps.google.com/?cid=4934667217614912142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.bjjmadrid.com/",
+      "logo": "/logos/ChIJ9Sa_UOopQg0RjrqzfrB1e0Q.webp"
+    },
+    {
+      "place_id": "ChIJ0RZJadQuQg0RAKMF2X2SA7g",
+      "name": "Mathias Ribeiro Team",
+      "address": "C. de Mota del Cuervo, 10, Hortaleza, 28043 Madrid, Spain",
+      "lat": 40.4644371,
+      "lng": -3.6348562,
+      "google_maps_url": "https://maps.google.com/?cid=13259602797118464768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://mathiasribeiroteam.com/",
+      "logo": "/logos/ChIJ0RZJadQuQg0RAKMF2X2SA7g.webp"
+    },
+    {
+      "place_id": "ChIJFV2bJTyTlxIRybl29B27cs4",
+      "name": "GFF PALMA --Brazilian Jiu Jitsu - Grappling - BJJ--",
+      "address": "Carrer de Carles Riba, 27, Nord, 07004 Palma, Illes Balears, Spain",
+      "lat": 39.5919876,
+      "lng": 2.6578733,
+      "google_maps_url": "https://maps.google.com/?cid=14876158256488036809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/groundfightfamily?igshid=YmMyMTA2M2Y=",
+      "logo": "/logos/ChIJFV2bJTyTlxIRybl29B27cs4.webp"
+    },
+    {
+      "place_id": "ChIJXz9iwPejpBIRM10D3hDxlPE",
+      "name": "Circle Academy - BJJ, MMA & Mobility",
+      "address": "Carrer de Ferrer de Blanes, 5, Gràcia, 08012 Barcelona, Spain",
+      "lat": 41.3984862,
+      "lng": 2.1590409999999998,
+      "google_maps_url": "https://maps.google.com/?cid=17407803514440342835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.circleacademy.es/",
+      "logo": "/logos/ChIJXz9iwPejpBIRM10D3hDxlPE.webp"
+    },
+    {
+      "place_id": "ChIJzxWfVDqTlxIRqQW9cGFu_u8",
+      "name": "Mallorca",
+      "address": "Carrer d'Alòs, 20, Ponent, 07011 Palma, Illes Balears, Spain",
+      "lat": 39.575036499999996,
+      "lng": 2.6387867,
+      "google_maps_url": "https://maps.google.com/?cid=17293380983931602345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.mallorcabjj.com/",
+      "logo": "/logos/ChIJzxWfVDqTlxIRqQW9cGFu_u8.webp"
+    },
+    {
+      "place_id": "ChIJy7NlquGipBIRbtziUDkrPUw",
+      "name": "El Club de la Lluita Barcelona",
+      "address": "Carrer de Casp, 147, Eixample, 08013 Barcelona, Spain",
+      "lat": 41.3979097,
+      "lng": 2.1819053999999998,
+      "google_maps_url": "https://maps.google.com/?cid=5493594645632048238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.elclubdelaluchabarcelona.com/",
+      "logo": "/logos/ChIJy7NlquGipBIRbtziUDkrPUw.webp"
+    },
+    {
+      "place_id": "ChIJfzcPBokpQg0RRrD-SmxqUbk",
+      "name": "Cobrinha Brazilian Jiu-Jitsu Madrid",
+      "address": "Pl. de Puerto de la Cruz, 2, Fuencarral-El Pardo, 28029 Madrid, Spain",
+      "lat": 40.4782626,
+      "lng": -3.7159808,
+      "google_maps_url": "https://maps.google.com/?cid=13353571383477448774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.cobrinhabjjmadrid.com/",
+      "logo": "/logos/ChIJfzcPBokpQg0RRrD-SmxqUbk.webp"
+    },
+    {
+      "place_id": "ChIJ3dUCU07HDQ0Rhpk4Q2LzHs8",
+      "name": "/ Jiu-jitsu Brasileño",
+      "address": "Calle Esla, 13, 11405 Jerez de la Frontera, Cádiz, Spain",
+      "lat": 36.691075,
+      "lng": -6.1067137,
+      "google_maps_url": "https://maps.google.com/?cid=14924633818512529798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://rafaelpousada.com/",
+      "logo": "/logos/ChIJ3dUCU07HDQ0Rhpk4Q2LzHs8.webp"
+    },
+    {
+      "place_id": "ChIJkfj4C4eipBIRZpsXKpO-g2s",
+      "name": "Gracie Barra Barcelona",
+      "address": "Carrer d'Aragó, 109, Eixample, 08015 Barcelona, Spain",
+      "lat": 41.3826505,
+      "lng": 2.1520695,
+      "google_maps_url": "https://maps.google.com/?cid=7747245323283045222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.graciebarrabarcelona.com/",
+      "logo": "/logos/ChIJkfj4C4eipBIRZpsXKpO-g2s.webp"
+    },
+    {
+      "place_id": "ChIJtVCPs8knQg0Rk7aVrwv2Hy0",
+      "name": "TATAMISFERA",
+      "address": "C. del Padre Oltra, 54, Carabanchel, 28019 Madrid, Spain",
+      "lat": 40.3938972,
+      "lng": -3.7103167999999997,
+      "google_maps_url": "https://maps.google.com/?cid=3251587986035685011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.tatamisfera.com/",
+      "logo": "/logos/ChIJtVCPs8knQg0Rk7aVrwv2Hy0.webp"
+    },
+    {
+      "place_id": "ChIJuSCCUCejpBIRXjwuwpymTiQ",
+      "name": "AA Jiu Jitsu",
+      "address": "Gran Via de les Corts Catalanes, 1016, Sant Martí, 08020 Barcelona, Spain",
+      "lat": 41.4120079,
+      "lng": 2.1995375999999998,
+      "google_maps_url": "https://maps.google.com/?cid=2616211625751755870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://aajiujitsu.com/",
+      "logo": "/logos/ChIJuSCCUCejpBIRXjwuwpymTiQ.webp"
+    },
+    {
+      "place_id": "ChIJ06AdIW4pQg0RzpS4NOVGhxA",
+      "name": "Splinters Jiu-jitsu & MMA",
+      "address": "Cl. de Don Quijote, 28, Tetuán, 28020 Madrid, Spain",
+      "lat": 40.4485846,
+      "lng": -3.6990551,
+      "google_maps_url": "https://maps.google.com/?cid=1190998576708752590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://splintersmma.com/",
+      "logo": "/logos/ChIJ06AdIW4pQg0RzpS4NOVGhxA.webp"
+    },
+    {
+      "place_id": "ChIJ3Rg6qbA2Yg0RDQ1knGvLFww",
+      "name": "Gracie Barra Alicante",
+      "address": "C. del Zinc, 3, 03690 San Vicente del Raspeig, Alicante, Spain",
+      "lat": 38.389505,
+      "lng": -0.5119256999999999,
+      "google_maps_url": "https://maps.google.com/?cid=871388715965222157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/Gracie-Barra-Alicante-536968723076955/",
+      "logo": "/logos/ChIJ3Rg6qbA2Yg0RDQ1knGvLFww.webp"
+    },
+    {
+      "place_id": "ChIJ71efk99OYA0RL3fq49lSwPg",
+      "name": "Ases Jiu-Jitsu Valencia",
+      "address": "C. del Músic Cabanilles, 46, Jesús, 46017 València, Valencia, Spain",
+      "lat": 39.4452365,
+      "lng": -0.3920593,
+      "google_maps_url": "https://maps.google.com/?cid=17924417612719748911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.asesbjj.info/",
+      "logo": "/logos/ChIJ71efk99OYA0RL3fq49lSwPg.webp"
+    },
+    {
+      "place_id": "ChIJlW55LQiwUQ0Rw9jBCDw1uN4",
+      "name": "Gracie Barra Antiguo",
+      "address": "Portuetxe K., 55, 20008 Donostia / San Sebastián, Gipuzkoa, Spain",
+      "lat": 43.3011379,
+      "lng": -2.0167883,
+      "google_maps_url": "https://maps.google.com/?cid=16048635804095994051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.graciebarradonostia.com/",
+      "logo": "/logos/ChIJlW55LQiwUQ0Rw9jBCDw1uN4.webp"
+    },
+    {
+      "place_id": "ChIJXWVbrvD3cg0RPFJMFEdHxnU",
+      "name": "Atitude BJJ Málaga",
+      "address": "C. Brasilia, 25, Cruz de Humilladero, 29006 Málaga, Spain",
+      "lat": 36.7131733,
+      "lng": -4.4754474,
+      "google_maps_url": "https://maps.google.com/?cid=8486548918435074620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJXWVbrvD3cg0RPFJMFEdHxnU.webp"
+    },
+    {
+      "place_id": "ChIJO2OxKM75cg0RZpu8FQ_AdQI",
+      "name": "Roger Gracie Malaga",
+      "address": "C. Polifemo, 3, Carretera de Cádiz, 29004 Málaga, Spain",
+      "lat": 36.68696,
+      "lng": -4.4472137,
+      "google_maps_url": "https://maps.google.com/?cid=177258931372727142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://rogergraciemalaga.com/",
+      "logo": "/logos/ChIJO2OxKM75cg0RZpu8FQ_AdQI.webp"
+    },
+    {
+      "place_id": "ChIJycfcgeejpBIRDWSwEi24RqM",
+      "name": "Oldskull Jiu-Jitsu",
+      "address": "Carrer de Xifré, 46, Sant Martí, 08026 Barcelona, Spain",
+      "lat": 41.4096204,
+      "lng": 2.1827156999999997,
+      "google_maps_url": "https://maps.google.com/?cid=11765293580278588429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.oldskulljiujitsu.com/",
+      "logo": "/logos/ChIJycfcgeejpBIRDWSwEi24RqM.webp"
+    },
+    {
+      "place_id": "ChIJqXx6JAAqcw0RARlsmig5ea0",
+      "name": "The Flow Academy",
+      "address": "C. Río Volga, 29660 Marbella, Málaga, Spain",
+      "lat": 36.4879871,
+      "lng": -4.9706164,
+      "google_maps_url": "https://maps.google.com/?cid=12500085087295772929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJqXx6JAAqcw0RARlsmig5ea0.webp"
+    },
+    {
+      "place_id": "ChIJ-aqsNcmZpBIR5N9phoycPcs",
+      "name": "Jiu Jitsu Barcelona",
+      "address": "Carrer del Bruc, 44, 08950 Esplugues de Llobregat, Barcelona, Spain",
+      "lat": 41.3703642,
+      "lng": 2.0847919999999998,
+      "google_maps_url": "https://maps.google.com/?cid=14645033690643161060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.jiujitsubarcelona.net/",
+      "logo": "/logos/ChIJ-aqsNcmZpBIR5N9phoycPcs.webp"
+    },
+    {
+      "place_id": "ChIJB16FOYLgphIRgutqYaGWcSk",
+      "name": "Academy",
+      "address": "Carrer Palauet, 58, 25001 Lleida, Spain",
+      "lat": 41.6072285,
+      "lng": 0.6451897,
+      "google_maps_url": "https://maps.google.com/?cid=2986333647791647618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://brazilianjiujitsulleida.com/",
+      "logo": "/logos/ChIJB16FOYLgphIRgutqYaGWcSk.webp"
+    },
+    {
+      "place_id": "ChIJUUJRc2onQg0RfolAzsV8DtI",
+      "name": "Escuela de Jiujitsu Brasileño Puerta del Angel(FREESTYLE BJJ CLUB)",
+      "address": "C. de Cabello Lapiedra, 4, Latina, 28011 Madrid, Spain",
+      "lat": 40.410430999999996,
+      "lng": -3.7339708999999996,
+      "google_maps_url": "https://maps.google.com/?cid=15136172586649553278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJUUJRc2onQg0RfolAzsV8DtI.webp"
+    },
+    {
+      "place_id": "ChIJa1wljpCxUQ0R5FXC3YTZGnA",
+      "name": "Stealth BJJ San Sebastián - Brazilian Jiu Jitsu en San Sebastián",
+      "address": "C. Iribar, 6, C-14, 20018 Donostia / San Sebastián, Guipúzcoa, Spain",
+      "lat": 43.3033399,
+      "lng": -2.0216967,
+      "google_maps_url": "https://maps.google.com/?cid=8078008046321817060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.stealthbjjsansebastian.com/",
+      "logo": "/logos/ChIJa1wljpCxUQ0R5FXC3YTZGnA.webp"
+    },
+    {
+      "place_id": "ChIJVYZnjSJHmRIRoJKKeJ6t_Qc",
+      "name": "Art of Flow Bjj Brazilian jiujitsu Ibiza Academy",
+      "address": "Carrer del Bisbe Abad y Lasierra, 48, 07800 Eivissa, Illes Balears, Spain",
+      "lat": 38.9116402,
+      "lng": 1.4277199,
+      "google_maps_url": "https://maps.google.com/?cid=575807223512076960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.artofflowibizaacademy.com/",
+      "logo": "/logos/ChIJVYZnjSJHmRIRoJKKeJ6t_Qc.webp"
+    },
+    {
+      "place_id": "ChIJk5Xg3-9hLw0RyJWZQags9Fg",
+      "name": "Loyalt Spain Jiu Jitsu Moaña",
+      "address": "Lugar do Igrexario, 135A, 36958, Pontevedra, Spain",
+      "lat": 42.2739767,
+      "lng": -8.7512451,
+      "google_maps_url": "https://maps.google.com/?cid=6409797270821770696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/crossfitlabodega?igshid=YmMyMTA2M2Y=",
+      "logo": "/logos/ChIJk5Xg3-9hLw0RyJWZQags9Fg.webp"
+    },
+    {
+      "place_id": "ChIJpbWzbTiRpBIR4ZgXDKrsjZw",
+      "name": "DYLAN ACADEMY / FIGHT CLUB RUBI",
+      "address": "Carrer de Saragossa, 19, 08191 Rubí, Barcelona, Spain",
+      "lat": 41.5006633,
+      "lng": 2.0422523,
+      "google_maps_url": "https://maps.google.com/?cid=11280932856724429025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/bjj_dylan_academy?igsh=a2k5bW5hMXl5N2Zz",
+      "logo": "/logos/ChIJpbWzbTiRpBIR4ZgXDKrsjZw.webp"
+    },
+    {
+      "place_id": "ChIJIXt56QGTUA0RhSMVrZ6mI0I",
+      "name": "Gracie Barra Pamplona Brazilian Jiu-Jitsu & Wrestling & MMA",
+      "address": "C. R, 27, 31192 Mutilva, Navarra, Spain",
+      "lat": 42.7863784,
+      "lng": -1.6294704000000002,
+      "google_maps_url": "https://maps.google.com/?cid=4765836031127004037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://graciebarrapamplona.com/",
+      "logo": "/logos/ChIJIXt56QGTUA0RhSMVrZ6mI0I.webp"
+    },
+    {
+      "place_id": "ChIJUzXjuDW9pBIRDHKhUKWSw3o",
+      "name": "Team Cuevas Jiu Jitsu",
+      "address": "Carrer del Prat, 4, 08930 Sant Adrià de Besòs, Barcelona, Spain",
+      "lat": 41.4282994,
+      "lng": 2.2115812,
+      "google_maps_url": "https://maps.google.com/?cid=8846075331805803020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJUzXjuDW9pBIRDHKhUKWSw3o.webp"
+    },
+    {
+      "place_id": "ChIJUSf31w-1pBIRbEKOb4gPOkY",
+      "name": "Mataró Jiu-Jitsu",
+      "address": "Carrer Sant Jordi, 34, 08303 Mataró, Barcelona, Spain",
+      "lat": 41.5420453,
+      "lng": 2.4286874,
+      "google_maps_url": "https://maps.google.com/?cid=5060374209965736556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://matarojiujitsu.com/index.html",
+      "logo": "/logos/ChIJUSf31w-1pBIRbEKOb4gPOkY.webp"
+    },
+    {
+      "place_id": "ChIJjT1u8yCZpBIR-6NHz605nKc",
+      "name": "Fox Jiu-jitsu Academy",
+      "address": "Carrer de Gayarre, 55, Sants-Montjuïc, 08014 Barcelona, Spain",
+      "lat": 41.373396,
+      "lng": 2.140443,
+      "google_maps_url": "https://maps.google.com/?cid=12077591719370531835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://foxjiujitsuacademy.com/",
+      "logo": "/logos/ChIJjT1u8yCZpBIR-6NHz605nKc.webp"
+    },
+    {
+      "place_id": "ChIJdZ-GIof7cg0RIQ1wnTDb4Xc",
+      "name": "Scramble Academy Spain",
+      "address": "Poligono el Pinillo, C. Antonio Alcaide Sánchez, 3, 29620 Torremolinos, Málaga, Spain",
+      "lat": 36.6126052,
+      "lng": -4.5147693,
+      "google_maps_url": "https://maps.google.com/?cid=8638426562119601441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.scrambleacademy.es/",
+      "logo": "/logos/ChIJdZ-GIof7cg0RIQ1wnTDb4Xc.webp"
+    },
+    {
+      "place_id": "ChIJv0lWhECZpBIRwjPIOyroAZA",
+      "name": "Academia L'Hospitalet Jiu-Jitsu",
+      "address": "Carrer d'Almadén, 3, 08901 L'Hospitalet de Llobregat, Barcelona, Spain",
+      "lat": 41.3644854,
+      "lng": 2.1058714,
+      "google_maps_url": "https://maps.google.com/?cid=10376830284527580098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJv0lWhECZpBIRwjPIOyroAZA.webp"
+    },
+    {
+      "place_id": "ChIJNz4PdgA3Yg0RuupQIFLP8BE",
+      "name": "ON JIU JITSU",
+      "address": "C. Alfarería, 5, 03690, Alicante, Spain",
+      "lat": 38.386717,
+      "lng": -0.495309,
+      "google_maps_url": "https://maps.google.com/?cid=1292761044691774138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://onjiujitsuacademy.com/",
+      "logo": "/logos/ChIJNz4PdgA3Yg0RuupQIFLP8BE.webp"
+    },
+    {
+      "place_id": "ChIJGSgOz7uZpBIR3NgKU3l27J8",
+      "name": "Humbling Jiu-Jitsu Club",
+      "address": "Gran Via de Carles III, 17-19, Les Corts, 08028 Barcelona, Spain",
+      "lat": 41.3804777,
+      "lng": 2.1284633,
+      "google_maps_url": "https://maps.google.com/?cid=11523715809990596828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://humblingjjc.com/",
+      "logo": "/logos/ChIJGSgOz7uZpBIR3NgKU3l27J8.webp"
+    },
+    {
+      "place_id": "ChIJseAvePWjpBIRySe4yKjCiag",
+      "name": "LEGACY BJJ BARCELONA",
+      "address": "Carrer de Còrsega, 371, bajos, Gràcia, 08037 Barcelona, Spain",
+      "lat": 41.3990936,
+      "lng": 2.1623489,
+      "google_maps_url": "https://maps.google.com/?cid=12144451900359059401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJseAvePWjpBIRySe4yKjCiag.webp"
+    },
+    {
+      "place_id": "ChIJ1WlzHAw6Yg0RkdfwuHt7kWs",
+      "name": "AC Jiu Jitsu Academy - Muchamiel",
+      "address": "Pl. Ayuntamiento, 03110 Mutxamel, Alicante, Spain",
+      "lat": 38.414663999999995,
+      "lng": -0.44394799999999995,
+      "google_maps_url": "https://maps.google.com/?cid=7751112204995319697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.acjiujitsuacademy.com/",
+      "logo": "/logos/ChIJ1WlzHAw6Yg0RkdfwuHt7kWs.webp"
+    },
+    {
+      "place_id": "ChIJFQ5-3Tb9cQ0RqZCvVA99AdU",
+      "name": "Jiu Jitsu Granada",
+      "address": "C. Rey Abu Said, 2, Ronda, 18006 Granada, Spain",
+      "lat": 37.1649092,
+      "lng": -3.6018756,
+      "google_maps_url": "https://maps.google.com/?cid=15348686509854134441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJFQ5-3Tb9cQ0RqZCvVA99AdU.webp"
+    },
+    {
+      "place_id": "ChIJX2EHf2gxQg0RpN_udUBF1rU",
+      "name": "PlayJitsu Academy - Escuela de Jiu Jitsu brasileño y grappling Madrid",
+      "address": "Pl. del Mar Egeo, 14, Local 1, 28821 Coslada, Madrid, Spain",
+      "lat": 40.4171507,
+      "lng": -3.5739641,
+      "google_maps_url": "https://maps.google.com/?cid=13102736309039849380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://playjitsu-academy.com/",
+      "logo": "/logos/ChIJX2EHf2gxQg0RpN_udUBF1rU.webp"
+    },
+    {
+      "place_id": "ChIJ8RcvcWJPYA0RUqYcjFD5UNw",
+      "name": "Dojo Hikari Valencia",
+      "address": "Carrer del Puerto de Santa María, 8, Campanar, 46015 València, Valencia, Spain",
+      "lat": 39.48541,
+      "lng": -0.399987,
+      "google_maps_url": "https://maps.google.com/?cid=15875462810824386130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.hikarivalencia.es/",
+      "logo": "/logos/ChIJ8RcvcWJPYA0RUqYcjFD5UNw.webp"
+    },
+    {
+      "place_id": "ChIJ_7NKMA8pcw0RiwtnncF0bFY",
+      "name": "Vinicius Moura",
+      "address": "C. Río Amazonas, 29670 Marbella, Málaga, Spain",
+      "lat": 36.4882348,
+      "lng": -4.9716334,
+      "google_maps_url": "https://maps.google.com/?cid=6227480759664839563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ_7NKMA8pcw0RiwtnncF0bFY.webp"
+    },
+    {
+      "place_id": "ChIJ8TsgX2S7pBIRLUDjvvx3sNM",
+      "name": "BFIT BADALONA",
+      "address": "Plaça Jordi Dauder i Guardiola, 08917 Badalona, Barcelona, Spain",
+      "lat": 41.453868799999995,
+      "lng": 2.2375640999999997,
+      "google_maps_url": "https://maps.google.com/?cid=15253823865321898029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ8TsgX2S7pBIRLUDjvvx3sNM.webp"
+    },
+    {
+      "place_id": "ChIJhdqKHXe9pBIRGWgE01uWiCQ",
+      "name": "Acadèmia Badalona Jiujitsu",
+      "address": "Carrer de Juan Valera, 178, 08914 Santa Coloma de Gramenet, Barcelona, Spain",
+      "lat": 41.443137,
+      "lng": 2.2231199999999998,
+      "google_maps_url": "https://maps.google.com/?cid=2632519303324526617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://badalonajiujitsu.com/",
+      "logo": "/logos/ChIJhdqKHXe9pBIRGWgE01uWiCQ.webp"
+    }
+  ]
+}

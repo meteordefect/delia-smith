@@ -1,0 +1,608 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "normalized_at": "2026-02-02T05:09:37.284Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJqePoq17LHg0R01Tw0cEdhL0",
+      "name": "Five Elements Academy Jiu-Jitsu Lisbon (Matrix)",
+      "address": "R. João dos Santos 1, 1300-325 Lisboa, Portugal",
+      "lat": 38.7069735,
+      "lng": -9.189418400000001,
+      "google_maps_url": "https://maps.google.com/?cid=13656072688382268627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.fiveelementsjiujitsu.com/",
+      "logo": "/logos/ChIJqePoq17LHg0R01Tw0cEdhL0.webp"
+    },
+    {
+      "place_id": "ChIJ2ynxIuIyGQ0RmkjMuufX7nU",
+      "name": "Fight Club Jiu Jitsu Portugal",
+      "address": "Lisboa - Cidade 47, 1600 Lisboa, Portugal",
+      "lat": 38.754259,
+      "lng": -9.1610886,
+      "google_maps_url": "https://maps.google.com/?cid=8497966937166071962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ2ynxIuIyGQ0RmkjMuufX7nU.webp"
+    },
+    {
+      "place_id": "ChIJM_vrvhAxGQ0RuCX9TclHLGc",
+      "name": "Alliance Jiu Jitsu - Parque das Nações, Lisboa",
+      "address": "Av. da Peregrinação 2, 1990-382 Lisboa, Portugal",
+      "lat": 38.7822828,
+      "lng": -9.0959094,
+      "google_maps_url": "https://maps.google.com/?cid=7434396014804280760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.alliancejjlisboa.com/",
+      "logo": "/logos/ChIJM_vrvhAxGQ0RuCX9TclHLGc.webp"
+    },
+    {
+      "place_id": "ChIJe8d7BlAzGQ0RaSPYTyLRdqI",
+      "name": "Brazilian Fight Lisboa",
+      "address": "R. Rebelo da Silva 57A, 1000-257 Lisboa, Portugal",
+      "lat": 38.7324021,
+      "lng": -9.1378547,
+      "google_maps_url": "https://maps.google.com/?cid=11706774226694841193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://brazilianfightlisboa.com/",
+      "logo": "/logos/ChIJe8d7BlAzGQ0RaSPYTyLRdqI.webp"
+    },
+    {
+      "place_id": "ChIJfZlwsWUzGQ0RgQ2ygqouaww",
+      "name": "Academia Five Elements Jiu-Jitsu Rato",
+      "address": "Rua do Sol ao Rato 59A, 1250-096 Lisboa, Portugal",
+      "lat": 38.719859299999996,
+      "lng": -9.1603465,
+      "google_maps_url": "https://maps.google.com/?cid=894860260835200385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.fiveelementsjiujitsu.com/",
+      "logo": "/logos/ChIJfZlwsWUzGQ0RgQ2ygqouaww.webp"
+    },
+    {
+      "place_id": "ChIJO4Hwy1bLHg0RSAh5j4JIHrY",
+      "name": "Brasa Clube de Jiu Jitsu Lisboa",
+      "address": "R. Sub-Chefe João Teodoro 4, 1300-110 Lisboa, Portugal",
+      "lat": 38.7039003,
+      "lng": -9.1971448,
+      "google_maps_url": "https://maps.google.com/?cid=13123006089794226248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://brasafelipecosta.blogspot.pt/",
+      "logo": "/logos/ChIJO4Hwy1bLHg0RSAh5j4JIHrY.webp"
+    },
+    {
+      "place_id": "ChIJlQrxoNFvJA0RQ_CJrpWn0Mg",
+      "name": "Focus Jiu-Jitsu Headquarters",
+      "address": "R. Dr. Afonso Cordeiro 711, 4450-007 Matosinhos, Portugal",
+      "lat": 41.175918599999996,
+      "lng": -8.684968699999999,
+      "google_maps_url": "https://maps.google.com/?cid=14470249864061644867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://site.focusjiujitsu.pt/",
+      "logo": "/logos/ChIJlQrxoNFvJA0RQ_CJrpWn0Mg.webp"
+    },
+    {
+      "place_id": "ChIJN2Bz681kJA0R9whucyKfv_M",
+      "name": "Jiu Jitsu Integração Portugal",
+      "address": "Rua Vilanovense Futebol Clube 25, 4400-334 Vila Nova de Gaia, Portugal",
+      "lat": 41.119314599999996,
+      "lng": -8.6103045,
+      "google_maps_url": "https://maps.google.com/?cid=17563932042082519287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://integracaobjj.pt/",
+      "logo": "/logos/ChIJN2Bz681kJA0R9whucyKfv_M.webp"
+    },
+    {
+      "place_id": "ChIJt-BbzUhlJA0RBY0mC99mOdI",
+      "name": "BOAVISTA FC JIU-JITSU",
+      "address": "Estadio do Bessa Século XXI, R. de O Primeiro de Janeiro, 4100-365 Porto, Portugal",
+      "lat": 41.1617551,
+      "lng": -8.6412564,
+      "google_maps_url": "https://maps.google.com/?cid=15148251929788189957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://boavistajiujitsu.com/",
+      "logo": "/logos/ChIJt-BbzUhlJA0RBY0mC99mOdI.webp"
+    },
+    {
+      "place_id": "ChIJqYn9fTTPHg0Rt1NJMCfndrc",
+      "name": "Icon Jiu-Jitsu Team/VitaTeam",
+      "address": "Ginasio Vita Team Jiu-Jitsu, Estr. Mata da Torre 341, 2785-798 Carcavelos, Portugal",
+      "lat": 38.711340299999996,
+      "lng": -9.334242999999999,
+      "google_maps_url": "https://maps.google.com/?cid=13220007911692522423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://vitateambjj.com/",
+      "logo": "/logos/ChIJqYn9fTTPHg0Rt1NJMCfndrc.webp"
+    },
+    {
+      "place_id": "ChIJ_1ckI7wzGQ0Rw7uj7J5ZGIk",
+      "name": "Gracie Lisboa",
+      "address": "R. Cel. Bento Roma 49A, 1700-121 Lisboa, Portugal",
+      "lat": 38.748277699999996,
+      "lng": -9.1393738,
+      "google_maps_url": "https://maps.google.com/?cid=9878744321747041219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://gracielisboa.com/",
+      "logo": "/logos/ChIJ_1ckI7wzGQ0Rw7uj7J5ZGIk.webp"
+    },
+    {
+      "place_id": "ChIJEYGu0PfPHg0RFwDzIzwgff4",
+      "name": "Gracie Barra Cascais - Jiu-Jitsu Academy",
+      "address": "R. das Sesmarias 7, 2710-694 Sintra, Portugal",
+      "lat": 38.765961499999996,
+      "lng": -9.367059399999999,
+      "google_maps_url": "https://maps.google.com/?cid=18337848700395782167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.graciebarra-cascais.com/",
+      "logo": "/logos/ChIJEYGu0PfPHg0RFwDzIzwgff4.webp"
+    },
+    {
+      "place_id": "ChIJbRjim2c3GQ0RGPwm8mMqnwo",
+      "name": "Geovanni's - BJJ, MMA & GYM",
+      "address": "R. Adolfo Simões Muller, 2840-269 Arrentela, Portugal",
+      "lat": 38.635503899999996,
+      "lng": -9.098683699999999,
+      "google_maps_url": "https://maps.google.com/?cid=765377070429043736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/geovannisgym/",
+      "logo": "/logos/ChIJbRjim2c3GQ0RGPwm8mMqnwo.webp"
+    },
+    {
+      "place_id": "ChIJ_4Io-Y5lJA0RgOVSDVywOxY",
+      "name": "Tribo Jiu Jitsu/Bpt Porto",
+      "address": "R. de Augusto Rosa 198, 4000-100 Porto, Portugal",
+      "lat": 41.1445023,
+      "lng": -8.607151000000002,
+      "google_maps_url": "https://maps.google.com/?cid=1602068001867359616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/Tribo-Jiu-JitsuBpt-Porto-841764115870575/",
+      "logo": "/logos/ChIJ_4Io-Y5lJA0RgOVSDVywOxY.webp"
+    },
+    {
+      "place_id": "ChIJnYvtzNkyGQ0RRwjvhkLx_mI",
+      "name": "Netto bjj - Pantera House",
+      "address": "R. Gen. José Celestino da Silva 2B, 1500-309 Lisboa, Portugal",
+      "lat": 38.7550903,
+      "lng": -9.178314,
+      "google_maps_url": "https://maps.google.com/?cid=7133404127835392071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.panterahouse.org/",
+      "logo": "/logos/ChIJnYvtzNkyGQ0RRwjvhkLx_mI.webp"
+    },
+    {
+      "place_id": "ChIJbcwZds7_JA0Rd86l1-py8DU",
+      "name": "Leaf Jiu Jitsu",
+      "address": "Rua da Quinta do Feital, 4700-154 Braga, Portugal",
+      "lat": 41.562393,
+      "lng": -8.4511488,
+      "google_maps_url": "https://maps.google.com/?cid=3886732831386619511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://leafjiujitsu.com/",
+      "logo": "/logos/ChIJbcwZds7_JA0Rd86l1-py8DU.webp"
+    },
+    {
+      "place_id": "ChIJBVAC70wpHw0RoVF5V6ws-Xk",
+      "name": "Icon BJJ (Brazilian Jiu Jitsu) Mafra",
+      "address": "Urbanização das Lameiras nº 7, 2640-578 Mafra, Portugal",
+      "lat": 38.9607922,
+      "lng": -9.3460432,
+      "google_maps_url": "https://maps.google.com/?cid=8789105266503799201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://iconbjjmafra.mailchimpsites.com/",
+      "logo": "/logos/ChIJBVAC70wpHw0RoVF5V6ws-Xk.webp"
+    },
+    {
+      "place_id": "ChIJzz-OXOxlJA0Rbr7mi3Yv9xQ",
+      "name": "Jiu Jitsu Portugal - WISH ROLL",
+      "address": "R. Nova do Regado 225, 4250-337 Porto, Portugal",
+      "lat": 41.1697151,
+      "lng": -8.6200181,
+      "google_maps_url": "https://maps.google.com/?cid=1510728386205892206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJzz-OXOxlJA0Rbr7mi3Yv9xQ.webp"
+    },
+    {
+      "place_id": "ChIJYcaiYJ_MHg0RZJ3priYPUyQ",
+      "name": "Academia Nova União Lisboa - JiuJitsu",
+      "address": "R. Carlos Reis 65A, 1600-031 Lisboa, Portugal",
+      "lat": 38.7430157,
+      "lng": -9.156825399999999,
+      "google_maps_url": "https://maps.google.com/?cid=2617452467250109796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.facebook.com/restelojiujitsu/",
+      "logo": "/logos/ChIJYcaiYJ_MHg0RZJ3priYPUyQ.webp"
+    },
+    {
+      "place_id": "ChIJuwqgqDWdGA0R4LSs0MQ4QVk",
+      "name": "#porradariaateotalo _ Jiu Jitsu _ BJJ _ Kick Boxing _ Muay Thai _ Fátima",
+      "address": "R. Jacinta Marto 169 Sala 3, Cova da Iria, 2495-402 Fátima, Portugal",
+      "lat": 39.6338714,
+      "lng": -8.6820466,
+      "google_maps_url": "https://maps.google.com/?cid=6431484160827503840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/porradariaateotalo?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr",
+      "logo": "/logos/ChIJuwqgqDWdGA0R4LSs0MQ4QVk.webp"
+    },
+    {
+      "place_id": "ChIJqxg4ASEzGQ0RaBZYW9xskN8",
+      "name": "AMA JIU JITSU TEAM (matriz)",
+      "address": "Rua dos Eucaliptos, Av. Q.ta Grande, 2610-069 Amadora, Portugal",
+      "lat": 38.7399719,
+      "lng": -9.2235104,
+      "google_maps_url": "https://maps.google.com/?cid=16109495560785368680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.amateam.pt/",
+      "logo": "/logos/ChIJqxg4ASEzGQ0RaBZYW9xskN8.webp"
+    },
+    {
+      "place_id": "ChIJORKOf0ozGQ0RkaE40-EORKg",
+      "name": "Icon Jiu Jitsu Olivais",
+      "address": "R. Cidade de Bolama 14E Loja 40.2, 1800-077 Lisboa, Portugal",
+      "lat": 38.7628025,
+      "lng": -9.115617799999999,
+      "google_maps_url": "https://maps.google.com/?cid=12124832459862352273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.proj3k7.com/",
+      "logo": "/logos/ChIJORKOf0ozGQ0RkaE40-EORKg.webp"
+    },
+    {
+      "place_id": "ChIJbc_NDwAVGw0RA0mn2ekwAY8",
+      "name": "Bear Bones Jiujitsu",
+      "address": "Rua 29 de Agosto Loja S, 8670-113 Aljezur, Portugal",
+      "lat": 37.3168602,
+      "lng": -8.7945153,
+      "google_maps_url": "https://maps.google.com/?cid=10304571203337537795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bearbonesjiujitsu.com/",
+      "logo": "/logos/ChIJbc_NDwAVGw0RA0mn2ekwAY8.webp"
+    },
+    {
+      "place_id": "ChIJXTmtQFEzGQ0RRHsLLD6GsCA",
+      "name": "FEU BJJ Lisboa",
+      "address": "Travessa de Campo de Ourique 12, 1350-050 Lisboa, Portugal",
+      "lat": 38.7207627,
+      "lng": -9.1677087,
+      "google_maps_url": "https://maps.google.com/?cid=2355530206699813700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJXTmtQFEzGQ0RRHsLLD6GsCA.webp"
+    },
+    {
+      "place_id": "ChIJWzeZJHYPIg0ROKEWb5r8kVg",
+      "name": "Studio de Jiu-Jitsu - Checkmat Portugal",
+      "address": "Av. José Gregório N° 169, 2430-275 Marinha Grande, Portugal",
+      "lat": 39.755150199999996,
+      "lng": -8.9322582,
+      "google_maps_url": "https://maps.google.com/?cid=6382159887179620664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.checkmatbjj.com/",
+      "logo": "/logos/ChIJWzeZJHYPIg0ROKEWb5r8kVg.webp"
+    },
+    {
+      "place_id": "ChIJC9FW6KhzIg0RH7piKmfkTsw",
+      "name": "Under Pressure Jiu Jitsu Brasileiro - Leiria",
+      "address": "R. Dr. José Gonçalves 15 loja B, 2410-273 Leiria, Portugal",
+      "lat": 39.7401695,
+      "lng": -8.8062249,
+      "google_maps_url": "https://maps.google.com/?cid=14721955363664607775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJC9FW6KhzIg0RH7piKmfkTsw.webp"
+    },
+    {
+      "place_id": "ChIJqYWH7eajIw0RMKfTooVJHIE",
+      "name": "LOFT 351 - Grappling Academy",
+      "address": "Av. Europa 404 1º Esquerdo, 3800-230 Cacia, Portugal",
+      "lat": 40.6677867,
+      "lng": -8.6087487,
+      "google_maps_url": "https://maps.google.com/?cid=9303391768551860016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.loft351.com/",
+      "logo": "/logos/ChIJqYWH7eajIw0RMKfTooVJHIE.webp"
+    },
+    {
+      "place_id": "ChIJ1SidG_9JGQ0RWc94nqq2UBI",
+      "name": "TBJJ - Tatagiba Brazilian Jiu Jitsu - Seixal",
+      "address": "Passeio Alexandre Braga, 2840-212 Arrentela, Portugal",
+      "lat": 38.6220601,
+      "lng": -9.0945424,
+      "google_maps_url": "https://maps.google.com/?cid=1319755534738968409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/tatagiba.bjj",
+      "logo": "/logos/ChIJ1SidG_9JGQ0RWc94nqq2UBI.webp"
+    },
+    {
+      "place_id": "ChIJMeWAtUvFHg0R5_Hjt7SSQ4A",
+      "name": "Five Elements Jiu-Jitsu Cascais",
+      "address": "R. Dom Francisco de Avilez 26 cave, 2750-349 Cascais, Portugal",
+      "lat": 38.6995749,
+      "lng": -9.422764899999999,
+      "google_maps_url": "https://maps.google.com/?cid=9242392165171327463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.mujo.pt/",
+      "logo": "/logos/ChIJMeWAtUvFHg0R5_Hjt7SSQ4A.webp"
+    },
+    {
+      "place_id": "ChIJC4DuG9wxGw0R64vzZGW4muk",
+      "name": "Shinobi Mixed Martial Arts Academy",
+      "address": "Urb. Iberlagos, Ginasi Sitio Trindade, R. Convento da Trindade 15 Block B, 8600-613 Lagos, Portugal",
+      "lat": 37.0929491,
+      "lng": -8.6696771,
+      "google_maps_url": "https://maps.google.com/?cid=16832969302875540459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJC4DuG9wxGw0R64vzZGW4muk.webp"
+    },
+    {
+      "place_id": "ChIJmy2Pxb3vJA0RRQAHwRhif0U",
+      "name": "PS Jiu-Jitsu",
+      "address": "R. Oneca Mendes 1557, 4835-011 Guimarães, Portugal",
+      "lat": 41.445086499999995,
+      "lng": -8.3097511,
+      "google_maps_url": "https://maps.google.com/?cid=5007829169116479557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://psjiujitsuhq.com/",
+      "logo": "/logos/ChIJmy2Pxb3vJA0RRQAHwRhif0U.webp"
+    },
+    {
+      "place_id": "ChIJieKD5RD_JA0RfIVYKQukO9s",
+      "name": "Brazilian Jiu-Jitsu",
+      "address": "R. Monsenhor Airosa 57, 4705-102 Braga, Portugal",
+      "lat": 41.5428261,
+      "lng": -8.4252287,
+      "google_maps_url": "https://maps.google.com/?cid=15797400485777409404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/equipemestremacaco/",
+      "logo": "/logos/ChIJieKD5RD_JA0RfIVYKQukO9s.webp"
+    },
+    {
+      "place_id": "ChIJA0HeDN0xGw0Rk5c6Sc1SBAY",
+      "name": "Fusion Studio - Jiu Jitsu, Kickboxing, Muay Thai, MMA, Capoeira, Boxe; Treinos Fisicos",
+      "address": "Urbanização Iberlagos Bloco J Loja 16, 8600-540 Lagos, Portugal",
+      "lat": 37.0934981,
+      "lng": -8.6710319,
+      "google_maps_url": "https://maps.google.com/?cid=433562505784760211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJA0HeDN0xGw0Rk5c6Sc1SBAY.webp"
+    },
+    {
+      "place_id": "ChIJK9v-WTqBIw0RH476ra5igv0",
+      "name": "Antisocial",
+      "address": "Av. Dr. Renato Araújo, 3700-086 São João da Madeira, Portugal",
+      "lat": 40.890327400000004,
+      "lng": -8.4928892,
+      "google_maps_url": "https://maps.google.com/?cid=18267271540950863391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJK9v-WTqBIw0RH476ra5igv0.webp"
+    },
+    {
+      "place_id": "ChIJ3__eTqMzGQ0RG_uI34HXXmY",
+      "name": "Gracie Barra Campolide Lisboa",
+      "address": "R. de Campolide 133b, 1070-029 Lisboa, Portugal",
+      "lat": 38.729872799999995,
+      "lng": -9.162443,
+      "google_maps_url": "https://maps.google.com/?cid=7376570192480500507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://graciebarracampolide.com/",
+      "logo": "/logos/ChIJ3__eTqMzGQ0RG_uI34HXXmY.webp"
+    },
+    {
+      "place_id": "ChIJJRTUmmrFHg0RljLXw4mlDYk",
+      "name": "Checkmat Fontainhas",
+      "address": "R. São José 246, 2750-135 Cascais, Portugal",
+      "lat": 38.7087231,
+      "lng": -9.4232525,
+      "google_maps_url": "https://maps.google.com/?cid=9875731569008128662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://sites.google.com/view/brazilian-jiu-jitsu-checkmat/in%C3%ADcio",
+      "logo": "/logos/ChIJJRTUmmrFHg0RljLXw4mlDYk.webp"
+    },
+    {
+      "place_id": "ChIJHwtqL7_HHg0RJCt5MWj9LQE",
+      "name": "MR Academy - Brasilian Jiu-Jitsu School",
+      "address": "R. Sacadura Cabral 197A, 2765-552 Estoril, Portugal",
+      "lat": 38.694574599999996,
+      "lng": -9.37166,
+      "google_maps_url": "https://maps.google.com/?cid=85002591938358052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://mracademybjj.com/",
+      "logo": "/logos/ChIJHwtqL7_HHg0RJCt5MWj9LQE.webp"
+    },
+    {
+      "place_id": "ChIJ_Yui22xNGQ0RO1Q7t_1_Pjc",
+      "name": "Amado Jiu-Jitsu",
+      "address": "R. Abade Correia da Serra 8A, 2970-832, Portugal",
+      "lat": 38.4679179,
+      "lng": -9.099121799999999,
+      "google_maps_url": "https://maps.google.com/?cid=3980759848319669307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ_Yui22xNGQ0RO1Q7t_1_Pjc.webp"
+    },
+    {
+      "place_id": "ChIJl5Vn9XfNHg0R87zMoBif4Ec",
+      "name": "Gracie Barra Belas",
+      "address": "Rua Dona Joana 7c, 2605-661 Belas, Portugal",
+      "lat": 38.760980599999996,
+      "lng": -9.277858199999999,
+      "google_maps_url": "https://maps.google.com/?cid=5179314499601874163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.graciebarrabelas.com/",
+      "logo": "/logos/ChIJl5Vn9XfNHg0R87zMoBif4Ec.webp"
+    },
+    {
+      "place_id": "ChIJf0c4XvIoGw0RRyHvqtJVyDk",
+      "name": "Five Elements Jiu-jitsu Portimão",
+      "address": "Zona Industrial Coca - Maravilhas, lote 3, 1º Andar, 8500-483 Portimão, Portugal",
+      "lat": 37.1504585,
+      "lng": -8.5493879,
+      "google_maps_url": "https://maps.google.com/?cid=4163672218803315015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://5elementsportimao.pt/",
+      "logo": "/logos/ChIJf0c4XvIoGw0RRyHvqtJVyDk.webp"
+    },
+    {
+      "place_id": "ChIJ9eaqsZnNHg0RmGhxDXwCVHc",
+      "name": "Bitim Grappling Jiu-jítsu",
+      "address": "Largo Pirâmide 3r, 2795-156 Linda-a-Velha, Portugal",
+      "lat": 38.7083156,
+      "lng": -9.2428878,
+      "google_maps_url": "https://maps.google.com/?cid=8598500320381855896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bitimonline.com/",
+      "logo": "/logos/ChIJ9eaqsZnNHg0RmGhxDXwCVHc.webp"
+    },
+    {
+      "place_id": "ChIJn_5o9SwxGQ0RdqASFnJOf5Y",
+      "name": "Gracie Barra Braço de Prata",
+      "address": "R. Fernando Palha 56A, 1950-132 Lisboa, Portugal",
+      "lat": 38.7463354,
+      "lng": -9.1001437,
+      "google_maps_url": "https://maps.google.com/?cid=10844472679635001462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.gbbracodeprata.pt/",
+      "logo": "/logos/ChIJn_5o9SwxGQ0RdqASFnJOf5Y.webp"
+    },
+    {
+      "place_id": "ChIJ52ezNShlJA0RcUWaWjYSjcE",
+      "name": "Kimura Portugal DF Team - Associação de lutas amadoras",
+      "address": "R. Augusto Dinis 75, 4460-240 Sra. da Hora, Portugal",
+      "lat": 41.189030699999996,
+      "lng": -8.6537147,
+      "google_maps_url": "https://maps.google.com/?cid=13946823645693887857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/kimuraportugaldfteam?igsh=Y28wajRraXRidnMx",
+      "logo": "/logos/ChIJ52ezNShlJA0RcUWaWjYSjcE.webp"
+    },
+    {
+      "place_id": "ChIJ1ShvP5UzGQ0R3kWJ0C5GuPQ",
+      "name": "STHENOS FIGHT LUMIAR - Calistenia Portugal",
+      "address": "Est do Desv. 200A, 1750-079 Lisboa, Portugal",
+      "lat": 38.7823851,
+      "lng": -9.163345999999999,
+      "google_maps_url": "https://maps.google.com/?cid=17633921507850274270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ1ShvP5UzGQ0R3kWJ0C5GuPQ.webp"
+    },
+    {
+      "place_id": "ChIJwdptqTDNHg0RykQWeQkNqq0",
+      "name": "CT Portugal Gold Team Pontinha",
+      "address": "Praça São Bartolomeu R8, 1675-170 Pontinha, Portugal",
+      "lat": 38.764454099999995,
+      "lng": -9.2020679,
+      "google_maps_url": "https://maps.google.com/?cid=12513828848939713738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJwdptqTDNHg0RykQWeQkNqq0.webp"
+    },
+    {
+      "place_id": "ChIJZZ1ESBnbHg0RHa1PIk_bVp4",
+      "name": "Ama Jiu Jitsu Team - Sintra",
+      "address": "Estr. Monte Santos nº1, 2710-410 Sintra, Portugal",
+      "lat": 38.8044624,
+      "lng": -9.3881006,
+      "google_maps_url": "https://maps.google.com/?cid=11409547838914276637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://amajiujitsusintra.com/",
+      "logo": "/logos/ChIJZZ1ESBnbHg0RHa1PIk_bVp4.webp"
+    },
+    {
+      "place_id": "ChIJgbF2cInFHg0RxW4zVihVw6g",
+      "name": "Pound for Pound - NL Bjj Academy",
+      "address": "Rua Carlos Anjos, lote 2, RC direito, Amoreira, 2645-174 Alcabideche, 2645-174 Lisboa, Portugal",
+      "lat": 38.7121686,
+      "lng": -9.4089283,
+      "google_maps_url": "https://maps.google.com/?cid=12160657050563735237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.nlbjjacademy.com/",
+      "logo": "/logos/ChIJgbF2cInFHg0RxW4zVihVw6g.webp"
+    },
+    {
+      "place_id": "ChIJ0ai4abA1GQ0R24JqyKYYno0",
+      "name": "Academia Luso Warrior",
+      "address": "R. Prof. Vieira Natividade 2 1300, 1300-604 Lisboa, Portugal",
+      "lat": 38.7096162,
+      "lng": -9.1816734,
+      "google_maps_url": "https://maps.google.com/?cid=10204620910274183899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ0ai4abA1GQ0R24JqyKYYno0.webp"
+    },
+    {
+      "place_id": "ChIJW9Hi_bM1GQ0Rp-hcPBVaZ3M",
+      "name": "Sylvio Behring Portugal Jiu Jitsu",
+      "address": "Rua de Angola 19, 2805-208 Almada, Portugal",
+      "lat": 38.6732179,
+      "lng": -9.156412099999999,
+      "google_maps_url": "https://maps.google.com/?cid=8315714284216445095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJW9Hi_bM1GQ0Rp-hcPBVaZ3M.webp"
+    },
+    {
+      "place_id": "ChIJR_JOBi9TBQ0RraOZ9BjfsDg",
+      "name": "Five Elements Jiu-Jitsu Faro",
+      "address": "R. Ataide de Oliveira 85 89, 8000-218 Faro, Portugal",
+      "lat": 37.0200986,
+      "lng": -7.926691000000001,
+      "google_maps_url": "https://maps.google.com/?cid=4085010160300958637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://fiveelementsjiujitsufaro.com/",
+      "logo": "/logos/ChIJR_JOBi9TBQ0RraOZ9BjfsDg.webp"
+    },
+    {
+      "place_id": "ChIJr8YO-dCbPA0RdFLVd3s6uuI",
+      "name": "Fight club jiu jitsu Guarda",
+      "address": "Av. de São Miguel 140 rés de chão, 6300-864 Guarda, Portugal",
+      "lat": 40.5571873,
+      "lng": -7.236513899999999,
+      "google_maps_url": "https://maps.google.com/?cid=16337434900205752948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://fightclubjiujitsuguarda.pt/",
+      "logo": "/logos/ChIJr8YO-dCbPA0RdFLVd3s6uuI.webp"
+    },
+    {
+      "place_id": "ChIJifBLXRyvGA0RVSb5zXpYjwo",
+      "name": "Coastal Flow Academy",
+      "address": "R. Clube Estrela do Norte 16, 2450-027, Portugal",
+      "lat": 39.536056699999996,
+      "lng": -9.082864599999999,
+      "google_maps_url": "https://maps.google.com/?cid=760924146513815125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/coastal_flow_academy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "logo": "/logos/ChIJifBLXRyvGA0RVSb5zXpYjwo.webp"
+    },
+    {
+      "place_id": "ChIJo9VoXl3_JA0RQy4_STBDhds",
+      "name": "Checkmat Braga -",
+      "address": "Av. de Lamas, Kalorias, C. Nova Arcada C, 4700-084 Braga, Portugal",
+      "lat": 41.5776617,
+      "lng": -8.4316383,
+      "google_maps_url": "https://maps.google.com/?cid=15818123140875103811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://instagram.com/checkmat_braga?igshid=YmMyMTA2M2Y=",
+      "logo": "/logos/ChIJo9VoXl3_JA0RQy4_STBDhds.webp"
+    },
+    {
+      "place_id": "ChIJnST94MFlJA0Ruwgb9hLhfz0",
+      "name": "Alliance Porto",
+      "address": "R. do Bom Sucesso 263, 4050 Porto, Portugal",
+      "lat": 41.1539807,
+      "lng": -8.628936699999999,
+      "google_maps_url": "https://maps.google.com/?cid=4431508029910485179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.allianceporto.com/",
+      "logo": "/logos/ChIJnST94MFlJA0Ruwgb9hLhfz0.webp"
+    },
+    {
+      "place_id": "ChIJkWLRVwIxGQ0RtlS2BoxSU_8",
+      "name": "Alliance Jiu Jitsu Saldanha",
+      "address": "R. de Dona Estefânia 177B, 1000-154 Lisboa, Portugal",
+      "lat": 38.733498399999995,
+      "lng": -9.1416805,
+      "google_maps_url": "https://maps.google.com/?cid=18398139664100119734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://alliancejjsaldanha.com/",
+      "logo": "/logos/ChIJkWLRVwIxGQ0RtlS2BoxSU_8.webp"
+    },
+    {
+      "place_id": "ChIJ_zNXwbBvJA0R8reFdaeEVj8",
+      "name": "Ralph Gracie",
+      "address": "R. Dr. Afonso Cordeiro 123, 4450-005 Matosinhos, Portugal",
+      "lat": 41.181322099999996,
+      "lng": -8.6856353,
+      "google_maps_url": "https://maps.google.com/?cid=4563981127152678898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ_zNXwbBvJA0R8reFdaeEVj8.webp"
+    },
+    {
+      "place_id": "ChIJFSUdKWt7JA0R3A3UzzCn7Jk",
+      "name": "Hybrid Training Center/MMA/Boxe/Kick boxing/Jiu-Jitsu/Wrestling/Muay Thai/Musculação",
+      "address": "Zona Industrial dos Arcos do Sardão 4360, 4430-999 Vila Nova de Gaia, Portugal",
+      "lat": 41.11513360000001,
+      "lng": -8.582242599999999,
+      "google_maps_url": "https://maps.google.com/?cid=11091423810393738716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": null
+    },
+    {
+      "place_id": "ChIJb8ExeWi3Gg0RfB-2cd8BH74",
+      "name": "Algarve fight academy",
+      "address": "R. dos Tanoeiros 30 Lote 3, Vilamoura, 8125-500 Quarteira, Portugal",
+      "lat": 37.1102573,
+      "lng": -8.1235018,
+      "google_maps_url": "https://maps.google.com/?cid=13699670650681433980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.algarvefightacademy.com/",
+      "logo": "/logos/ChIJb8ExeWi3Gg0RfB-2cd8BH74.webp"
+    },
+    {
+      "place_id": "ChIJTcDwQyvPHg0RP4p5LA7Q4tU",
+      "name": "Armazen - academia de jiu jitsu",
+      "address": "Alto da Bela Vista 86 L, 2735-184 Agualva-Cacém, Portugal",
+      "lat": 38.76160910000001,
+      "lng": -9.3012149,
+      "google_maps_url": "https://maps.google.com/?cid=15412109634109540927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.armazenjiujitsu.com/",
+      "logo": "/logos/ChIJTcDwQyvPHg0RP4p5LA7Q4tU.webp"
+    },
+    {
+      "place_id": "ChIJu_TCY4plJA0RAsv3zryNJfo",
+      "name": "Gracie Barra Boavista",
+      "address": "R. de 5 de Outubro 328, 4100-172 Porto, Portugal",
+      "lat": 41.161401999999995,
+      "lng": -8.6317992,
+      "google_maps_url": "https://maps.google.com/?cid=18024968925685992194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.gbboavista.pt/",
+      "logo": "/logos/ChIJu_TCY4plJA0RAsv3zryNJfo.webp"
+    }
+  ]
+}

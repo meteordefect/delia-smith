@@ -1,0 +1,608 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "normalized_at": "2026-02-02T05:10:50.268Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJMUqbi6Z3X0YRDX7BprU79Eg",
+      "name": "Stark jiu jitsu",
+      "address": "Frejgatan 26, 113 49 Stockholm, Sweden",
+      "lat": 59.3462413,
+      "lng": 18.0520283,
+      "google_maps_url": "https://maps.google.com/?cid=5256892316421029389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.starkjiujitsu.com/",
+      "logo": "/logos/ChIJMUqbi6Z3X0YRDX7BprU79Eg.webp"
+    },
+    {
+      "place_id": "ChIJBcJHoG6dX0YRaLyWDenGJ-Q",
+      "name": "Prana Jiu-Jitsu",
+      "address": "Sweden, Surbrunnsgatan 32, 113 48 Stockholm, Sweden",
+      "lat": 59.345646200000004,
+      "lng": 18.0581235,
+      "google_maps_url": "https://maps.google.com/?cid=16440327668996947048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://pranajiujitsu.com/",
+      "logo": "/logos/ChIJBcJHoG6dX0YRaLyWDenGJ-Q.webp"
+    },
+    {
+      "place_id": "ChIJaxXSDTXzT0YR40YLqr9jXg0",
+      "name": "Valhalla Jiujitsu",
+      "address": "Kusttorget 5, 414 55 Göteborg, Sweden",
+      "lat": 57.6943653,
+      "lng": 11.918419499999999,
+      "google_maps_url": "https://maps.google.com/?cid=963317045146633955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.valhallajj.se/",
+      "logo": "/logos/ChIJaxXSDTXzT0YR40YLqr9jXg0.webp"
+    },
+    {
+      "place_id": "ChIJGwf5Su53X0YRqxMhm4wG2_0",
+      "name": "Stockholm BJJ Center - SBGi Sweden",
+      "address": "Magnus Ladulåsgatan 32, 118 66 Stockholm, Sweden",
+      "lat": 59.312073299999994,
+      "lng": 18.0637962,
+      "google_maps_url": "https://maps.google.com/?cid=18292221512463225771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bjjcenter.se/",
+      "logo": "/logos/ChIJGwf5Su53X0YRqxMhm4wG2_0.webp"
+    },
+    {
+      "place_id": "ChIJVVVVVbx3X0YR3iYaM1lm06A",
+      "name": "Hilti",
+      "address": "Veterinärgränd 6, 121 63 Johanneshov, Sweden",
+      "lat": 59.2945431,
+      "lng": 18.0693604,
+      "google_maps_url": "https://maps.google.com/?cid=11588718799449892574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.hiltibjj.com/",
+      "logo": "/logos/ChIJVVVVVbx3X0YR3iYaM1lm06A.webp"
+    },
+    {
+      "place_id": "ChIJLW8MdQCdX0YRC_XRuldgMUY",
+      "name": "Aura Jiu Jitsu",
+      "address": "Skeppargatan 4, 114 52 Stockholm, Sweden",
+      "lat": 59.3321015,
+      "lng": 18.081763,
+      "google_maps_url": "https://maps.google.com/?cid=5057929786426520843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://aurajiujitsu.se/",
+      "logo": "/logos/ChIJLW8MdQCdX0YRC_XRuldgMUY.webp"
+    },
+    {
+      "place_id": "ChIJB21Z2WWfX0YRhlK83tBT2WQ",
+      "name": "Gracie Stockholm",
+      "address": "Kuskvägen 2, 191 62 Sollentuna, Sweden",
+      "lat": 59.4361138,
+      "lng": 17.9319003,
+      "google_maps_url": "https://maps.google.com/?cid=7266931630294192774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://graciestockholm.com/",
+      "logo": "/logos/ChIJB21Z2WWfX0YRhlK83tBT2WQ.webp"
+    },
+    {
+      "place_id": "ChIJVdkmoXl4X0YRvF-WAcGfQic",
+      "name": "Nacka Dojo",
+      "address": "Skuru skolväg 2B, 131 47 Nacka, Sweden",
+      "lat": 59.313223300000004,
+      "lng": 18.2077954,
+      "google_maps_url": "https://maps.google.com/?cid=2828999167246229436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.nackadojo.com/",
+      "logo": "/logos/ChIJVdkmoXl4X0YRvF-WAcGfQic.webp"
+    },
+    {
+      "place_id": "ChIJY3VQbgqdX0YRBE6acMviYH4",
+      "name": "STark Jiu Jitsu",
+      "address": "Norrtullsgatan 20, 113 45 Stockholm, Sweden",
+      "lat": 59.3475051,
+      "lng": 18.0466266,
+      "google_maps_url": "https://maps.google.com/?cid=9106527809938542084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.starkjiujitsu.com/",
+      "logo": "/logos/ChIJY3VQbgqdX0YRBE6acMviYH4.webp"
+    },
+    {
+      "place_id": "ChIJGyDN3GKdX0YRSXa3neWUics",
+      "name": "Berserk MMA",
+      "address": "Hjärnegatan 1K, 112 29 Stockholm, Sweden",
+      "lat": 59.33229420000001,
+      "lng": 18.042666699999998,
+      "google_maps_url": "https://maps.google.com/?cid=14666417375423198793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.berserkmma.com/",
+      "logo": "/logos/ChIJGyDN3GKdX0YRSXa3neWUics.webp"
+    },
+    {
+      "place_id": "ChIJf_QoYFfzT0YRFRQO5HIRLzQ",
+      "name": "TK",
+      "address": "Herkulesgatan 56, 417 01 Göteborg, Sweden",
+      "lat": 57.7128929,
+      "lng": 11.9420823,
+      "google_maps_url": "https://maps.google.com/?cid=3760243399027725333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.brazilianjiujitsu.nu/",
+      "logo": "/logos/ChIJf_QoYFfzT0YRFRQO5HIRLzQ.webp"
+    },
+    {
+      "place_id": "ChIJj18Ap_B3X0YRRqsmF3tEVBc",
+      "name": "Team Leites Stockholm",
+      "address": "Åsögatan 117, 116 24 Stockholm, Sweden",
+      "lat": 59.313270700000004,
+      "lng": 18.076001299999998,
+      "google_maps_url": "https://maps.google.com/?cid=1681043856376113990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://teamleites.com/",
+      "logo": "/logos/ChIJj18Ap_B3X0YRRqsmF3tEVBc.webp"
+    },
+    {
+      "place_id": "ChIJGxeYqfx3X0YRcGzkizqbtUM",
+      "name": "Nexus STHLM",
+      "address": "Drottningholmsvägen 185, 167 53 Bromma, Sweden",
+      "lat": 59.3334697,
+      "lng": 17.9733107,
+      "google_maps_url": "https://maps.google.com/?cid=4878976447083211888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.nexusstockholm.se/",
+      "logo": "/logos/ChIJGxeYqfx3X0YRcGzkizqbtUM.webp"
+    },
+    {
+      "place_id": "ChIJTewMFUqdX0YR8ukZj92uaHU",
+      "name": "Wing Tsun & BJJ Academy",
+      "address": "Erik Dahlbergsgatan 36 NB, 115 32 Stockholm, Sweden",
+      "lat": 59.34421929999999,
+      "lng": 18.0931317,
+      "google_maps_url": "https://maps.google.com/?cid=8460204166627322354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.wingtsunacademy.se/",
+      "logo": "/logos/ChIJTewMFUqdX0YR8ukZj92uaHU.webp"
+    },
+    {
+      "place_id": "ChIJ9-0ODSB4X0YRy3IuguUuGZU",
+      "name": "Panda Dojo BJJ - Brasiliansk Jiu Jitsu",
+      "address": "Simlångsvägen 50, 120 39 Årsta, Sweden",
+      "lat": 59.300150200000004,
+      "lng": 18.079050499999997,
+      "google_maps_url": "https://maps.google.com/?cid=10743669949335499467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://pandadojo.se/",
+      "logo": "/logos/ChIJ9-0ODSB4X0YRy3IuguUuGZU.webp"
+    },
+    {
+      "place_id": "ChIJdwnxunh4X0YRARE6H1dVtNE",
+      "name": "10th Planet Jiu Jitsu Stockholm",
+      "address": "Vikdalsgränd 10B, 131 51 Nacka, Sweden",
+      "lat": 59.31266479999999,
+      "lng": 18.1580971,
+      "google_maps_url": "https://maps.google.com/?cid=15110796482409271553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.10thplanet.se/",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJsRYbZMWjU0YRM4l3XI8SaUM",
+      "name": "Art of Roll",
+      "address": "Dalhemsgatan 5, 212 24 Malmö, Sweden",
+      "lat": 55.6113777,
+      "lng": 13.0436544,
+      "google_maps_url": "https://maps.google.com/?cid=4857434080036751667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.artofroll.com/",
+      "logo": "/logos/ChIJsRYbZMWjU0YRM4l3XI8SaUM.webp"
+    },
+    {
+      "place_id": "ChIJF0shqHHzT0YRZ49hyrC-D28",
+      "name": "Yamasaki Academy Göteborg",
+      "address": "Sweden, Teatergatan 19, 411 35 Göteborg, Sweden",
+      "lat": 57.6988727,
+      "lng": 11.9755491,
+      "google_maps_url": "https://maps.google.com/?cid=8002824729379573607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.grappling.se/",
+      "logo": "/logos/ChIJF0shqHHzT0YRZ49hyrC-D28.webp"
+    },
+    {
+      "place_id": "ChIJhYGy8mmhU0YRsRk6TqaXfgw",
+      "name": "Fightzone Malmö",
+      "address": "Kopparbergsgatan 2B, 214 44 Malmö, Sweden",
+      "lat": 55.5872805,
+      "lng": 13.0205039,
+      "google_maps_url": "https://maps.google.com/?cid=900323716053473713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.fightzone.se/",
+      "logo": "/logos/ChIJhYGy8mmhU0YRsRk6TqaXfgw.webp"
+    },
+    {
+      "place_id": "ChIJsXtZi-udX0YRNsRNBJ6xqPM",
+      "name": "Forca Fighting MMA club",
+      "address": "Ankdammsgatan 23, 171 67 Solna, Sweden",
+      "lat": 59.355953799999995,
+      "lng": 17.988715499999998,
+      "google_maps_url": "https://maps.google.com/?cid=17557478439539033142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.forcafighting.com/",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJA1b1VeubX0YRj_2bWd1YdnA",
+      "name": "Combat Academy",
+      "address": "Stockholmsvägen 116G, 187 30 Täby, Sweden",
+      "lat": 59.4412678,
+      "lng": 18.0598659,
+      "google_maps_url": "https://maps.google.com/?cid=8103762287214198159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.combatacademy.se/",
+      "logo": "/logos/ChIJA1b1VeubX0YRj_2bWd1YdnA.webp"
+    },
+    {
+      "place_id": "ChIJczAX59lsWkYROCZJ9xJutYs",
+      "name": "Kingpin Grappling",
+      "address": "Bultvägen 6, 553 02 Jönköping, Sweden",
+      "lat": 57.753223999999996,
+      "lng": 14.1684429,
+      "google_maps_url": "https://maps.google.com/?cid=10067073569793844792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://kingpingrappling.se/",
+      "logo": "/logos/ChIJczAX59lsWkYROCZJ9xJutYs.webp"
+    },
+    {
+      "place_id": "ChIJeYZIOXKdX0YRmfvgZEToFUw",
+      "name": "All Stars",
+      "address": "Svetsarvägen 22, 171 41 Solna, Sweden",
+      "lat": 59.357584300000006,
+      "lng": 17.9816158,
+      "google_maps_url": "https://maps.google.com/?cid=5482543501841333145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.allstarsgym.se/",
+      "logo": "/logos/ChIJeYZIOXKdX0YRmfvgZEToFUw.webp"
+    },
+    {
+      "place_id": "ChIJQb383uWdX0YRg2I78-dj3UU",
+      "name": "Crossfighters academy",
+      "address": "Gränsgatan 3, 172 78 Sundbyberg, Sweden",
+      "lat": 59.364438899999996,
+      "lng": 17.9779642,
+      "google_maps_url": "https://maps.google.com/?cid=5034289806339433091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.crossfighters.com/",
+      "logo": "/logos/ChIJQb383uWdX0YRg2I78-dj3UU.webp"
+    },
+    {
+      "place_id": "ChIJGZuMa6_0T0YRIu3h_Vwvwmk",
+      "name": "Conde",
+      "address": "Gustaf Dalénsgatan 11, 417 05 Göteborg, Sweden",
+      "lat": 57.724141599999996,
+      "lng": 11.945872399999999,
+      "google_maps_url": "https://maps.google.com/?cid=7620705595907239202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.houseofchampions.se/",
+      "logo": "/logos/ChIJGZuMa6_0T0YRIu3h_Vwvwmk.webp"
+    },
+    {
+      "place_id": "ChIJafZel0TyT0YRMbCpB52tN5Y",
+      "name": "MMA CENTER",
+      "address": "Flöjelbergsgatan 7B, 431 37 Mölndal, Sweden",
+      "lat": 57.6704211,
+      "lng": 12.015264,
+      "google_maps_url": "https://maps.google.com/?cid=10824311119358308401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.mmacenter.se/",
+      "logo": "/logos/ChIJafZel0TyT0YRMbCpB52tN5Y.webp"
+    },
+    {
+      "place_id": "ChIJLe-rhV6aVkYRT4vDNeTecrI",
+      "name": "Karlshamn fightcenter",
+      "address": "Tubba torg 5, 374 32 Karlshamn, Sweden",
+      "lat": 56.183816099999994,
+      "lng": 14.8450417,
+      "google_maps_url": "https://maps.google.com/?cid=12858584957832104783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.karlshamnfightcenter.se/",
+      "logo": "/logos/ChIJLe-rhV6aVkYRT4vDNeTecrI.webp"
+    },
+    {
+      "place_id": "ChIJee3R3YXzT0YRBv_XgqPHsIU",
+      "name": "Fit4Fight Gym",
+      "address": "Lilla Regementsvägen 20, 415 27 Göteborg, Sweden",
+      "lat": 57.73819349999999,
+      "lng": 12.0313986,
+      "google_maps_url": "https://maps.google.com/?cid=9633419108034281222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://fit4fightgym.se/",
+      "logo": "/logos/ChIJee3R3YXzT0YRBv_XgqPHsIU.webp"
+    },
+    {
+      "place_id": "ChIJV_8MxaejU0YRF1WNIyAfhi0",
+      "name": "Pegla jiu-jitsu club",
+      "address": "Rolfsgatan 7B, 214 34 Malmö, Sweden",
+      "lat": 55.588057899999995,
+      "lng": 13.017251,
+      "google_maps_url": "https://maps.google.com/?cid=3280343601481864471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://pegla-club.vercel.app/",
+      "logo": "/logos/ChIJV_8MxaejU0YRF1WNIyAfhi0.webp"
+    },
+    {
+      "place_id": "ChIJl11YUuKXU0YRK4oJeIOgyYE",
+      "name": "Lund grappling academy",
+      "address": "Fältspatvägen 3, 224 78 Lund, Sweden",
+      "lat": 55.6957306,
+      "lng": 13.219144300000002,
+      "google_maps_url": "https://maps.google.com/?cid=9352182587726596651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.lund-grappling-academy.se/",
+      "logo": "/logos/ChIJl11YUuKXU0YRK4oJeIOgyYE.webp"
+    },
+    {
+      "place_id": "ChIJOfR1Br3LX0YRNXIQ7BzS9vQ",
+      "name": "Laxa Brazilian Jiu Jitsu Academy Uppsala",
+      "address": "Sysslomansgatan 20, 753 13 Uppsala, Sweden",
+      "lat": 59.84865,
+      "lng": 17.607817400000002,
+      "google_maps_url": "https://maps.google.com/?cid=17651526811186655797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://laxabjj.se/",
+      "logo": "/logos/ChIJOfR1Br3LX0YRNXIQ7BzS9vQ.webp"
+    },
+    {
+      "place_id": "ChIJx-Zydf7LX0YRTr7tFRfQ4Yo",
+      "name": "Hilti Fightcenter Uppsala",
+      "address": "Bergsbrunnagatan 28, 753 23 Uppsala, Sweden",
+      "lat": 59.8564946,
+      "lng": 17.664237099999998,
+      "google_maps_url": "https://maps.google.com/?cid=10007508644564680270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.hiltifightcenter.com/",
+      "logo": "/logos/ChIJx-Zydf7LX0YRTr7tFRfQ4Yo.webp"
+    },
+    {
+      "place_id": "ChIJj4hGSN53X0YREMepG-658zU",
+      "name": "Cantagalo Jiu Jitsu Stockholm",
+      "address": "Åsögatan 153, 116 32 Stockholm, Sweden",
+      "lat": 59.314247400000006,
+      "lng": 18.0828912,
+      "google_maps_url": "https://maps.google.com/?cid=3887655335668336400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://cantagalojiujitsu.se/",
+      "logo": "/logos/ChIJj4hGSN53X0YREMepG-658zU.webp"
+    },
+    {
+      "place_id": "ChIJ220Nby6hWkYRvAo4pNwDsxk",
+      "name": "Borås Grappling Academy",
+      "address": "Östergårdsplan 6, 507 60 Borås, Sweden",
+      "lat": 57.7077737,
+      "lng": 12.970343900000001,
+      "google_maps_url": "https://maps.google.com/?cid=1851828117962230460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.borasgrappling.com/",
+      "logo": "/logos/ChIJ220Nby6hWkYRvAo4pNwDsxk.webp"
+    },
+    {
+      "place_id": "ChIJNUmvRM2MT0YRK5GvOudvRHc",
+      "name": "GBGMMA & BJJ IF",
+      "address": "August Barks Gata 2, 421 32 Västra Frölunda, Sweden",
+      "lat": 57.6483059,
+      "lng": 11.941230700000002,
+      "google_maps_url": "https://maps.google.com/?cid=8594117027842461995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.gbgmac.se/",
+      "logo": "/logos/ChIJNUmvRM2MT0YRK5GvOudvRHc.webp"
+    },
+    {
+      "place_id": "ChIJ68a0Dxt3X0YRwHsYQ-sO4SY",
+      "name": "Spårvägens Brasiliansk Jiu-Jitsu Förening",
+      "address": "Liljeholmsstranden 15, 117 43 Stockholm, Sweden",
+      "lat": 59.31430539999999,
+      "lng": 18.0254653,
+      "google_maps_url": "https://maps.google.com/?cid=2801536846806940608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.sparvagensbjj.se/",
+      "logo": "/logos/ChIJ68a0Dxt3X0YRwHsYQ-sO4SY.webp"
+    },
+    {
+      "place_id": "ChIJmxaH9al3X0YRoTJUfUd205g",
+      "name": "Liljeholmen",
+      "address": "Kristallvägen 9, 126 78 Hägersten, Sweden",
+      "lat": 59.2901696,
+      "lng": 17.9984608,
+      "google_maps_url": "https://maps.google.com/?cid=11012275563268420257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.liljeholmensbjj.se/",
+      "logo": "/logos/ChIJmxaH9al3X0YRoTJUfUd205g.webp"
+    },
+    {
+      "place_id": "ChIJNdUQE29lf0YRp4WnpamtSvs",
+      "name": "Nordic Fighters",
+      "address": "Mjölkuddsvägen 67, 973 41 Luleå, Sweden",
+      "lat": 65.6006645,
+      "lng": 22.131555499999997,
+      "google_maps_url": "https://maps.google.com/?cid=18107476195936798119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.nordicfighters.com/",
+      "logo": "/logos/ChIJNdUQE29lf0YRp4WnpamtSvs.webp"
+    },
+    {
+      "place_id": "ChIJgdqnHHCdX0YRgDuJFyWsmlU",
+      "name": "Stockholms Jiujitsuklubb",
+      "address": "Västmannagatan 59, 113 25 Stockholm, Sweden",
+      "lat": 59.3421973,
+      "lng": 18.046986,
+      "google_maps_url": "https://maps.google.com/?cid=6168431914945952640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://jiu-jitsu.se/",
+      "logo": "/logos/ChIJgdqnHHCdX0YRgDuJFyWsmlU.webp"
+    },
+    {
+      "place_id": "ChIJuxQCoxNtWkYR5zcByo7XizY",
+      "name": "JJK Samurai",
+      "address": "S:t Göransvägen 31, 554 54 Jönköping, Sweden",
+      "lat": 57.784103300000005,
+      "lng": 14.228368699999999,
+      "google_maps_url": "https://maps.google.com/?cid=3930472108085295079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.samurai.se/",
+      "logo": "/logos/ChIJuxQCoxNtWkYR5zcByo7XizY.webp"
+    },
+    {
+      "place_id": "ChIJRVqAkaT1T0YRF9yWki0ewTM",
+      "name": "✌️Akademin",
+      "address": "Byfogdegatan 4, 415 05 Göteborg, Sweden",
+      "lat": 57.726733499999995,
+      "lng": 12.009175899999999,
+      "google_maps_url": "https://maps.google.com/?cid=3729295147521203223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.bjjakademin.se/",
+      "logo": "/logos/ChIJRVqAkaT1T0YRF9yWki0ewTM.webp"
+    },
+    {
+      "place_id": "ChIJRwu3QnqdX0YR6BXAxhuWi4w",
+      "name": "Stockholm Kampsport",
+      "address": "Gästrikegatan 11, 113 62 Stockholm, Sweden",
+      "lat": 59.341419900000005,
+      "lng": 18.0394401,
+      "google_maps_url": "https://maps.google.com/?cid=10127353233115452904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.kampsport.se/",
+      "logo": "/logos/ChIJRwu3QnqdX0YR6BXAxhuWi4w.webp"
+    },
+    {
+      "place_id": "ChIJKcYvb2uhU0YRtLE39FR-mlY",
+      "name": "Redline Training Center",
+      "address": "Fredsgatan 12b, 212 12 Malmö, Sweden",
+      "lat": 55.6073005,
+      "lng": 13.025382599999999,
+      "google_maps_url": "https://maps.google.com/?cid=6240439137014886836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://redlinetc.com/",
+      "logo": "/logos/ChIJKcYvb2uhU0YRtLE39FR-mlY.webp"
+    },
+    {
+      "place_id": "ChIJpfyhvWidX0YRHCUOFf_CoAI",
+      "name": "Pancrase Gym",
+      "address": "Bergsgatan 35, 112 28 Stockholm, Sweden",
+      "lat": 59.3304085,
+      "lng": 18.0390522,
+      "google_maps_url": "https://maps.google.com/?cid=189365585175258396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.pancrasegym.se/",
+      "logo": "/logos/ChIJpfyhvWidX0YRHCUOFf_CoAI.webp"
+    },
+    {
+      "place_id": "ChIJLWnTpHehU0YRbNUCXxVsZDk",
+      "name": "Frontier MMA",
+      "address": "von Rosens väg 42, 213 68 Malmö, Sweden",
+      "lat": 55.5848145,
+      "lng": 13.0443489,
+      "google_maps_url": "https://maps.google.com/?cid=4135549196877092204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.frontiermma.se/",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJHSRKS8xgXkYReh0dnUFdzc4",
+      "name": "Hilti BJJ Västerås",
+      "address": "Ängsgärdsgatan 9, 721 30 Västerås, Sweden",
+      "lat": 59.6148565,
+      "lng": 16.566720399999998,
+      "google_maps_url": "https://maps.google.com/?cid=14901669278429027706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://hiltivästerås.se/",
+      "logo": "/logos/ChIJHSRKS8xgXkYReh0dnUFdzc4.webp"
+    },
+    {
+      "place_id": "ChIJtQmV4BMTXkYRAeZjLS9j5tk",
+      "name": "Sala Jiu Jitsu",
+      "address": "Lillåstrand 2, 733 30 Sala, Sweden",
+      "lat": 59.9218582,
+      "lng": 16.6105526,
+      "google_maps_url": "https://maps.google.com/?cid=15701346205149947393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.salajj.se/",
+      "logo": "/logos/ChIJtQmV4BMTXkYRAeZjLS9j5tk.webp"
+    },
+    {
+      "place_id": "ChIJIYRtX_d3X0YR26i5pUzl1wQ",
+      "name": "Sweden Top Team",
+      "address": "Hagagatan 31, 113 47 Stockholm, Sweden",
+      "lat": 59.348198200000006,
+      "lng": 18.0487857,
+      "google_maps_url": "https://maps.google.com/?cid=348999613505186011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.swedentopteam.se/",
+      "logo": "/logos/ChIJIYRtX_d3X0YR26i5pUzl1wQ.webp"
+    },
+    {
+      "place_id": "ChIJyUy1ArrHYEYRwfgxwou1_QU",
+      "name": "Gefle Fight Center",
+      "address": "Skolgången 10, 802 57 Gävle, Sweden",
+      "lat": 60.659319200000006,
+      "lng": 17.1599762,
+      "google_maps_url": "https://maps.google.com/?cid=431700751160572097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.geflefightcenter.se/",
+      "logo": "/logos/ChIJyUy1ArrHYEYRwfgxwou1_QU.webp"
+    },
+    {
+      "place_id": "ChIJszlVPwCdU0YR_1k_WV3Fuk4",
+      "name": "Good Times Jiu-Jitsu",
+      "address": "Verkstadsgatan 12, 233 51 Svedala, Sweden",
+      "lat": 55.515418399999994,
+      "lng": 13.244145999999999,
+      "google_maps_url": "https://maps.google.com/?cid=5673063685346515455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.goodtimesjiujitsu.se/?fbclid=IwZXh0bgNhZW0CMTEAAR2rf97w1Y-FyKzUjbZIio31lQieu6z-rfHnHkavgSs4j2hfbng3HhJ9tGU_aem_8MYY8MAPRmJ7P6Jy18Kd8A",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJjckxYb5SRUYR4LUJAc6_lmE",
+      "name": "Adrenaline MMA Fighters",
+      "address": "Borgens gata 6A, 441 39 Alingsås, Sweden",
+      "lat": 57.9334182,
+      "lng": 12.5632705,
+      "google_maps_url": "https://maps.google.com/?cid=7032018759687189984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.adrenalinefighters.se/",
+      "logo": "/logos/ChIJjckxYb5SRUYR4LUJAc6_lmE.webp"
+    },
+    {
+      "place_id": "ChIJr7dFk5x5X0YRFHMlgvsP79I",
+      "name": "KRAFT Kampsport",
+      "address": "Mårbackagatan 11, Hus H, Plan 0, Mårbackagatan 11, 123 43 Farsta, Sweden",
+      "lat": 59.242914799999994,
+      "lng": 18.1082593,
+      "google_maps_url": "https://maps.google.com/?cid=15199384840293413652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.kraftkampsport.se/",
+      "logo": "/logos/ChIJr7dFk5x5X0YRFHMlgvsP79I.webp"
+    },
+    {
+      "place_id": "ChIJratiqCR5X0YRIja39zPc8Cw",
+      "name": "Bonsai",
+      "address": "Griffelvägen 11, 131 56 Nacka, Sweden",
+      "lat": 59.311085299999995,
+      "lng": 18.153331299999998,
+      "google_maps_url": "https://maps.google.com/?cid=3238330247836808738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://bonsaibjj.se/",
+      "logo": "/logos/ChIJratiqCR5X0YRIja39zPc8Cw.webp"
+    },
+    {
+      "place_id": "ChIJh2ItSG6dX0YR0AsD6xeP-Zw",
+      "name": "Odenplan Fightgym",
+      "address": "Hagagatan 2, 113 27 Stockholm, Sweden",
+      "lat": 59.344245,
+      "lng": 18.0517312,
+      "google_maps_url": "https://maps.google.com/?cid=11311229272007576528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://odenplanfightgym.com/",
+      "logo": "/logos/ChIJh2ItSG6dX0YR0AsD6xeP-Zw.webp"
+    },
+    {
+      "place_id": "ChIJneaEhXmdX0YRT3HbWj8l5PQ",
+      "name": "Suginoharyu Judo & Jujutsu Dojo",
+      "address": "Birkagatan 24, 113 39 Stockholm, Sweden",
+      "lat": 59.3407937,
+      "lng": 18.035361899999998,
+      "google_maps_url": "https://maps.google.com/?cid=17646270193981944143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.suginoharyu.com/",
+      "logo": "/logos/ChIJneaEhXmdX0YRT3HbWj8l5PQ.webp"
+    },
+    {
+      "place_id": "ChIJBXvtdvl1X0YR-5jTNREsM1M",
+      "name": "Ekerö BJJ - En riktigt bra kampsportsklubb",
+      "address": "Bryggavägen 119, 178 31 Ekerö, Sweden",
+      "lat": 59.284519200000005,
+      "lng": 17.8311462,
+      "google_maps_url": "https://maps.google.com/?cid=5995183981389388027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.ekerobjj.se/",
+      "logo": "/logos/ChIJBXvtdvl1X0YR-5jTNREsM1M.webp"
+    },
+    {
+      "place_id": "ChIJt1cCh23zT0YRU1OTFVxScwE",
+      "name": "Fighter Centre",
+      "address": "Viktoriagatan 19, 411 25 Göteborg, Sweden",
+      "lat": 57.695861099999995,
+      "lng": 11.966303499999999,
+      "google_maps_url": "https://maps.google.com/?cid=104517771812098899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.fightercentre.com/",
+      "logo": "/logos/ChIJt1cCh23zT0YRU1OTFVxScwE.webp"
+    },
+    {
+      "place_id": "ChIJv_XylOWdX0YRK4LC9NsQZrI",
+      "name": "Solna Jujutsu Klubb",
+      "address": "Vretenvägen 10, 171 54 Solna, Sweden",
+      "lat": 59.3555796,
+      "lng": 17.974060899999998,
+      "google_maps_url": "https://maps.google.com/?cid=12854980723265929771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.solna-jujutsu.se/",
+      "logo": "/logos/ChIJv_XylOWdX0YRK4LC9NsQZrI.webp"
+    },
+    {
+      "place_id": "ChIJgUpsF9p_X0YRXDfzy1IB1-o",
+      "name": "Concrete",
+      "address": "Dalgränd 2, 135 40 Tyresö, Sweden",
+      "lat": 59.24385040000001,
+      "lng": 18.2283665,
+      "google_maps_url": "https://maps.google.com/?cid=16921995579988588380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.concretebjj.com/",
+      "logo": "/logos/ChIJgUpsF9p_X0YRXDfzy1IB1-o.webp"
+    },
+    {
+      "place_id": "ChIJdbCiIyo6WUYR_jlO4Iodqk4",
+      "name": "Team East Sweden",
+      "address": "Finspångsvägen 63, 602 13 Norrköping, Sweden",
+      "lat": 58.599521499999994,
+      "lng": 16.1484167,
+      "google_maps_url": "https://maps.google.com/?cid=5668375563305105918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.teameastsweden.se/",
+      "logo": "/logos/ChIJdbCiIyo6WUYR_jlO4Iodqk4.webp"
+    }
+  ]
+}
