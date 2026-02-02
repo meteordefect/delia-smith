@@ -4,12 +4,33 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
     "ingest": "node scripts/ingest.js",
     "ingest:country": "node scripts/ingest.js --country",
     "normalize": "node scripts/normalize.js",
     "add-gym": "node scripts/add-gym.js"
   },
   "dependencies": {
-    "dotenv": "^16.4.5"
+    "clsx": "^2.1.0",
+    "dotenv": "^16.4.5",
+    "framer-motion": "^11.0.3",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "autoprefixer": "^10.4.17",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3"
   }
 }

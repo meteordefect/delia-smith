@@ -31,10 +31,10 @@ ok - [x] Node.js script using Google Maps Places API
 
 ### B3 — Build Integration
 
-- [ ] Next.js `generateStaticParams` for country pages
-- [ ] Country list generated from `/data/gyms`
-- [ ] Build produces fully static pages
-- [ ] No API routes required
+- [x] Next.js `generateStaticParams` for country pages
+- [x] Country list generated from `/data/gyms`
+- [x] Build produces fully static pages
+- [x] No API routes required
 
 ---
 
@@ -45,10 +45,10 @@ ok - [x] Node.js script using Google Maps Places API
 
 ### F1 — App Skeleton
 
-- [ ] Next.js App Router setup
-- [ ] `layout.tsx` with global styles
-- [ ] Font loading (Inter)
-- [ ] Tailwind config aligned to design system
+- [x] Next.js App Router setup
+- [x] `layout.tsx` with global styles
+- [x] Font loading (Inter)
+- [x] Tailwind config aligned to design system
 
 ### F2 — Country Selector
 
