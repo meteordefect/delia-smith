@@ -20,3 +20,35 @@ npm run dev
 ## Data
 
 Gym data lives in `/data/gyms/{country}.json`. Generated offline via ingestion scripts, never fetched at runtime.
+
+## Scripts
+
+```bash
+# Ingest all countries from Google Places
+npm run ingest
+
+# Ingest a single country
+npm run ingest -- --country=NL
+
+# Normalize raw data + download logos
+npm run normalize
+
+# Manually add a single gym (favorites, one-offs)
+npm run add-gym <place_id_or_url>
+```
+
+### Adding a Gym Manually
+
+To add a favorite gym or one-off:
+
+1. Find the gym on Google Maps
+2. Copy the place ID from the URL (starts with `ChIJ`) or copy the full URL
+3. Run:
+
+```bash
+npm run add-gym ChIJSzbAeNMLxkcRZ-4wS5kPvBQ
+# or
+npm run add-gym "https://www.google.com/maps/place/...?place_id=ChIJ..."
+```
+
+This fetches the gym details, downloads the logo, and adds it to the appropriate country file. Marked with `manual_add: true` so you can identify hand-picked gyms.

@@ -6,7 +6,8 @@
   "scripts": {
     "ingest": "node scripts/ingest.js",
     "ingest:country": "node scripts/ingest.js --country",
-    "normalize": "node scripts/normalize.js"
+    "normalize": "node scripts/normalize.js",
+    "add-gym": "node scripts/add-gym.js"
   },
   "dependencies": {
     "dotenv": "^16.4.5"
