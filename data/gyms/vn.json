@@ -1,0 +1,608 @@
+{
+  "country": "Vietnam",
+  "country_code": "VN",
+  "normalized_at": "2026-02-02T09:03:44.916Z",
+  "gym_count": 60,
+  "gyms": [
+    {
+      "place_id": "ChIJ2dOfvnoZQjER_TCuiZsPPCQ",
+      "name": "Renzo Gracie Vietnam",
+      "address": "Sân Vận Động, Cổng số 1 Đ. Chi Lăng, Hải Châu, Đà Nẵng 550000, Vietnam",
+      "lat": 16.0685638,
+      "lng": 108.2169626,
+      "google_maps_url": "https://maps.google.com/?cid=2610979044672286973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/bjjdanang",
+      "logo": "/logos/ChIJ2dOfvnoZQjER_TCuiZsPPCQ.webp"
+    },
+    {
+      "place_id": "ChIJC8CK4aIpdTERzJR2XqQVX0U",
+      "name": "Gisdio Quận 1",
+      "address": "42 Đặng Dung, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.7926147,
+      "lng": 106.68951799999999,
+      "google_maps_url": "https://maps.google.com/?cid=4998737907108189388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.facebook.com/gisdio",
+      "logo": "/logos/ChIJC8CK4aIpdTERzJR2XqQVX0U.webp"
+    },
+    {
+      "place_id": "ChIJ8XA6tdqrNTER6EfrVed6v4E",
+      "name": "Vietnam Top Team MMA Academy",
+      "address": "153 Đội Cấn, Ngọc Hồ, Ba Đình, Hà Nội 100000, Vietnam",
+      "lat": 21.034908299999998,
+      "lng": 105.82650299999999,
+      "google_maps_url": "https://maps.google.com/?cid=9349326485441955816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/vietnamtopteam.mma.academy/",
+      "logo": "/logos/ChIJ8XA6tdqrNTER6EfrVed6v4E.webp"
+    },
+    {
+      "place_id": "ChIJD8yvaztdcDER7EDbKGD4Xnw",
+      "name": "SILVERBACK MMA HQ - Boxing - Muaythai - Jiu Jitsu - BJJ GI/NOGI - Wrestling",
+      "address": "168 Đ. Văn Tiến Dũng, VCN, Nha Trang, Khánh Hòa, Vietnam",
+      "lat": 12.240969,
+      "lng": 109.17584989999999,
+      "google_maps_url": "https://maps.google.com/?cid=8961873400399872236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.silverbackmmavn.com/",
+      "logo": "/logos/ChIJD8yvaztdcDER7EDbKGD4Xnw.webp"
+    },
+    {
+      "place_id": "ChIJkVZCB3ondTERjrg3wTyxPbc",
+      "name": "Team Shark Saigon",
+      "address": "Block B, Paris Hoàng Kim - Block B, 31 Đ. Số 1, Phường An Khánh, Quận 2, Thành phố Hồ Chí Minh 71109, Vietnam",
+      "lat": 10.7845625,
+      "lng": 106.7311963,
+      "google_maps_url": "https://maps.google.com/?cid=13203904557017970830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/bjj_teamsharksaigon/",
+      "logo": "/logos/ChIJkVZCB3ondTERjrg3wTyxPbc.webp"
+    },
+    {
+      "place_id": "ChIJBSVvjC4NQjERgdvC3ClGO5g",
+      "name": "Hoi An",
+      "address": "45 Cửa Đại, Hội An, Quảng Nam, Vietnam",
+      "lat": 15.895478999999998,
+      "lng": 108.3635412,
+      "google_maps_url": "https://maps.google.com/?cid=10969438463002336129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/profile.php?id=100085196934389&mibextid=LQQJ4d",
+      "logo": "/logos/ChIJBSVvjC4NQjERgdvC3ClGO5g.webp"
+    },
+    {
+      "place_id": "ChIJiScoZGWrNTERoSplElUf5B0",
+      "name": "AGOGE - MMA, Boxing, Kickboxing, Muay Thai, Jiujitsu, Wrestling - cơ sở Tây Hồ",
+      "address": "101, Xuân La, Tây Hồ, Hà Nội 11200, Vietnam",
+      "lat": 21.0647849,
+      "lng": 105.805444,
+      "google_maps_url": "https://maps.google.com/?cid=2153880972031240865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.agoge.vn/",
+      "logo": "/logos/ChIJiScoZGWrNTERoSplElUf5B0.webp"
+    },
+    {
+      "place_id": "ChIJ5-lmdpopdTERAO-ArBoMnr0",
+      "name": "Vinculum BJJ Academy",
+      "address": "3 Đường 45, Quận 2, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.7894236,
+      "lng": 106.73513520000002,
+      "google_maps_url": "https://maps.google.com/?cid=13663371628191477504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/VinculumBJJAcademy",
+      "logo": "/logos/ChIJ5-lmdpopdTERAO-ArBoMnr0.webp"
+    },
+    {
+      "place_id": "ChIJ2wioYcoZQjER4QuUZYmTSLU",
+      "name": "BOXING..BJJ ..TAEKWONDO",
+      "address": "70-72 Lê Cơ, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+      "lat": 16.0416588,
+      "lng": 108.2199414,
+      "google_maps_url": "https://maps.google.com/?cid=13062852937512127457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/tuannguyen_mma/profilecard/?igsh=MWVia2JmNXNqYWhwMg==",
+      "logo": "/logos/ChIJ2wioYcoZQjER4QuUZYmTSLU.webp"
+    },
+    {
+      "place_id": "ChIJL6DCh1kldTEREOChF78ZM7s",
+      "name": "Arkain Grappling Academy",
+      "address": "Riverside Residence Block C, 192 Nguyễn Lương Bằng, Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.7194595,
+      "lng": 106.7270946,
+      "google_maps_url": "https://maps.google.com/?cid=13489153617430700048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/arkaingrappling/",
+      "logo": "/logos/ChIJL6DCh1kldTEREOChF78ZM7s.webp"
+    },
+    {
+      "place_id": "ChIJpRE2MwAndTERbTLCxJr9tK8",
+      "name": "Kimura BJJ Saigon",
+      "address": "Chung cư Intresco An Khang, Đ. Số 19, Khu đô thị An Phú An Khánh, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.7973077,
+      "lng": 106.7398658,
+      "google_maps_url": "https://maps.google.com/?cid=12661023293613159021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/kimurasaigon/",
+      "logo": "/logos/ChIJpRE2MwAndTERbTLCxJr9tK8.webp"
+    },
+    {
+      "place_id": "ChIJb_BHhBQpdTERElaD30dNd1E",
+      "name": "OVER LIMIT BJJ SAIGON",
+      "address": "Vietnam, Ho Chi Minh City, Thành phố, Da Kao, VN Quận 1 Võ Thị Sáu 27/2",
+      "lat": 10.790826899999999,
+      "lng": 106.6955175,
+      "google_maps_url": "https://maps.google.com/?cid=5870245610388674066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://over-limit.com/overlimitvietnamsaigon/?fbclid=IwAR2uFAQN26XCW0Faf9DURqelTc1I1Oy7DRtzXf1XTDPdufJxTCeInK6ApKs",
+      "logo": "/logos/ChIJb_BHhBQpdTERElaD30dNd1E.webp"
+    },
+    {
+      "place_id": "ChIJ-fo7AIIldTERIbBx11gV7vo",
+      "name": "Saigon Sports Club",
+      "address": "514B Huỳnh Tấn Phát, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh 72914, Vietnam",
+      "lat": 10.7395474,
+      "lng": 106.7289247,
+      "google_maps_url": "https://maps.google.com/?cid=18081413025254977569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.saigonsportsclub.com/",
+      "logo": "/logos/ChIJ-fo7AIIldTERIbBx11gV7vo.webp"
+    },
+    {
+      "place_id": "ChIJEVr_1satNTER_zkT4yFXlAo",
+      "name": "RONIN BJJ Hanoi,",
+      "address": "Tầng 2, nhà N 2, Cục Quân Huấn, trung tâm thể dục thể thao quân đội, ngõ, 274 P. Nguyễn Lân, Khương Mai, Thanh Xuân, Hà Nội, Vietnam",
+      "lat": 20.9880626,
+      "lng": 105.8370363,
+      "google_maps_url": "https://maps.google.com/?cid=762330039987681791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://facebook.com/RoninBjjHanoi/",
+      "logo": "/logos/ChIJEVr_1satNTER_zkT4yFXlAo.webp"
+    },
+    {
+      "place_id": "ChIJm6E4m_ErdTERvExdjskC1fU",
+      "name": "Jiboia C88 Martial Arts Fitness & Yoga",
+      "address": "109/8 Song Hành Xa Lộ Hà Nội, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.802499599999999,
+      "lng": 106.73912829999999,
+      "google_maps_url": "https://maps.google.com/?cid=17714067774031875260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://jiboia-c88.vn/",
+      "logo": "/logos/ChIJm6E4m_ErdTERvExdjskC1fU.webp"
+    },
+    {
+      "place_id": "ChIJ66ZQLmVncDERWfRQaGOxs2Y",
+      "name": "SILVERBACK MMA 2 - Boxing - Muaythai - MMA - Jiu Jitsu - BJJ NOGI",
+      "address": "11 Trần Quang Diệu, Vĩnh Hải, Nha Trang, Khánh Hòa 100000, Vietnam",
+      "lat": 12.285559099999999,
+      "lng": 109.19430600000001,
+      "google_maps_url": "https://maps.google.com/?cid=7400453653209871449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.silverbackmmavn.com/",
+      "logo": "/logos/ChIJ66ZQLmVncDERWfRQaGOxs2Y.webp"
+    },
+    {
+      "place_id": "ChIJXzl3rHYpdTERuq2nFp_xF3k",
+      "name": "AvA Jiu Jitsu",
+      "address": "378/2A Xô Viết Nghệ Tĩnh, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 72300, Vietnam",
+      "lat": 10.804445,
+      "lng": 106.711902,
+      "google_maps_url": "https://maps.google.com/?cid=8725708468635807162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJXzl3rHYpdTERuq2nFp_xF3k.webp"
+    },
+    {
+      "place_id": "ChIJdTHiGbSrNTERokVx1RDN5Us",
+      "name": "AGOGE - MMA, Boxing, Kickboxing, Muay Thai, Jiujitsu, Wrestling - cơ sở Ba Đình",
+      "address": "đối diện 16 Thành Công, Ba Đình, Hà Nội, Khu tập thể Bắc Thành Công, Hanoi City, Hà Nội 11111, Vietnam",
+      "lat": 21.0218726,
+      "lng": 105.8155092,
+      "google_maps_url": "https://maps.google.com/?cid=5469002794695476642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.agoge.vn/",
+      "logo": "/logos/ChIJdTHiGbSrNTERokVx1RDN5Us.webp"
+    },
+    {
+      "place_id": "ChIJp47_y1VdcDERS71aTVwhqXM",
+      "name": "SILVERBACK MMA 3 - Boxing - Muaythai - MMA - Brazilian Jiu Jitsu - Kids Classes",
+      "address": "211 Đ. 23 Tháng 10, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+      "lat": 12.2521398,
+      "lng": 109.1754041,
+      "google_maps_url": "https://maps.google.com/?cid=8334229265744313675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.silverbackmmavn.com/",
+      "logo": "/logos/ChIJp47_y1VdcDERS71aTVwhqXM.webp"
+    },
+    {
+      "place_id": "ChIJTzc25OgvdTER9PYTtHDAVsY",
+      "name": "Lien Phong Training Center",
+      "address": "PP73+WJV, 101/29/15 Hẻm số 5 Lê Văn Lương, Phước Kiển, Nhà Bè, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.7148042,
+      "lng": 106.7041601,
+      "google_maps_url": "https://maps.google.com/?cid=14291822057796925172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.lienphongmma.com/",
+      "logo": "/logos/ChIJTzc25OgvdTER9PYTtHDAVsY.webp"
+    },
+    {
+      "place_id": "ChIJ_V6SNgAXQjERWatpSjeO6Aw",
+      "name": "Alliance Da Nang",
+      "address": "23 Trần Bạch Đằng, An Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+      "lat": 16.058481,
+      "lng": 108.24499569999999,
+      "google_maps_url": "https://maps.google.com/?cid=930149691174792025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ_V6SNgAXQjERWatpSjeO6Aw.webp"
+    },
+    {
+      "place_id": "ChIJFeAI0tVncDERwSVdtg9M1cE",
+      "name": "Gracie Barra Nha Trang - Jiu Jitsu School",
+      "address": "01-02 Đ. Hoàng Đình Giong, Phước Long, Nha Trang, Khánh Hòa 57131, Vietnam",
+      "lat": 12.2152699,
+      "lng": 109.18743950000001,
+      "google_maps_url": "https://maps.google.com/?cid=13967153449727239617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://instagram.com/graciebarra_nhatrang",
+      "logo": "/logos/ChIJFeAI0tVncDERwSVdtg9M1cE.webp"
+    },
+    {
+      "place_id": "ChIJj9tCmG0pdTERISfZ9WU57aU",
+      "name": "Over Under Submission Grappling",
+      "address": "31 Đ. Số 1, Quận 2, Thủ Đức, Thành phố Hồ Chí Minh 70000, Vietnam",
+      "lat": 10.785111899999999,
+      "lng": 106.7316745,
+      "google_maps_url": "https://maps.google.com/?cid=11956275695817664289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/share/15derHUSwQ/?mibextid=wwXIfr",
+      "logo": "/logos/ChIJj9tCmG0pdTERISfZ9WU57aU.webp"
+    },
+    {
+      "place_id": "ChIJp0SvHxIndTERGI0eaLM9jcg",
+      "name": "Thao Dien Jiu Jitsu",
+      "address": "40 Quốc Hương, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.806373899999999,
+      "lng": 106.73145740000001,
+      "google_maps_url": "https://maps.google.com/?cid=14451274620057062680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://bjjthaodien.com/",
+      "logo": "/logos/ChIJp0SvHxIndTERGI0eaLM9jcg.webp"
+    },
+    {
+      "place_id": "ChIJIXfQI5AZQjERex_MXbY3_pc",
+      "name": "MMA GYM ĐÀ NẴNG",
+      "address": "K38a/3 Nguyễn Hữu Thọ, Thạc Gián, Hải Châu, Đà Nẵng 550000, Vietnam",
+      "lat": 16.0486033,
+      "lng": 108.2090786,
+      "google_maps_url": "https://maps.google.com/?cid=10952252600208859003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://mmagymdanang.com/",
+      "logo": "/logos/ChIJIXfQI5AZQjERex_MXbY3_pc.webp"
+    },
+    {
+      "place_id": "ChIJdyTjFU5dcDERFC7NGpn2Lo4",
+      "name": "NHA TRANG SPORT UNITE",
+      "address": "65 Đường Phong Châu, Phước Hải, Nha Trang, Khánh Hòa 65000, Vietnam",
+      "lat": 12.236218599999999,
+      "lng": 109.1792681,
+      "google_maps_url": "https://maps.google.com/?cid=10245397339754540564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.facebook.com/.nhatrangsportuniteclub/.",
+      "logo": "/logos/ChIJdyTjFU5dcDERFC7NGpn2Lo4.webp"
+    },
+    {
+      "place_id": "ChIJ2w21Q1etNTERHd4GyopOWQ0",
+      "name": "RONIN BJJ Times City",
+      "address": "488 P. Minh Khai, Vĩnh Phú, Hai Bà Trưng, Hà Nội, Vietnam",
+      "lat": 20.9978922,
+      "lng": 105.8689201,
+      "google_maps_url": "https://maps.google.com/?cid=961886353422212637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ2w21Q1etNTERHd4GyopOWQ0.webp"
+    },
+    {
+      "place_id": "ChIJh3-sQigvdTER3jcyuGhXTwY",
+      "name": "Tiger MMA",
+      "address": "2 Hồ Xuân Hương, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.7773249,
+      "lng": 106.6874933,
+      "google_maps_url": "https://maps.google.com/?cid=454678194666223582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJh3-sQigvdTER3jcyuGhXTwY.webp"
+    },
+    {
+      "place_id": "ChIJn_Gd8bAodTERZXizKA1NArY",
+      "name": "TheGIS - Be Courageous",
+      "address": "42 Đặng Dung, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+      "lat": 10.7926147,
+      "lng": 106.68951799999999,
+      "google_maps_url": "https://maps.google.com/?cid=13115129783769069669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.thegisshop.com/",
+      "logo": "/logos/ChIJn_Gd8bAodTERZXizKA1NArY.webp"
+    },
+    {
+      "place_id": "ChIJN1G-kGFncDER5E5KqL3tDuU",
+      "name": "LP SPORT CLUB (NHA TRANG) - Boxing, Kick boxing, Muay Thai, Kudo, MMA, BJJ, KIDS class.",
+      "address": "Hẻm số 3 Trần Quang Khải, Lộc Thọ, Nha Trang, Khánh Hòa 336745, Vietnam",
+      "lat": 12.232178999999999,
+      "lng": 109.19477940000002,
+      "google_maps_url": "https://maps.google.com/?cid=16505391083187490532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/profile.php?id=61553412704304&mibextid=JRoKGi",
+      "logo": "/logos/ChIJN1G-kGFncDER5E5KqL3tDuU.webp"
+    },
+    {
+      "place_id": "ChIJZzR3L8pVNDERQdI_mZlNs1k",
+      "name": "Kimura BJJ Mỹ Đình",
+      "address": "Tầng 2, Nhà văn hóa tổ 3 Phú Mỹ, đường Mỹ Đình, Hà Nội, Mỹ Đình, Hanoi City, Hà Nội 10000, Vietnam",
+      "lat": 21.0269954,
+      "lng": 105.7728664,
+      "google_maps_url": "https://maps.google.com/?cid=6463595212303225409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJZzR3L8pVNDERQdI_mZlNs1k.webp"
+    },
+    {
+      "place_id": "ChIJedzQ10SrNTERNbuomMLCw9s",
+      "name": "Raijin BJJ Hanoi",
+      "address": "88A Ngõ 374 Âu Cơ, Nhật Tân, Tây Hồ, Hà Nội 000000, Vietnam",
+      "lat": 21.077415300000002,
+      "lng": 105.823606,
+      "google_maps_url": "https://maps.google.com/?cid=15835714855805434677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/profile.php?id=61571395554069&name=xhp_nt__fb__action__open_user",
+      "logo": "/logos/ChIJedzQ10SrNTERNbuomMLCw9s.webp"
+    },
+    {
+      "place_id": "ChIJ1ZwrOgApdTER8i1EmXvf8qc",
+      "name": "MJC: Midway Jiujitsu Club",
+      "address": "4 Floor, 135 Bùi Đình Tuý, Street, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.8078281,
+      "lng": 106.70497859999999,
+      "google_maps_url": "https://maps.google.com/?cid=12101980870643297778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/profile.php?id=61559287536040&mibextid=LQQJ4d",
+      "logo": "/logos/ChIJ1ZwrOgApdTER8i1EmXvf8qc.webp"
+    },
+    {
+      "place_id": "ChIJ9c8qQrcvdTERKkMjhGVlFnc",
+      "name": "Trigger Boxing",
+      "address": "284/5 Đ. Lũy Bán Bích, Hòa Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.774080099999999,
+      "lng": 106.63407029999999,
+      "google_maps_url": "https://maps.google.com/?cid=8581157626684064554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.triggerboxing.vn/#/trigger-boxing",
+      "logo": "/logos/ChIJ9c8qQrcvdTERKkMjhGVlFnc.webp"
+    },
+    {
+      "place_id": "ChIJNQhzKwCrNTERvy1Q310hx4g",
+      "name": "The Champ MMA",
+      "address": "Tầng 14, HCMCC TOWER, Đ. Văn Cao, Thuỵ Khuê, Tây Hồ, Hà Nội, Vietnam",
+      "lat": 21.043080699999997,
+      "lng": 105.8164716,
+      "google_maps_url": "https://maps.google.com/?cid=9855882996585868735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJNQhzKwCrNTERvy1Q310hx4g.webp"
+    },
+    {
+      "place_id": "ChIJHVSRQG0ndTERCLGCNd3WM2U",
+      "name": "Saigon Grappling Academy",
+      "address": "33 Võ Trường Toản, An Phú, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.8053414,
+      "lng": 106.74657859999999,
+      "google_maps_url": "https://maps.google.com/?cid=7292408467216838920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.instagram.com/saigongrapplingacademy/",
+      "logo": "/logos/ChIJHVSRQG0ndTERCLGCNd3WM2U.webp"
+    },
+    {
+      "place_id": "ChIJr2fEefCJoDERcXy4V0xKafE",
+      "name": "D307 Camp Cần Thơ ( Brazilian JiuJitsu )",
+      "address": "112a3 Đ. Trần Phú, Cái Khế, Ninh Kiều, Cần Thơ 90000, Vietnam",
+      "lat": 10.047102899999999,
+      "lng": 105.7825833,
+      "google_maps_url": "https://maps.google.com/?cid=17395516727444929649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJr2fEefCJoDERcXy4V0xKafE.webp"
+    },
+    {
+      "place_id": "ChIJfw34we0ldTERRJrP5h09MGw",
+      "name": "Thunder",
+      "address": "PPCG+JP3, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.7215182,
+      "lng": 106.72680070000001,
+      "google_maps_url": "https://maps.google.com/?cid=7795798153614039620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://m.facebook.com/THUNDERsweep/",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJGVBr52UvdTERr7qcSz0_qRs",
+      "name": "No.1 Muay Club",
+      "address": "Trần Hưng Đạo/274 B, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.7522992,
+      "lng": 106.6637129,
+      "google_maps_url": "https://maps.google.com/?cid=1993193842582272687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/No1MuayThai/",
+      "logo": "/logos/ChIJGVBr52UvdTERr7qcSz0_qRs.webp"
+    },
+    {
+      "place_id": "ChIJ741Et-IZQjERelLaOdinyxI",
+      "name": "JMB Sport CLUB",
+      "address": "01 Đỗ Xuân Cát, Thuận Phước, Hải Châu, Đà Nẵng 550000, Vietnam",
+      "lat": 16.0862788,
+      "lng": 108.2210083,
+      "google_maps_url": "https://maps.google.com/?cid=1354360660080349818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ741Et-IZQjERelLaOdinyxI.webp"
+    },
+    {
+      "place_id": "ChIJZQ4neEgvdTERVBUZNXLM09Q",
+      "name": "Địa chỉ bán đồ tập võ phục GI nhu thuật Brazil Jiu Jitsu BJJ nam nữ giá rẻ TPHCM",
+      "address": "187/3 Đ. Trần Văn Đang, Phường 11, Quận 3, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.7845975,
+      "lng": 106.6728021,
+      "google_maps_url": "https://maps.google.com/?cid=15335825947015845204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://fsfcenter.vn/quan-ao-trang-phuc-tap-bjj",
+      "logo": null
+    },
+    {
+      "place_id": "ChIJTdDAWdQudTER6tYPfAma46g",
+      "name": "Jikishin Jujitsu VietNam",
+      "address": "S10 01 Origami, Vinhomes Grand Park, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.8442745,
+      "lng": 106.83917710000001,
+      "google_maps_url": "https://maps.google.com/?cid=12169739983612008170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/JikishinJujitsuVietnam/",
+      "logo": "/logos/ChIJTdDAWdQudTER6tYPfAma46g.webp"
+    },
+    {
+      "place_id": "ChIJt2WuularNTER7WmrtVUO7-4",
+      "name": "7FIT - GYM",
+      "address": "2 P. Đường Thành, Cửa Đông, Hoàn Kiếm, Hà Nội, Vietnam",
+      "lat": 21.0334997,
+      "lng": 105.845841,
+      "google_maps_url": "https://maps.google.com/?cid=17216995661743614445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/7fitprivatefitness",
+      "logo": "/logos/ChIJt2WuularNTER7WmrtVUO7-4.webp"
+    },
+    {
+      "place_id": "ChIJi_KChHAZQjERWth4M1TTu7E",
+      "name": "Fighter MMA DaNang",
+      "address": "01 Trần Quang Diệu, An Hải Tây, Sơn Trà, Đà Nẵng 550000, Vietnam",
+      "lat": 16.054990399999998,
+      "lng": 108.2342503,
+      "google_maps_url": "https://maps.google.com/?cid=12807062323952408666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://mmadanang.com/",
+      "logo": "/logos/ChIJi_KChHAZQjERWth4M1TTu7E.webp"
+    },
+    {
+      "place_id": "ChIJre5-XQApdTERkqiL1mQfDZo",
+      "name": "Guardian HCMC",
+      "address": "1 Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+      "lat": 10.7907929,
+      "lng": 106.7058277,
+      "google_maps_url": "https://maps.google.com/?cid=11100563174494808210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJre5-XQApdTERkqiL1mQfDZo.webp"
+    },
+    {
+      "place_id": "ChIJSYVDMbYndTERI6uy7FlhPFI",
+      "name": "Train With Primal",
+      "address": "13 Nguyễn Duy Hiệu, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.802666499999999,
+      "lng": 106.7346364,
+      "google_maps_url": "https://maps.google.com/?cid=5925718248563845923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://trainwithprimal.vn/",
+      "logo": "/logos/ChIJSYVDMbYndTERI6uy7FlhPFI.webp"
+    },
+    {
+      "place_id": "ChIJPZtPQhomdTEReSgRJ-Q27V0",
+      "name": "California Fitness & Yoga Thảo Điền Pearl",
+      "address": "Pearl, 12 Quốc Hương, Lầu 3, Quận 2, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.8014998,
+      "lng": 106.7328879,
+      "google_maps_url": "https://maps.google.com/?cid=6768126168543602809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://cali.vn/ho-chi-minh/thao-dien-club",
+      "logo": "/logos/ChIJPZtPQhomdTEReSgRJ-Q27V0.webp"
+    },
+    {
+      "place_id": "ChIJJ5HRTMehQTERhqM1EXPS-WA",
+      "name": "Hue Fighter",
+      "address": "11B, Kiệt 27 Hoàng Quốc Việt, An Đông, Huế, Thành phố Huế, Vietnam",
+      "lat": 16.459293499999998,
+      "lng": 107.60973129999999,
+      "google_maps_url": "https://maps.google.com/?cid=6987847688493835142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/huefighter/",
+      "logo": "/logos/ChIJJ5HRTMehQTERhqM1EXPS-WA.webp"
+    },
+    {
+      "place_id": "ChIJ32Xaox0vdTER07CUSBJARFs",
+      "name": "Sói",
+      "address": "14, Ward, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.769828799999999,
+      "lng": 106.66244160000001,
+      "google_maps_url": "https://maps.google.com/?cid=6576451803139059923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJ32Xaox0vdTER07CUSBJARFs.webp"
+    },
+    {
+      "place_id": "ChIJ_6guU4GpNTERZPuofYqofLI",
+      "name": "C88 x DP Jiu Jitsu",
+      "address": "470 Đ. Nguyễn Văn Cừ, Ngọc Lâm, Long Biên, Hà Nội 100000, Vietnam",
+      "lat": 21.0473516,
+      "lng": 105.8796661,
+      "google_maps_url": "https://maps.google.com/?cid=12861339948630473572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/people/C88-X-DP-Jiu-Jitsu/61551361796210/",
+      "logo": "/logos/ChIJ_6guU4GpNTERZPuofYqofLI.webp"
+    },
+    {
+      "place_id": "ChIJBf2qWSTcdDER6PlBwAP8y0Y",
+      "name": "GYM X-MEN Tân Tiến",
+      "address": "Hẻm 1241 Khu phố 12, Tân Mai, Biên Hòa, Đồng Nai, Vietnam",
+      "lat": 10.9633094,
+      "lng": 106.8494108,
+      "google_maps_url": "https://maps.google.com/?cid=5101448095967869416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://xmenfightclub.vn/",
+      "logo": "/logos/ChIJBf2qWSTcdDER6PlBwAP8y0Y.webp"
+    },
+    {
+      "place_id": "ChIJH4atxDsndTERQpo40wYMmis",
+      "name": "MMA SAIGON",
+      "address": "95 Quang Trung, P, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.839112,
+      "lng": 106.7729228,
+      "google_maps_url": "https://maps.google.com/?cid=3141836913497381442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": null,
+      "logo": "/logos/ChIJH4atxDsndTERQpo40wYMmis.webp"
+    },
+    {
+      "place_id": "ChIJX7nR2oEpdTERxHw9YvEQmrA",
+      "name": "MMA , boxing, kickboxing",
+      "address": "554 Lê Trọng Tấn, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.8114996,
+      "lng": 106.6106885,
+      "google_maps_url": "https://maps.google.com/?cid=12725502326010117316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://mma-gym.vn/",
+      "logo": "/logos/ChIJX7nR2oEpdTERxHw9YvEQmrA.webp"
+    },
+    {
+      "place_id": "ChIJN8Cq06spdTERMqY1jJaSjFs",
+      "name": "C88 Martial Arts fitness & Yoga quận 1",
+      "address": "39/6 Đ. Trần Nhật Duật, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+      "lat": 10.7935009,
+      "lng": 106.69010499999999,
+      "google_maps_url": "https://maps.google.com/?cid=6596808729486009906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/C88martialartsfitness",
+      "logo": "/logos/ChIJN8Cq06spdTERMqY1jJaSjFs.webp"
+    },
+    {
+      "place_id": "ChIJKV581iBVNDERv_BhjW7Bby8",
+      "name": "Giai Grappling& Brazillian Jiujitsu& MMA Facility Supplier",
+      "address": "77 P. Dương Khuê, Mỹ Đình, Nam Từ Liêm, Hà Nội 12014, Vietnam",
+      "lat": 21.0335948,
+      "lng": 105.77259509999999,
+      "google_maps_url": "https://maps.google.com/?cid=3418163322760065215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://giai.vn/",
+      "logo": "/logos/ChIJKV581iBVNDERv_BhjW7Bby8.webp"
+    },
+    {
+      "place_id": "ChIJZ2q3giMndTERip4Qy6NdXV8",
+      "name": "RAM Muay Thai",
+      "address": "33 Võ Trường Toản, An Phú, Quận 2, Thành phố Hồ Chí Minh 713000, Vietnam",
+      "lat": 10.805401999999999,
+      "lng": 106.74664299999999,
+      "google_maps_url": "https://maps.google.com/?cid=6871751564505161354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://rammuaythai.com/",
+      "logo": "/logos/ChIJZ2q3giMndTERip4Qy6NdXV8.webp"
+    },
+    {
+      "place_id": "ChIJS-c8HBkmdTERU6SOJgGGYnc",
+      "name": "K1 Fitness & Fight Factory",
+      "address": "40 Quốc Hương, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.8063229,
+      "lng": 106.73125209999999,
+      "google_maps_url": "https://maps.google.com/?cid=8602585577731040339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.facebook.com/k1.fitness.and.boxing.factory",
+      "logo": "/logos/ChIJS-c8HBkmdTERU6SOJgGGYnc.webp"
+    },
+    {
+      "place_id": "ChIJq5CRka0vdTERK41tbi6jjog",
+      "name": "WOLF MUAY THAI GYM-VIET NAM",
+      "address": "Lầu 3, Số 133, 3 Hẻm 133 Nguyễn Chí Thanh, Phường 9, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.759110399999999,
+      "lng": 106.66741719999999,
+      "google_maps_url": "https://maps.google.com/?cid=9839981655667608875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.wolfmuaythaigym.com/",
+      "logo": "/logos/ChIJq5CRka0vdTERK41tbi6jjog.webp"
+    },
+    {
+      "place_id": "ChIJYbYJuN4vdTEROKgWd-eKZ7w",
+      "name": "MMA Top Team Saigon",
+      "address": "139 Đ. Bắc Hải, Phường 14, Quận 10, Thành phố Hồ Chí Minh 700000, Vietnam",
+      "lat": 10.7810277,
+      "lng": 106.6595033,
+      "google_maps_url": "https://maps.google.com/?cid=13575972328471701560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "http://www.saigontopteammma.com/",
+      "logo": "/logos/ChIJYbYJuN4vdTEROKgWd-eKZ7w.webp"
+    },
+    {
+      "place_id": "ChIJN493XbIvdTERA625ujxxQPk",
+      "name": "team flow jiu jitsu",
+      "address": "808 Đường Nguyễn Văn Linh, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+      "lat": 10.731803099999999,
+      "lng": 106.71663629999999,
+      "google_maps_url": "https://maps.google.com/?cid=17960479819598245123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "website": "https://www.facebook.com/profile.php?id=100027328901184",
+      "logo": "/logos/ChIJN493XbIvdTERA625ujxxQPk.webp"
+    }
+  ]
+}
