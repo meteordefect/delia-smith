@@ -33,6 +33,7 @@ Gym logos are downloaded and converted to webp. Country pages are statically gen
 
 | Document | Description |
 |----------|-------------|
+| [AGENTS.md](./AGENTS.md) | **Start here for AI/LLM context** — single-file overview of the entire product |
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | System design, data pipeline, scripts reference |
 | [PRD.md](./PRD.md) | Product requirements |
 | [RUNSHEET.md](./RUNSHEET.md) | Execution checklist |
