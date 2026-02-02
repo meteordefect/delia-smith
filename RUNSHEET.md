@@ -52,36 +52,36 @@ ok - [x] Node.js script using Google Maps Places API
 
 ### F2 — Country Selector
 
-- [ ] Searchable dropdown component
-- [ ] Keyboard + touch friendly
-- [ ] Animates map transition on country change
+- [x] Searchable dropdown component
+- [x] Keyboard + touch friendly
+- [x] Animates map transition on country change
 
 ### F3 — Map Component
 
-- [ ] Client Component with Mapbox GL JS
-- [ ] Camera controls:
+- [x] Client Component with Mapbox GL JS
+- [x] Camera controls:
   - Mobile: pinch / drag
   - Desktop: scroll / mouse
-- [ ] Country bounding box zoom
+- [x] Country bounding box zoom
 
 ### F4 — Gym Marker System
 
-- [ ] Logos as floating cards/sprites
-- [ ] Z-index management
-- [ ] Collision avoidance (simple offset stacking)
-- [ ] Tap/click opens detail panel
+- [x] Logos as floating cards/sprites
+- [x] Z-index management
+- [x] Collision avoidance (simple offset stacking)
+- [x] Tap/click opens detail panel
 
 ### F5 — Motion Layer
 
-- [ ] GSAP timelines for:
+- [x] GSAP timelines for:
   - Country change
   - Zoom events
   - Marker entry
-- [ ] Respect `prefers-reduced-motion`
+- [x] Respect `prefers-reduced-motion`
 
 ### F6 — Performance Hardening
 
-- [ ] Dynamic import for map libraries
-- [ ] Image optimization
-- [ ] Memoized renders
-- [ ] Avoid re-instantiating scenes
+- [x] Dynamic import for map libraries
+- [x] Image optimization
+- [x] Memoized renders
+- [x] Avoid re-instantiating scenes

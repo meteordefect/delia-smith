@@ -2,25 +2,17 @@ import { promises as fs } from "fs";
 import path from "path";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import dynamic from "next/dynamic";
 
-interface Gym {
-  place_id: string;
-  name: string;
-  address: string;
-  lat: number;
-  lng: number;
-  google_maps_url: string;
-  website: string | null;
-  logo: string | null;
-}
+import CountrySelector from "../components/CountrySelector";
+import { Gym, CountryData } from "../types";
 
-interface CountryData {
-  country: string;
-  country_code: string;
-  normalized_at: string;
-  gym_count: number;
-  gyms: Gym[];
-}
+const Map = dynamic(() => import("../components/Map"), {
+  ssr: false,
+  loading: () => (
+    <div className="mb-8 h-[50vh] min-h-[400px] w-full animate-pulse rounded-xl border border-border bg-gray-100" />
+  ),
+});
 
 async function getCountryCodes(): Promise<string[]> {
   const gymsDir = path.join(process.cwd(), "data", "gyms");
@@ -81,14 +73,17 @@ export default async function CountryPage({
   return (
     <main className="min-h-screen bg-background">
       <div className="mx-auto max-w-7xl px-6 py-12">
-        <Link
-          href="/"
-          className="inline-flex items-center text-sm text-secondary hover:text-foreground transition-colors mb-8"
-        >
-          ← Back to countries
-        </Link>
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
+          <Link
+            href="/"
+            className="inline-flex items-center text-sm text-secondary hover:text-foreground transition-colors"
+          >
+            ← Back to countries
+          </Link>
+          <CountrySelector currentCountryCode={data.country_code} />
+        </div>
 
-        <header className="mb-12">
+        <header className="mb-8">
           <h1 className="text-4xl font-semibold text-foreground">
             {data.country}
           </h1>
@@ -96,6 +91,8 @@ export default async function CountryPage({
             {data.gym_count} BJJ {data.gym_count === 1 ? "gym" : "gyms"}
           </p>
         </header>
+
+        <Map gyms={data.gyms} countryCode={data.country_code} />
 
         <section>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
