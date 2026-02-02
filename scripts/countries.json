@@ -13,5 +13,6 @@
   { "name": "Thailand", "code": "TH" },
   { "name": "United Arab Emirates", "code": "AE" },
   { "name": "United Kingdom", "code": "GB" },
-  { "name": "United States", "code": "US" }
+  { "name": "United States", "code": "US" },
+  { "name": "Vietnam", "code": "VN" }
 ]

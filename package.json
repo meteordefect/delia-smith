@@ -11,13 +11,15 @@
     "ingest": "node scripts/ingest.js",
     "ingest:country": "node scripts/ingest.js --country",
     "normalize": "node scripts/normalize.js",
-    "add-gym": "node scripts/add-gym.js"
+    "add-gym": "node scripts/add-gym.js",
+    "ingest-city": "node scripts/ingest-city.js"
   },
   "dependencies": {
     "clsx": "^2.1.0",
     "dotenv": "^16.4.5",
     "framer-motion": "^11.0.3",
     "gsap": "^3.14.2",
+    "lucide-react": "^0.563.0",
     "mapbox-gl": "^3.18.1",
     "next": "^14.1.0",
     "react": "^18.2.0",

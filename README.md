@@ -2,13 +2,13 @@
 
 Interactive map showing Brazilian Jiu-Jitsu gyms worldwide. Select a country, see gyms plotted with logos, tap for details and Google Maps links.
 
-Built with Next.js, Mapbox GL JS, and GSAP. Fully static, zero runtime cost, deploys to Vercel free tier.
+## Stack
 
-## Docs
-
-- [PRD.md](./PRD.md) — Full product requirements
-- [RUNSHEET.md](./RUNSHEET.md) — Execution checklist (backend/frontend stages)
-- [BUILD_LOG.md](./BUILD_LOG.md) — Metrics: prompts, model switches, phase completion
+- **Frontend:** Next.js 14, React, Tailwind CSS
+- **Map:** Mapbox GL JS
+- **Animation:** GSAP
+- **Data:** Google Maps Places API (build-time only)
+- **Deploy:** Vercel (static, zero runtime cost)
 
 ## Quick Start
 
@@ -17,38 +17,38 @@ npm install
 npm run dev
 ```
 
-## Data
+Open [http://localhost:3000](http://localhost:3000).
 
-Gym data lives in `/data/gyms/{country}.json`. Generated offline via ingestion scripts, never fetched at runtime.
+## How It Works
 
-## Scripts
+All gym data is fetched at build time from Google Maps Places API. The deployed site is fully static — no API calls, no backend, no runtime costs.
 
-```bash
-# Ingest all countries from Google Places
-npm run ingest
-
-# Ingest a single country
-npm run ingest -- --country=NL
-
-# Normalize raw data + download logos
-npm run normalize
-
-# Manually add a single gym (favorites, one-offs)
-npm run add-gym <place_id_or_url>
+```
+Google Maps API → Ingestion Scripts → Static JSON → Next.js Build → Vercel CDN
 ```
 
-### Adding a Gym Manually
+Gym logos are downloaded and converted to webp. Country pages are statically generated from `/data/gyms/*.json`.
 
-To add a favorite gym or one-off:
+## Documentation
 
-1. Find the gym on Google Maps
-2. Copy the place ID from the URL (starts with `ChIJ`) or copy the full URL
-3. Run:
+| Document | Description |
+|----------|-------------|
+| [ARCHITECTURE.md](./ARCHITECTURE.md) | System design, data pipeline, scripts reference |
+| [PRD.md](./PRD.md) | Product requirements |
+| [RUNSHEET.md](./RUNSHEET.md) | Execution checklist |
+| [BUILD_LOG.md](./BUILD_LOG.md) | Build metrics and logs |
+
+## Common Tasks
 
 ```bash
-npm run add-gym ChIJSzbAeNMLxkcRZ-4wS5kPvBQ
-# or
-npm run add-gym "https://www.google.com/maps/place/...?place_id=ChIJ..."
+# Add a new country
+npm run ingest -- --country=VN && npm run normalize
+
+# Fill city coverage gaps
+npm run ingest-city -- --city="Canberra" --country=AU
+
+# Add a single gym manually
+npm run add-gym ChIJxxxxxxxxxxxxxx
 ```
 
-This fetches the gym details, downloads the logo, and adds it to the appropriate country file. Marked with `manual_add: true` so you can identify hand-picked gyms.
+See [ARCHITECTURE.md](./ARCHITECTURE.md) for full scripts reference and data pipeline details.

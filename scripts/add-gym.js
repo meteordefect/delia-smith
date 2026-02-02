@@ -31,9 +31,11 @@ const COUNTRY_CODES = {
   'united arab emirates': 'AE',
   'united kingdom': 'GB',
   'united states': 'US',
+  'vietnam': 'VN',
   'usa': 'US',
   'uk': 'GB',
   'uae': 'AE',
+  'vn': 'VN',
 };
 
 function extractPlaceId(input) {

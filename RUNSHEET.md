@@ -85,3 +85,53 @@ ok - [x] Node.js script using Google Maps Places API
 - [x] Image optimization
 - [x] Memoized renders
 - [x] Avoid re-instantiating scenes
+
+---
+
+## Supplementary Data Stages
+
+> **Purpose:** Add new countries and fill city-level gaps in coverage.
+
+### S1 — Add New Country
+
+To add a new country to the tracker:
+
+1. Add entry to `scripts/countries.json`:
+   ```json
+   { "name": "Vietnam", "code": "VN" }
+   ```
+2. Add country to `COUNTRY_CODES` in `scripts/add-gym.js`
+3. Run country-level ingestion:
+   ```bash
+   npm run ingest -- --country=VN
+   ```
+4. Normalize the data:
+   ```bash
+   npm run normalize
+   ```
+
+### S2 — City-Level Gap Filling
+
+When country-level ingestion misses specific cities:
+
+```bash
+npm run ingest-city -- --city="City Name" --country=XX
+```
+
+Examples:
+```bash
+npm run ingest-city -- --city="Canberra" --country=AU
+npm run ingest-city -- --city="Da Nang" --country=VN
+```
+
+This merges results directly into the country dataset with automatic deduplication.
+
+### S3 — Manual Gym Addition
+
+To add a single gym by Google Maps place_id:
+
+```bash
+npm run add-gym ChIJxxxxxxxxxxxxxx
+```
+
+Or with a Google Maps URL containing the place_id.

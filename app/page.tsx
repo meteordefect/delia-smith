@@ -37,7 +37,7 @@ export default async function Home() {
     <main className="min-h-screen bg-background">
       <div className="mx-auto max-w-4xl px-6 py-16">
         <header className="text-center mb-16">
-          <h1 className="text-5xl font-semibold text-foreground">BJJ Tracker</h1>
+          <h1 className="text-5xl font-semibold text-foreground">Delia Smith BJJ</h1>
           <p className="mt-4 text-lg text-secondary">
             {totalGyms} gyms across {countries.length} countries
           </p>
