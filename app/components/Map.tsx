@@ -22,19 +22,20 @@ function applyCollisionOffsets(gyms: Gym[]): GymWithOffset[] {
   const PRECISION = 3; // decimal places for grouping (~111m at equator)
   const OFFSET_PX = 12; // pixel offset between stacked markers
   
-  const groups = new Map<string, Gym[]>();
+  const coordGroups: Record<string, Gym[]> = {};
   
   // Group by rounded coordinates
   gyms.forEach((gym) => {
     const key = `${gym.lat.toFixed(PRECISION)},${gym.lng.toFixed(PRECISION)}`;
-    const group = groups.get(key) || [];
-    group.push(gym);
-    groups.set(key, group);
+    if (!coordGroups[key]) {
+      coordGroups[key] = [];
+    }
+    coordGroups[key].push(gym);
   });
   
   const result: GymWithOffset[] = [];
   
-  groups.forEach((group) => {
+  Object.values(coordGroups).forEach((group) => {
     // Spiral offset pattern for stacked markers
     group.forEach((gym, index) => {
       const angle = (index * 60 * Math.PI) / 180; // 60 degree increments
